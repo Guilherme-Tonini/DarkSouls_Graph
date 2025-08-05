@@ -9,19 +9,31 @@ pip install -r requirements.txt
 ## Project Structure
 
 
-├── AI_usage.md               # Description of how AI tools supported the project
-├── README.md                 # Project overview and setup instructions
-├── Extract & Transformation.ipynb
-├── Insights & QA.ipynb
-├── dark_souls_graph.graphml # Full graph file for offline exploration
-├── web_graph_info.txt        # Neo4j access info (URI, username, password)
-├── dfdialogs.csv             # In-game dialogue lines
-├── dfitens.csv               # Item names and descriptions
-├── dfother.csv               # System messages, character names, and locations
-├── entidades.csv             # All entities and their types
-├── relacoes.csv              # Entity relationships
-├── nodes.csv                 # Formatted node list for Neo4j import
-├── edges.csv                 # Formatted edge list for Neo4j import
+-AI_usage.md               # Description of how AI tools supported the project
+
+-README.md                 # Project overview and setup instructions
+
+-Extract & Transformation.ipynb
+
+-Insights & QA.ipynb
+
+-dark_souls_graph.graphml # Full graph file for offline exploration
+
+-web_graph_info.txt        # Neo4j access info (URI, username, password)
+
+-dfdialogs.csv             # In-game dialogue lines
+
+-dfitens.csv               # Item names and descriptions
+
+-dfother.csv               # System messages, character names, and locations
+
+-entidades.csv             # All entities and their types
+
+-relacoes.csv              # Entity relationships
+
+-nodes.csv                 # Formatted node list for Neo4j import
+
+-edges.csv                 # Formatted edge list for Neo4j import
 
 ## Run Locally
 
