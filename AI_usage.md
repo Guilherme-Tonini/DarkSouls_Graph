@@ -21,7 +21,7 @@ ChatGPT was employed as a key tool for interpreting item descriptions and dialog
 
 This allowed for the dynamic expansion of the entity database by uncovering hidden or implicit references and relationships that might be missed through traditional rule-based methods alone.
 
-## Automation
+## 3. Automation
 
 ChatGPT was instrumental in automating key steps of the knowledge graph pipeline. Once entities and their relationships had been extracted and organized, ChatGPT was used to generate .graphml files for seamless import into graph visualization tools. Additionally, it produced well-structured .csv files for nodes and edges, tailored for direct integration with Neo4j Aura.
 
