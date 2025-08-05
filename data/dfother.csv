@@ -1,0 +1,293 @@
+﻿id;Information;Text
+1;Place Name;Northern Undead Asylum
+2;Place Name;Firelink Shrine
+3;Place Name;Valley of Drakes
+4;Place Name;New Londo Ruins
+5;Place Name;The Abyss
+6;Place Name;Undead Burg
+7;Place Name;Sunlight Altar
+8;Place Name;Undead Parish
+9;Place Name;Depths
+10;Place Name;Blighttown
+11;Place Name;Quelaag's Domain
+12;Place Name;Daughter of Chaos
+13;Place Name;Demon Ruins
+14;Place Name;Lost Izalith
+15;Place Name;The Great Hollow
+16;Place Name;Ash Lake
+17;Place Name;Stone Dragon
+18;Place Name;Darkroot Garden
+19;Place Name;Darkroot Basin
+20;Place Name;Sanctuary Garden
+21;Place Name;Oolacile Sanctuary
+22;Place Name;Royal Wood
+23;Place Name;Oolacile Township
+24;Place Name;Chasm of the Abyss
+25;Place Name;Oolacile Township Dungeon
+26;Place Name;Battle of Stoicism
+27;Place Name;The Catacombs
+28;Place Name;Tomb of the Giants
+29;Place Name;Altar of the Gravelord
+30;Place Name;Sen's Fortress
+31;Place Name;Anor Londo
+32;Place Name;Chamber of the Princess
+33;Place Name;Darkmoon Tomb
+34;Place Name;The Duke's Archives
+35;Place Name;Crystal Cave
+36;Place Name;Painted World of Ariamis
+37;Place Name;Firelink Altar
+38;Place Name;Kiln of the First Flame
+39;NPC Name;Knight Solaire
+40;NPC Name;Dusk of Oolacile
+41;NPC Name;Iron Tarkus
+42;NPC Name;Witch Beatrice
+43;NPC Name;Maneater Mildred
+44;NPC Name;Paladin Leeroy
+45;NPC Name;Knight Kirk
+46;NPC Name;King Jeremiah
+47;NPC Name;Knight Lautrec
+48;NPC Name;Demon Firesage
+49;NPC Name;Stray Demon
+50;NPC Name;Asylum Demon
+51;NPC Name;Capra Demon
+52;NPC Name;Taurus Demon
+53;NPC Name;Iron Golem
+54;NPC Name;Executioner Smough
+55;NPC Name;Crossbreed Priscilla
+56;NPC Name;Moonlight Butterfly
+57;NPC Name;Pinwheel
+58;NPC Name;Sanctuary Guardian
+59;NPC Name;Knight Artorias
+60;NPC Name;Manus, Father of the Abyss
+61;NPC Name;Black Dragon Kalameet
+62;NPC Name;Centipede Demon
+63;NPC Name;Great Grey Wolf Sif
+64;NPC Name;Gravelord Nito
+65;NPC Name;Ceaseless Discharge
+66;NPC Name;Gaping Dragon
+67;NPC Name;Dragon Slayer Ornstein
+68;NPC Name;Chaos Witch Quelaag
+69;NPC Name;Seath the Scaleless
+70;NPC Name;Dark Sun Gwyndolin
+71;NPC Name;Bell Gargoyle
+72;NPC Name;Gwyn, Lord of Cinder
+73;NPC Name;Four Kings
+74;NPC Name;Bed of Chaos
+75;NPC Name;Gravelord Servant
+76;Gesture;Beckon
+77;Gesture;Point forward
+78;Gesture;Hurrah!
+79;Gesture;Bow
+80;Gesture;Joy
+81;Gesture;Shrug
+82;Gesture;Wave
+83;Gesture;Praise the Sun
+84;Gesture;Point up
+85;Gesture;Point down
+86;Gesture;Look skyward
+87;Gesture;Well! What is it!
+88;Gesture;Prostration
+89;Gesture;Proper bow
+90;Gesture;Prayer
+91;Create Character;【Warrior】
+92;Create Character;Fearless warrior. Weapon expert. High strength, dexterity.
+93;Create Character;【Knight】
+94;Create Character;Low-ranking knight. High HP, solid armor. Not easily toppled.
+95;Create Character;【Wanderer】
+96;Create Character;Aimless wanderer. Wields scimitar. High dexterity.
+97;Create Character;【Thief】
+98;Create Character;Guilt-ridden thief. High critical hits. Has Master Key.
+99;Create Character;【Bandit】
+100;Create Character;Savage bandit. High strength. Wields heavy battle axe.
+101;Create Character;【Hunter】
+102;Create Character;Bow-wielding hunter. OK at close-range but weak with magic.
+103;Create Character;【Sorcerer】
+104;Create Character;Sorcerer of Vinheim Dragon School. Casts soul sorceries.
+105;Create Character;【Pyromancer】
+106;Create Character;Swamp pyromancer. Casts fire spells and wields a hand axe.
+107;Create Character;【Cleric】
+108;Create Character;Cleric on Pilgrimage Wields a mace and casts healing miracles.
+109;Create Character;【Deprived】
+110;Create Character;Unclothed enigma. Only armed with club and old plank shield.
+111;Create Character;【None】
+112;Create Character;No sign of a gift
+113;Create Character;【Goddess's Blessing】
+114;Create Character;Divine holy water. Fully restores HP and status.
+115;Create Character;【Black Firebomb】
+116;Create Character;Explodes upon impact when thrown. More deadly than std bomb.
+117;Create Character;【Twin Humanities】
+118;Create Character;Tiny sprite called humanity. Sometimes found on carcasses.
+119;Create Character;【Binoculars】
+120;Create Character;Binoculars. Use to peer at faraway sights.
+121;Create Character;【Pendant】
+122;Create Character;Trinket. No effect, but fond memories comfort travelers.
+123;Create Character;【Master Key】
+124;Create Character;Opens any basic lock. Initial equip for thief.
+125;Create Character;【Tiny Being's Ring】
+126;Create Character;Special tribal ring. Grants small increase to HP.
+127;Create Character;【Old Witch's Ring】
+128;Create Character;Gift from a witch. Ancient ring with no obvious effect.
+129;Create Character;【Commoner】
+130;Create Character;Very average commoner face
+131;Create Character;【Delta Farmer】
+132;Create Character;Commonly seen face in the Fivefinger Delta
+133;Create Character;【Astora Noble】
+134;Create Character;Handsome face of the refined. Common in Astora
+135;Create Character;【Dragon Scholar】
+136;Create Character;Intelligent, sharp lines, but scholarly looks invite insult
+137;Create Character;【Thorolund Cleric】
+138;Create Character;Look common in Thorolund, known for its stalwart clerics
+139;Create Character;【Jubilant Catarina】
+140;Create Character;Jovial features of Catarina, known for festivity and drink
+141;Create Character;【Dubious Carim】
+142;Create Character;Ominous features associated with the Earl of Carim
+143;Create Character;【Classic Zena】
+144;Create Character;Thoughtful, mature face common in historical Zena
+145;Create Character;【Eerie Great Swamp】
+146;Create Character;Great Swamp heretics face prejudice for their atypical looks
+147;Create Character;【Far East Traveler】
+148;Create Character;Face from a distant Eastern land of almond eyes and thin lips
+149;Create Character;【Shaved】
+150;Create Character;Cleanly shaved bald head
+151;Create Character;【Receding】
+152;Create Character;Rough warrior hair. Shows age.
+153;Create Character;【Short】
+154;Create Character;Clipped short with a slight wave
+155;Create Character;【Swept Back】
+156;Create Character;Long hair pulled back
+157;Create Character;【Ponytail】
+158;Create Character;Long hair pulled back and bound
+159;Create Character;【Wild】
+160;Create Character;Natural long hair, accented by sweat
+161;Create Character;【Parted Center】
+162;Create Character;Neatly kept hair, common for youth
+163;Create Character;【Semi-Long】
+164;Create Character;Neatly kept hair, slightly long
+165;Create Character;【Curly】
+166;Create Character;Sharply curled hair, cut short
+167;Create Character;【Bobbed】
+168;Create Character;Neatly trimmed, as the old nobility
+169;Create Character;【Shaved】
+170;Create Character;Cleanly shaved bald head
+171;Create Character;【Very Short】
+172;Create Character;Masculine hairstyle. Clipped short.
+173;Create Character;【Wave】
+174;Create Character;Wildly curled, short hair
+175;Create Character;【Straight A】
+176;Create Character;Squarely chopped straight hair, with bangs
+177;Create Character;【Straight B】
+178;Create Character;Squarely chopped straight hair, with bangs parted
+179;Create Character;【Ponytail A】
+180;Create Character;Long hair pulled back and bound, with bangs
+181;Create Character;【Ponytail B】
+182;Create Character;Long hair and bangs pulled back and bound
+183;Create Character;【Pigtails】
+184;Create Character;Long hair bound on both sides
+185;Create Character;【Bun】
+186;Create Character;Long hair, bound loosely
+187;Create Character;【Braided】
+188;Create Character;Long braided hair, as the old nobility
+189;Create Character;【Black】
+190;Create Character;Black hair/eyes. Basic color.
+191;Create Character;【Dark Brown】
+192;Create Character;Dark brown hair/eyes. Basic color.
+193;Create Character;【Light Brown】
+194;Create Character;Light brown hair/eyes. Basic color.
+195;Create Character;【Dark Red】
+196;Create Character;Dark red hair/eyes. Basic color.
+197;Create Character;【Dark Blue】
+198;Create Character;Dark blue hair/eyes. Common in Carim.
+199;Create Character;【Gray】
+200;Create Character;Gray hair/eyes. Common in N. Catarina.
+201;Create Character;【Gold】
+202;Create Character;Gold hair/eyes. Beloved by certain members of nobility.
+203;Create Character;【Silver】
+204;Create Character;Silver hair/eyes. Considered antiquated in these times.
+205;Create Character;【Dark Purple】
+206;Create Character;Dark purple hair/eyes. Rare color of a near-extinct race.
+207;Create Character;【Red】
+208;Create Character;Burning red hair/eyes. Very rare color.
+209;System;Sealed by the Great Lord's power
+210;System;Seal of the Great Lord was broken
+211;System;You were taken by the abyss
+212;System;Ring of Sacrifice shattered
+213;System;Rare Ring of Sacrifice shattered
+214;System;You feel the Black Eye Orb quivering
+215;System;Try sliding down
+216;System;Weakness: Head
+217;System;Imminent shortcut...
+218;System;I can't take this...
+219;System;Imminent drake...
+220;System;Prisoner ahead
+221;System;Blacksmith ahead
+222;System;Jumping off ahead
+223;System;Path ahead
+224;System;Here!
+225;System;Imminent merchant...
+226;System;Follow the shining flowers
+227;System;Are the trees moving?
+228;System;Ember ahead
+229;System;Let there be light...
+230;System;A dragon high above the sky, out of sight of the naked eye.
+231;System;If only Hawkeye were here...
+232;System;Treasure
+233;System;Try divine
+234;System;Blacksmith ahead
+235;System;Liar
+236;System;Up
+237;System;Shortcut ahead
+238;System;Illusory wall ahead
+239;System;Path ahead
+240;System;bug?
+241;System;Safe zone ahead
+242;System;Prisoner ahead
+243;System;Try Projectile
+244;System;Path ahead
+245;System;Need curses
+246;System;Need covenant
+247;System;Imminent jumping off...
+248;System;Ring ahead
+249;System;Try resignation
+250;System;Path ahead
+251;System;Imminent fall...
+252;System;Get away!
+253;System;Get your Shield!
+254;System;Good job. Go straight ahead.
+10000;NPC Name;Aside
+20000;NPC Name;Chester
+30000;NPC Name;Ciaran
+40000;NPC Name;Crestfallen
+50000;NPC Name;Darkmoon
+60000;NPC Name;Domhnall
+80000;NPC Name;Eingyi
+90000;NPC Name;Elizabeth
+100000;NPC Name;Fortressknight
+110000;NPC Name;Frampt
+120000;NPC Name;Giantsmith
+130000;NPC Name;Gough
+140000;NPC Name;Griggs
+160000;NPC Name;Gwynevere
+170000;NPC Name;Ingward
+180000;NPC Name;Kaathe
+190000;NPC Name;Laurentius
+210000;NPC Name;Logan
+220000;NPC Name;Nest
+230000;NPC Name;Nico
+240000;NPC Name;Oscar
+250000;NPC Name;Oswald
+260000;NPC Name;Palespider
+270000;NPC Name;Patches
+280000;NPC Name;Petrus
+310000;NPC Name;Quelana
+320000;NPC Name;Reah
+330000;NPC Name;Rickert
+340000;NPC Name;Shiva
+350000;NPC Name;Sieglinde
+360000;NPC Name;Siegmeyer
+380000;NPC Name;Undeadman
+390000;NPC Name;Undeadwoman
+400000;NPC Name;Vamos
+410000;NPC Name;Vince
+420000;NPC Name;Alvina
+430000;NPC Name;Anastacia
+440000;NPC Name;Andre

@@ -1,0 +1,1526 @@
+source_id,source_name,relation,target_id,target_name,note,relation_type
+2,firelink shrine,is_home_to,898,fire keeper,Firelink Shrine is the residence of the Fire Keeper.,location
+2,firelink shrine,has_function,1368,major bonfire,Firelink Shrine houses one of the most important bonfires in Lordran.,structure
+2,firelink shrine,mentioned_by,774,big hat logan,Logan mentions Firelink Shrine as a safe place after being rescued.,narrative_reference
+2,firelink shrine,serves_as,1358,hub location,Serves as the main hub for travel and interactions in Lordran.,function
+3,valley of drakes,connected to,4,new londo,Adjacent region connected by iron bars,location_connect
+4,new londo ruins,sealed by,892,sealers,City was sealed away by powerful magic and banishment sorcerers to contain the Abyss and the Darkwraiths.,event
+4,new londo ruins,location of,186,tin banishment catalyst,Tin Banishment Catalyst is found in New Londo Ruins.,location
+4,new londo ruins,origin of,810,darkwraiths,Fallen city where the Darkwraiths originated.,lore
+4,new londo ruins,linked to,1413,lifedrain,Darkwraiths' ability of Lifedrain is linked to this region.,mechanic
+4,new londo ruins,inhabited by,771,ingward,"Ingward resides here, guarding the seal placed over the Abyss.",npc
+4,new londo ruins,ruled by,72,four kings,Four Kings once ruled the city before succumbing to the Dark.,lore
+4,new londo ruins,associated with,1190,curse,City known for cursed ghosts and haunted atmosphere.,status
+4,new londo ruins,contains,1287,healer,Mentioned as housing a healer connected to curse treatment.,npc
+4,new londo ruins,linked to,790,vamos,Associated with ember used by Vamos for smithing.,item
+5,the abyss,origin of sorceries,1069,abyss sorceries,The Abyss is the origin of dark sorceries associated with human souls and physical damage.,conceptual
+5,the abyss,consumed,58,artorias,Artorias is said to have been consumed by the Abyss during his attempt to resist it.,event
+5,the abyss,overtook,869,oolacile,The Abyss overtook Oolacile and is associated with the corruption of the land.,event
+5,the abyss,home to,810,darkwraiths,The Abyss is considered the home of the Darkwraiths.,location
+5,the abyss,traversed by,58,artorias,Knight Artorias is believed to have traversed the Abyss in legend.,event
+6,undead burg,contains,1200,great bridge,The Undead Burg contains a great bridge connecting major areas.,location
+6,undead burg,contains,1117,basement entrance,A basement entrance leads to the Lower Undead Burg.,location
+6,undead burg,connected to,1182,missing characters,The area has ties to several missing individuals and tragic fates.,lore
+6,undead burg,contains,1030,lower undead burg,The lower district is known for its increased danger and hostile inhabitants.,location
+9,depths,leads to,10,blighttown,Connected via underground passages and key-sealed gate,geographical
+9,depths,beneath,6,undead burg,Located directly beneath Undead Burg,geographical
+10,blighttown,connected to,9,depths,Region sealed off from the Depths and plagued by disease,geographical
+10,blighttown,inhabited by,12,daughter of chaos,Region where she resides beneath the swamp,inhabitant
+10,blighttown,contains path to,14,lost izalith,One of the swamp's deep tunnels leads toward the ruins of Izalith,geographical
+12,daughter of chaos,sibling of,67,quelaag,They are both daughters of chaos,social
+12,daughter of chaos,resides in,10,blighttown,She lives hidden beneath the Blighttown swamp,location
+12,daughter of chaos,is,955,fair lady,Alternate name used by some NPCs,alias
+14,lost izalith,origin of,340,sunlight maggot,Parasitic creature tied to this ruined city's depths,lore
+14,lost izalith,associated with,828,witch of izalith,Ruined city linked to the failed flame duplication,lore
+14,lost izalith,accessible from,10,blighttown,Can be reached from Blighttown through Demon Ruins,geographical
+16,ash lake,home of,17,stone dragon,"Ash Lake is a mythic subterranean realm and the home of the Stone Dragon, a descendant of the ancient dragons.",location-to-entity
+16,ash lake,remnant of,938,age of ancients,"Ash Lake is described as a remnant of the Age of Dragons, indicating its existence predates the Age of Fire.",location-to-era
+17,stone dragon,resides in,16,ash lake,The Stone Dragon resides in Ash Lake and is linked to the ancient dragons.,entity-to-location
+18,darkroot garden,connected to,19,darkroot basin,"Darkroot Garden is geographically and thematically connected to Darkroot Basin, often sharing NPC and boss interactions.",location-to-location
+18,darkroot garden,guards,931,grave of artorias,Darkroot Garden contains the sealed door that leads to the Grave of Artorias.,location-to-location
+18,darkroot garden,home to,56,moonlight butterfly,The Moonlight Butterfly is a magical creature that dwells in Darkroot Garden.,location-to-entity
+27,the catacombs,home to,790,vamos,"The Catacombs is home to the reclusive blacksmith Vamos, who specializes in fire and occult weapon smithing.",location-to-entity
+27,the catacombs,traversed by,783,reah,"Reah and her cleric companions pass through the Catacombs as part of their pilgrimage, eventually becoming stranded.",location-to-entity
+28,tomb of the giants,domain of,63,gravelord nito,"The Tomb of the Giants is a place of death and darkness, associated directly with Nito, first of the dead.",location-to-entity
+30,sen's fortress,leads to,31,anor londo,Fortress leads directly to Anor Londo via Iron Golem transport.,location-location
+30,sen's fortress,guarded by,53,iron golem,Iron Golem stands at the top as the final guardian before Anor Londo.,location-character
+30,sen's fortress,challenged by,765,fortress knight,Mentioned as having attempted to overcome the fortress alone.,location-character
+30,sen's fortress,described by,766,kingseeker frampt,Frampt describes it as a house of deadly traps to reach the Realm of Lords.,location-character
+31,anor londo,defended by,812,silver knights,Silver Knights protect the halls and paths of Anor Londo.,location-character
+31,anor londo,defended by,834,painting guardians,Painting Guardians patrol the rafters of the cathedral.,location-character
+31,anor londo,home to,851,giant blacksmith,The Giant Blacksmith crafts weapons imbued with lightning.,location-character
+31,anor londo,home to,964,gwyndolin,Gwyndolin guards the illusion of the city and defends the Darkmoon tomb.,location-character
+31,anor londo,associated with,66,ornstein,Ornstein is one of the primary defenders of the cathedral.,location-character
+31,anor londo,associated with,54,smough,Smough fights alongside Ornstein to defend the inner sanctum.,location-character
+31,anor londo,sought by,39,solaire of astora,Solaire travels to Anor Londo in pursuit of his own 'sun'.,location-character
+34,the duke's archives,domain of,68,seath the scaleless,The archives are Seath's territory and his research domain.,location-character
+34,the duke's archives,contains,969,primordial crystal,The source of Seath’s immortality is located here.,location-object
+36,painted world of ariamis,inhabited by,55,priscilla,Priscilla resides in isolation within the painted realm.,location-character
+36,painted world of ariamis,contains,173,lifehunt scythe,The scythe wielded by Priscilla is found here.,location-object
+37,firelink altar,uses,750,lordvessel,The Lordvessel is placed here to access the Kiln of the First Flame.,location-object
+39,solaire of astora,wields,227,sunlight shield,"Solaire carries this shield, decorated with a self-painted sun symbol.",character-item
+39,solaire of astora,mentions,31,anor londo,Solaire references this city during his quest for the sun.,character-location
+39,solaire of astora,mentions,28,tomb of the giants,Solaire speaks of this dark area in dialogue.,character-location
+39,solaire of astora,mentions,14,lost izalith,Solaire references this location in connection with his search.,character-location
+39,solaire of astora,mentions,71,gwyn,Solaire reveres Gwyn as part of his sun-worshipping beliefs.,character-character
+40,dusk of oolacile,origin,869,oolacile,Dusk is a princess and royal figure from Oolacile.,origin
+40,dusk of oolacile,rescued_by,1298,player,Dusk is rescued from a golden golem and later offers sorceries.,interaction
+40,dusk of oolacile,associated_with,764,elizabeth,Elizabeth references Dusk as a key figure from Oolacile.,dialogue_reference
+41,black iron tarkus,member_of,832,knights berenike,Tarkus is recognized as one of the Knights Berenike.,faction
+41,black iron tarkus,failed_to_reach,31,anor londo,Mentioned among those who failed to reach Anor Londo.,failure_record
+42,witch beatrice,braved,5,the abyss,Beatrice is known for facing the Abyss without formal training.,feat
+44,paladin leeroy,member_of,849,way of white,Leeroy is affiliated with the Way of White.,faction
+44,paladin leeroy,wields,147,grant,Leeroy wields the powerful Grant weapon.,equipment
+45,knight kirk,member_of,810,darkwraiths,Kirk is a known Darkwraith.,faction
+46,xanthous king jeremiah,associated_with,36,painted world of ariamis,Jeremiah is found in the Painted World of Ariamis.,location
+47,lautrec the embraced,devoted_to,915,fina,Lautrec worships the goddess Fina.,worship
+47,lautrec the embraced,knows_of,968,maiden thorolund,Lautrec references Maiden Thorolund and trades information.,dialogue_reference
+48,demon firesage,origin of,1034,fire arts,The Demon Firesage is described as the last master of original fire arts and the first demon.,origin
+51,capra demon,served by,1342,undead burg dogs,The Capra Demon is noted for being served by wild dogs in the Undead Burg.,servant_of
+53,iron golem,guardian of,30,sen's fortress,"The Iron Golem guards Sen's Fortress, testing heroes before they may reach Anor Londo.",guardian
+54,executioner smough,guards,1023,anor londo cathedral,Executioner Smough is described as one of the defenders of the cathedral in Anor Londo.,guardian
+55,crossbreed priscilla,resides in,36,painted world of ariamis,Priscilla is trapped and resides within the Painted World of Ariamis.,location
+56,moonlight butterfly,created by,68,seath the scaleless,Moonlight Butterfly is described as a creature created by Seath the Scaleless.,creation
+56,moonlight butterfly,inhabits,18,darkroot garden,Moonlight Butterfly flutters in Darkroot Garden.,location
+57,sanctuary guardian,dreaded,5,the abyss,The Sanctuary Guardian feared the Abyss and had traits similar to demons.,emotional
+58,artorias the abysswalker,member of,1289,four knights of gwyn,Artorias is explicitly described as one of Gwyn’s Four Knights.,membership
+58,artorias the abysswalker,fought,5,the abyss,Artorias fought against the Abyss and is closely associated with it.,conflict
+58,artorias the abysswalker,friend of,759,ciaran,"Ciaran refers to Artorias as 'dear', suggesting a close personal bond.",personal
+58,artorias the abysswalker,rescued,40,dusk of oolacile,Artorias saved Dusk from the Abyss long ago.,rescue
+58,artorias the abysswalker,linked to,240,greatshield of artorias,Artorias is associated with the Greatshield bearing his name (Item ID 1165).,equipment
+58,artorias the abysswalker,linked to,540,wolf ring,"Artorias is associated with the Wolf Ring, symbolic of his indomitable will.",equipment
+58,artorias the abysswalker,buried in,18,darkroot garden,Artorias's grave lies in Darkroot Garden.,location
+58,artorias the abysswalker,grave guarded by,62,sif,Artorias's grave is guarded by the great wolf Sif.,guardianship
+58,artorias the abysswalker,honor preserved by,1298,player,His honor was preserved by the player after his corruption.,narrative
+58,artorias the abysswalker,friend of,792,alvina,Mentioned as a friend of Alvina in the Cat Covenant Ring description.,personal
+59,"manus, father of the abyss",source_of,5,abyss,Manus is considered the origin of the Abyss corruption.,origin
+59,"manus, father of the abyss",transformed_from,1210,human,"Manus was once human, transformed by wild humanity.",transformation
+59,"manus, father of the abyss",uses,572,pursuers,His sorcery Pursuers grants will to the Dark.,magic
+60,black dragon kalameet,drops,270,obsidian greatsword,Tail source of the Obsidian Greatsword.,item_drop
+60,black dragon kalameet,enchants,544,calamity ring,Kalameet's eye enchanted the Calamity Ring.,magic
+60,black dragon kalameet,feared_by,31,anor londo,Feared even by the city of Anor Londo.,threat
+62,great grey wolf sif,guards,931,grave of artorias,Sif is guardian of Knight Artorias’s grave.,guardianship
+62,great grey wolf sif,companion_of,58,artorias the abysswalker,Sif was Artorias’s loyal companion.,personal
+62,great grey wolf sif,protects_with,264,cleansing greatshield,Protected by Artorias’s Cleansing Greatshield.,equipment
+62,great grey wolf sif,soul_used_for,240,greatshield of artorias,Sif’s soul is used to craft the Greatshield of Artorias.,item_creation
+63,gravelord nito,resides_in,28,tomb of the giants,Nito slumbers in the Tomb of the Giants.,location
+63,gravelord nito,commands,835,servants,Nito commands servants who spread death rituals.,follower
+63,gravelord nito,holds,747,lord soul,Nito holds one of the four Lord Souls needed to fill the Lordvessel.,power
+63,gravelord nito,opposed_by,882,occult followers,Target of occult followers who attempt to steal divine power.,opposition
+65,gaping dragon,descendant_of,929,ancient dragons,Gaping Dragon is a grotesque descendant of ancient dragons.,lineage
+65,gaping dragon,swallowed,730,blighttown key,Swallowed the Blighttown Key.,possession
+66,dragonslayer ornstein,member_of,1289,four knights of gwyn,Ornstein is one of Lord Gwyn’s Four Knights.,allegiance
+66,dragonslayer ornstein,guards,1023,anor londo cathedral,Guardian of the cathedral in Anor Londo.,guardianship
+66,dragonslayer ornstein,wields,606,lightning spear,Master of lightning spear combat.,combat
+66,dragonslayer ornstein,wears,1302,lion armor,Clad in lightning-infused lion-themed armor.,equipment
+66,dragonslayer ornstein,associated_with,538,leo ring,Associated with the Leo Ring.,equipment
+67,chaos witch quelaag,sister_of,955,fair lady,She is the sister of the Fair Lady and fled Izalith with her.,family
+67,chaos witch quelaag,infused_with,681,humanity,Her weapon responds to humanity.,magic
+67,chaos witch quelaag,referenced_by,763,eingyi,Referenced by Eingyi with reverence and authority.,narrative
+68,seath the scaleless,created,56,moonlight butterfly,Seath is creator of the Moonlight Butterfly.,creation
+68,seath the scaleless,created,702,crystal ember,Creator of the Crystal Ember.,creation
+68,seath the scaleless,holds,1308,lord soul fragment,Granted title and soul fragment by Lord Gwyn for betraying dragons.,reward
+68,seath the scaleless,used,969,primordial crystal,Used the Primordial Crystal for immortality.,power
+68,seath the scaleless,confidant_of,71,gwyn,Was a confidant and ally of Lord Gwyn.,allegiance
+69,dark sun gwyndolin,child_of,71,"gwyn, lord of cinder",Youngest child of Gwyn,lore
+69,dark sun gwyndolin,leads,999,darkmoon covenant,Leads the Blades of the Darkmoon,covenant
+69,dark sun gwyndolin,protects,31,anor londo,Protector of Anor Londo,location
+69,dark sun gwyndolin,created,179,darkmoon bow,Creator of the Darkmoon Bow and Tin Darkmoon Catalyst,artifact
+69,dark sun gwyndolin,created,188,tin darkmoon catalyst,Creator of the Darkmoon Bow and Tin Darkmoon Catalyst,artifact
+71,"gwyn, lord of cinder",father_of,69,dark sun gwyndolin,Father of Gwyndolin,lore
+71,"gwyn, lord of cinder",father_of,770,gwynevere,Father of Gwynevere,lore
+71,"gwyn, lord of cinder",father_of,916,gwyn's firstborn,,lore
+71,"gwyn, lord of cinder",granted_power_to,72,four kings,Granted fragments of a Lord Soul,power
+71,"gwyn, lord of cinder",linked,921,first flame,Linked the First Flame,event
+71,"gwyn, lord of cinder",used,840,lightning,Used lightning to defeat dragons,combat
+72,four kings,ruled,4,new londo,Rulers of New Londo,location
+72,four kings,created,810,darkwraiths,Creators of the Darkwraiths,covenant
+72,four kings,fell_to,816,dark,Fell to the Dark,event
+72,four kings,holds,1308,lord soul fragment,Great leaders of New Londo who were granted fragments of a Lord Soul by Gwyn.,reward
+73,bed of chaos,source_of,1227,demons,Source of all demons,origin
+73,bed of chaos,embodies,1006,chaos and fire,Distorted being of chaos and fire,nature
+75,dagger,effective_for,1024,parrying,Standard small dagger with modest attack. Effective for rapid strikes and critical hits such as parrying and backstabs. Offers both slash and thrust attacks.,conceptual
+75,dagger,effective_for,1085,backstab,Standard small dagger with modest attack. Effective for rapid strikes and critical hits such as parrying and backstabs. Offers both slash and thrust attacks.,conceptual
+76,parrying dagger,effective_for,1024,parrying,"Dagger specialized for parrying, typically used in the left hand. Favored by Carim knights who fight without shields.",conceptual
+76,parrying dagger,favored_by,795,carim knights,"Dagger specialized for parrying, typically used in the left hand. Favored by Carim knights who fight without shields.",social
+77,ghost blade,wielded_by,797,ghosts of new londo,Wielded by the ghosts of New Londo. Cursed weapon capable of harming ghosts.,factual
+77,ghost blade,effective_against,830,ghosts,Wielded by the ghosts of New Londo. Cursed weapon capable of harming ghosts.,mechanical
+78,bandit's knife,effective_for,1024,parrying,Shortsword favored by thieves and bandits. Excels in slicing and critical hits after parrying or backstabbing.,conceptual
+78,bandit's knife,effective_for,1085,backstab,Shortsword favored by thieves and bandits. Excels in slicing and critical hits after parrying or backstabbing.,conceptual
+78,bandit's knife,favored_by,799,thieves,Shortsword favored by thieves and bandits. Excels in slicing and critical hits after parrying or backstabbing.,social
+79,priscilla's dagger,originates_from,55,priscilla,Rare dragon weapon from Priscilla's tail. Possesses lifehunt power and resembles the fighting style of painting guardians.,factual
+79,priscilla's dagger,resembles_style_of,834,painting guardians,Rare dragon weapon from Priscilla's tail. Possesses lifehunt power and resembles the fighting style of painting guardians.,stylistic
+84,balder side sword,used_by,1046,balder knights,"Long sword of Balder knights, good for thrust attacks. Balder was destroyed by the Undead.",factual
+85,crystal straight sword,has_trait,1164,crystallized,High attack power but fragile; cannot be repaired.,attribute
+85,crystal straight sword,has_limitation,1282,cannot be repaired,"Once broken, cannot be restored.",mechanic
+86,sunlight straight sword,belongs_to,39,solaire of astora,"Signature weapon of Solaire, a knight seeking his own sun.",ownership
+86,sunlight straight sword,has_trait,1150,dependable,"Well-forged, reliable though modest.",attribute
+87,barbed straight sword,belongs_to,876,darkwraith kirk,"Personal weapon of Kirk, a Darkwraith invader.",ownership
+87,barbed straight sword,causes_effect,814,bleeding,Its barbs inflict severe bleeding on targets.,combat_effect
+88,silv. knight str. sword,used_by,812,silver knights,Weapon of the silver knights in service of Anor Londo.,affiliation
+88,silv. knight str. sword,associated_with,31,anor londo,Used by the city's elite defenders.,location
+89,astora's straight sword,belongs_to,1132,knight of astora,Blessed weapon carried by a high-ranking knight.,ownership
+89,astora's straight sword,has_trait,815,blessed,Infused with divine properties.,attribute
+90,darksword,used_by,810,darkwraiths,Wielded by those who served the Four Kings.,affiliation
+90,darksword,serves,72,four kings,Darkwraiths wield this weapon in service to the abyssal rulers.,narrative_reference
+91,drake sword,originates_from,1144,drake's tail,Formed by severing a drake's tail.,origin
+91,drake sword,has_trait,1288,mystical power,Activated when held with both hands.,attribute
+92,straight sword hilt,found_in,809,undead asylum,Discarded remnant from the starting area.,location
+92,straight sword hilt,has_trait,1259,weak,"Inferior weapon, usually replaced quickly.",attribute
+93,bastard sword,weapon_type,105,greatsword,Heavy blade with wide swings for crowd control.,category
+94,claymore,weapon_type,105,greatsword,Versatile for both swing and thrust attacks.,category
+95,man-serpent greatsword,used_by,820,serpent men,Used by enemies in Sen's Fortress.,affiliation
+95,man-serpent greatsword,associated_with,30,sen's fortress,Wielded by fortress guards mutated into serpents.,location
+96,flamberge,used_by,820,serpent men,Serpent-style blade that causes bleeding.,affiliation
+96,flamberge,causes_effect,814,bleeding,Its design flays and inflicts lasting wounds.,combat_effect
+97,crystal greatsword,has_trait,1164,crystallized,Extremely powerful but cannot be repaired.,attribute
+97,crystal greatsword,has_limitation,1282,cannot be repaired,Fragility makes it unsustainable long term.,mechanic
+98,stone greatsword,used_by,813,stone knights,Wielded by enchanted warriors in Darkroot Garden.,affiliation
+98,stone greatsword,associated_with,18,darkroot garden,Found in the enchanted forest area.,location
+103,greatsword of artorias,forged_from,689,soul of sif,Crafted using the soul of the great wolf companion.,origin
+103,greatsword of artorias,used_by,58,artorias the abysswalker,Legendary knight who fought the Abyss.,ownership
+103,greatsword of artorias,effective_against,1116,dark enemies,Designed for facing Abyssal creatures.,combat_effect
+103,greatsword of artorias,associated_with,982,artorias's covenant,Symbolic weapon tied to his Abyssal oath.,narrative_reference
+85,crystal straight sword,has_trait,1164,crystallized,High attack power but fragile; cannot be repaired.,attribute
+85,crystal straight sword,has_limitation,1282,cannot be repaired,"Once broken, cannot be restored.",mechanic
+86,sunlight straight sword,belongs_to,39,solaire of astora,"Signature weapon of Solaire, a knight seeking his own sun.",ownership
+86,sunlight straight sword,has_trait,1150,dependable,"Well-forged, reliable though modest.",attribute
+87,barbed straight sword,belongs_to,876,darkwraith kirk,"Personal weapon of Kirk, a Darkwraith invader.",ownership
+87,barbed straight sword,causes_effect,814,bleeding,Its barbs inflict severe bleeding on targets.,combat_effect
+88,silv. knight str. sword,used_by,812,silver knights,Weapon of the silver knights in service of Anor Londo.,affiliation
+88,silv. knight str. sword,associated_with,31,anor londo,Used by the city's elite defenders.,location
+89,astora's straight sword,belongs_to,1132,knight of astora,Blessed weapon carried by a high-ranking knight.,ownership
+89,astora's straight sword,has_trait,815,blessed,Infused with divine properties.,attribute
+90,darksword,used_by,810,darkwraiths,Wielded by those who served the Four Kings.,affiliation
+90,darksword,serves,72,four kings,Darkwraiths wield this weapon in service to the abyssal rulers.,narrative_reference
+91,drake sword,originates_from,1144,drake's tail,Formed by severing a drake's tail.,origin
+91,drake sword,has_trait,1288,mystical power,Activated when held with both hands.,attribute
+92,straight sword hilt,found_in,809,undead asylum,Discarded remnant from the starting area.,location
+92,straight sword hilt,has_trait,1259,weak,"Inferior weapon, usually replaced quickly.",attribute
+93,bastard sword,weapon_type,105,greatsword,Heavy blade with wide swings for crowd control.,category
+94,claymore,weapon_type,105,greatsword,Versatile for both swing and thrust attacks.,category
+95,man-serpent greatsword,used_by,820,serpent men,Used by enemies in Sen's Fortress.,affiliation
+95,man-serpent greatsword,associated_with,30,sen's fortress,Wielded by fortress guards mutated into serpents.,location
+96,flamberge,used_by,820,serpent men,Serpent-style blade that causes bleeding.,affiliation
+96,flamberge,causes_effect,814,bleeding,Its design flays and inflicts lasting wounds.,combat_effect
+97,crystal greatsword,has_trait,1164,crystallized,Extremely powerful but cannot be repaired.,attribute
+97,crystal greatsword,has_limitation,1282,cannot be repaired,Fragility makes it unsustainable long term.,mechanic
+98,stone greatsword,used_by,813,stone knights,Wielded by enchanted warriors in Darkroot Garden.,affiliation
+98,stone greatsword,associated_with,18,darkroot garden,Found in the enchanted forest area.,location
+103,greatsword of artorias,forged_from,689,soul of sif,Crafted using the soul of the great wolf companion.,origin
+103,greatsword of artorias,used_by,58,artorias the abysswalker,Legendary knight who fought the Abyss.,ownership
+103,greatsword of artorias,effective_against,1116,dark enemies,Designed for facing Abyssal creatures.,combat_effect
+103,greatsword of artorias,associated_with,982,artorias's covenant,Symbolic weapon tied to his Abyssal oath.,narrative_reference
+100,great lord greatsword,forged_from,690,soul of gwyn,"Born from the soul of Gwyn, Lord of Cinder.",origin
+100,great lord greatsword,used_by,71,gwyn,Wielded sun bolts before linking the fire.,ownership
+100,great lord greatsword,related_to,1346,children of gwyn,His power was divided among his children.,narrative_reference
+101,moonlight greatsword,originates_from,68,seath the scaleless,Formed from the tail of the albino dragon Seath.,origin
+101,moonlight greatsword,imbued_with,1416,moonlight magic,Unleashes waves of moonlight energy.,attribute
+102,black knight sword,used_by,833,black knights,Wielded to battle the chaos demons.,affiliation
+102,black knight sword,effective_against,829,chaos demons,Designed for fighting the spawn of chaos.,combat_effect
+103,greatsword of artorias,forged_from,689,soul of sif,Cursed version forged using the soul of Sif.,origin
+103,greatsword of artorias,effective_against,830,ghosts,Cursed nature allows it to hit spiritual enemies.,combat_effect
+103,greatsword of artorias,associated_with,982,artorias's covenant,Tied to the knight’s pact with the Abyss.,narrative_reference
+104,zweihander,weapon_type,105,greatsword,Colossal sword used for strong two-handed strikes.,category
+105,greatsword,favored_by,832,knight berenike,Preferred by strong knights known for brute force.,ownership
+105,greatsword,favored_by,41,tarkus,Preferred by strong knights known for brute force.,ownership
+106,demon great machete,used_by,831,capra demons,Heavy weapon forged from brutal cast iron.,affiliation
+107,dragon greatsword,originates_from,1174,stone dragon's tail,Carved from the tail of a mythical dragon.,origin
+107,dragon greatsword,has_trait,1288,mystical power,Unleashes power when wielded with both hands.,attribute
+108,black knight greatsword,used_by,833,black knights,"Wielded against chaos demons, similar to Black Knight Sword.",affiliation
+108,black knight greatsword,effective_against,829,chaos demons,Heavy swings suited to banish chaos foes.,combat_effect
+109,scimitar,has_trait,1080,fluid attacks,Small curved blade with chaining capability.,attribute
+109,scimitar,effective_against,1432,unarmored foes,Excels against lightly armored enemies.,combat_effect
+110,falchion,similar_to,109,scimitar,Focuses on slashing with similar curved design.,attribute
+111,shotel,forged_by,822,arstor of carim,Crafted by a weapon-maker from Carim.,origin
+111,shotel,bypasses,1388,shield defenses,Curved design allows it to hit around shields.,mechanic
+112,jagged ghost blade,used_by,797,new londo ghosts,Spiritual weapon wielded by ghost enemies.,affiliation
+112,jagged ghost blade,effective_against,830,ghosts,Cursed nature makes it usable in spectral combat.,combat_effect
+113,painting guardian sword,used_by,834,painting guardians,Elegant weapon used in Anor Londo’s painting world.,affiliation
+113,painting guardian sword,associated_with,31,anor londo,Linked to defenders of the painted world.,location
+114,quelaag's furysword,forged_from,688,soul of quelaag,Chaos weapon made from the soul of the spider demon.,origin
+114,quelaag's furysword,scales_with,681,humanity,Fire damage increases with humanity level.,mechanic
+114,quelaag's furysword,causes_effect,1379,fire damage,Ignites targets with every slash.,combat_effect
+115,server,restores_effect,1009,hp per hit,Ancient blade that restores vitality with each strike.,mechanic
+115,server,contains,1213,occult energy,Infused with dark rites of the past.,narrative_reference
+116,murakumo,requires,1353,strength and dexterity,Demands both physical and agile prowess.,mechanic
+116,murakumo,weapon_origin,836,eastern lands,"Eastern curved blade, heavier than a katana.",origin
+117,gravelord sword,used_by,835,servants,Weapon of Nito's followers made from bones.,affiliation
+117,gravelord sword,causes_effect,1245,death miasma,Spreads necrotic energy that decays enemies.,combat_effect
+118,uchigatana,weapon_origin,836,eastern lands,Traditional katana known for quick bleeding cuts.,origin
+118,uchigatana,causes_effect,814,bleeding,Sharp edge causes rapid blood loss.,combat_effect
+118,uchigatana,has_limitation,1112,fragile,Prone to breaking under prolonged use.,mechanic
+119,washing pole,weapon_origin,836,eastern lands,Unusually long katana of the East.,origin
+119,washing pole,has_trait,1209,high reach,Exceptional range for a melee weapon.,attribute
+119,washing pole,has_limitation,990,prone to breaking,Its extreme length compromises durability.,mechanic
+120,iaito,uses_style,1000,iaijutsu,Employs traditional Iaijutsu technique for sheathed draw attacks.,mechanic
+121,chaos blade,forged_from,688,soul of quelaag,Created using the soul of the chaos witch Quelaag.,origin
+121,chaos blade,causes_effect,1078,self and enemy damage,Inflicts damage to both the wielder and enemies.,combat_effect
+122,mail breaker,weapon_type,1114,thrusting sword,Designed to pierce through armor and deliver critical hits.,category
+122,mail breaker,effective_against,1065,armored foes,Useful against enemies in heavy armor.,combat_effect
+123,rapier,weapon_type,1114,thrusting sword,Allows both parries and precise piercing strikes.,category
+124,estoc,weapon_type,1114,thrusting sword,"Longest of its kind, capable of piercing and slashing.",category
+124,estoc,effective_against,1065,armored foes,Powerful thrusts can penetrate tough defenses.,combat_effect
+125,velka's rapier,used_by,1372,velka's pardoner,Enchanted sword symbolically wielded by the pardoner.,affiliation
+125,velka's rapier,has_trait,1441,enchanted,Requires finesse and advanced technique.,attribute
+126,ricard's rapier,belongs_to,1058,undead prince ricard,Weapon of a royal who disappeared in the North.,ownership
+127,hand axe,weapon_type,1040,axe,Standard axe effective in close combat.,category
+128,battle axe,weapon_type,1040,axe,Well-rounded axe with powerful strikes.,category
+129,crescent axe,used_by,1369,clerics of the way of white,Blessed axe for divine warriors.,affiliation
+129,crescent axe,has_trait,815,blessed,Imbued with sacred energy.,attribute
+130,butcher knife,used_by,1171,cannibal of the depths,A tool-weapon hybrid instilling fear.,affiliation
+131,golem axe,forged_from,691,soul of iron golem,Created from the soul of a mechanical giant.,origin
+131,golem axe,imitates,1439,wind blade,Simulates wind-slicing effects with heavy blows.,attribute
+132,gargoyle tail axe,originates_from,70,bell gargoyles,Formed from the tails of Anor Londo's sentries.,origin
+132,gargoyle tail axe,associated_with,879,bell of awakening,Guarded sacred bell on cathedral rooftop.,location
+133,greataxe,weapon_type,1040,axe,Massive iron axe needing great strength.,category
+134,demon's greataxe,used_by,847,taurus demons,Implements brute strength in combat.,affiliation
+135,dragon king greataxe,originates_from,1193,gaping dragon's tail,Carved from the appendage of the ancient beast.,origin
+135,dragon king greataxe,has_trait,1288,mystical power,Unleashes ancient dragon force.,attribute
+136,black knight greataxe,used_by,833,black knights,Axe designed for battle against chaos.,affiliation
+136,black knight greataxe,effective_against,829,chaos demons,Used to fight beings born from the Flame of Chaos.,combat_effect
+137,club,has_trait,998,effective against shields,Basic strike weapon that excels at breaking guards.,combat_effect
+138,mace,used_by,850,clerics,Blunt weapon ideal for crushing defenses.,affiliation
+138,mace,has_trait,1444,simple and blunt,"No flair, just impact.",attribute
+139,morning star,used_by,1343,barbaric clerics,Heavy spiked hammer used by clerical warriors.,affiliation
+139,morning star,causes_effect,814,bleeding,Deals damage through thrusting spike attacks.,combat_effect
+140,warpick,weapon_type,141,pickaxe,"Deals thrust damage, designed to pierce armor.",category
+140,warpick,effective_against,1065,armored foes,Thrust damage makes it useful against metal armor.,combat_effect
+141,pickaxe,originates_from,1303,mining tool,Repurposed tool capable of smashing stone and enemies.,origin
+142,reinforced club,has_trait,1364,nailed leather,"Enhanced with nails, increasing power and instability.",attribute
+143,blacksmith hammer,used_by,794,andre of astora,Smithing hammer that can be used in battle.,affiliation
+144,blacksmith giant hammer,used_by,851,giant blacksmith,Oversized wooden hammer used in Anor Londo.,affiliation
+144,blacksmith giant hammer,associated_with,31,anor londo,Crafted and used within the city’s forge.,location
+145,hammer of vamos,used_by,790,vamos,Weapon of the skeletal blacksmith deep underground.,affiliation
+146,great club,weapon_type,1211,tree branch,Primitive club with high smash force.,category
+147,grant,used_by,44,paladin leeroy,Holy hammer used by the Way of White paladin.,affiliation
+147,grant,has_trait,815,blessed,Deals extra damage to Dark-aligned foes.,attribute
+147,grant,effective_against,816,dark,Strong against creatures of darkness.,combat_effect
+148,demon's great hammer,used_by,50,asylum demon,Massive blunt weapon wielded by early boss.,affiliation
+149,dragon tooth,used_by,852,havel the rock,Indestructible weapon passed down to Havel.,ownership
+149,dragon tooth,has_trait,1371,divine heirloom,Mentioned with Havel’s Greatshield; grants resistances.,narrative_reference
+150,large club,used_by,1248,blighttown giants,Wielded by giant undead from the toxic swamp.,affiliation
+150,large club,causes_effect,1322,poison,Became poisonous due to corrupted environment.,combat_effect
+151,smough's hammer,forged_from,694,soul of smough,Great hammer crafted from the soul of the executioner.,origin
+151,smough's hammer,used_by,54,executioner smough,He ground bones of victims into feed.,ownership
+151,smough's hammer,associated_with,31,anor londo,Guards the cathedral in this city.,location
+152,caestus,enhances,1052,bare hands,Augments unarmed combat with studded leather.,mechanic
+152,caestus,scales_with,1307,strength,Damage output depends on user’s strength.,mechanic
+153,claw,causes_effect,814,bleeding,Three sharp blades induce blood loss.,combat_effect
+153,claw,used_by,1088,eastern spooks,Favored by stealthy agents from the East.,affiliation
+154,dragon bone fist,forged_from,691,soul of iron golem,Created using the Iron Golem’s essence.,origin
+154,dragon bone fist,contains,1222,dragon bones,Incorporates power from ancient dragon remains.,origin
+155,dark hand,used_by,810,darkwraiths,Used to absorb humanity and block attacks.,affiliation
+155,dark hand,absorbs,681,humanity,Drains essence from foes while blocking.,mechanic
+155,dark hand,functions_as,1163,shield,Doubles as a defense mechanism.,mechanic
+156,spear,weapon_type,156,spear,Standard polearm with long reach.,category
+156,spear,used_with,1163,shield,Designed to thrust behind a guard.,mechanic
+156,spear,effective_against,1062,hard exteriors,Piercing power makes it ideal vs. armored foes.,combat_effect
+157,winged spear,has_trait,1225,barbed,Can deal high damage with precise timing.,attribute
+158,partizan,has_trait,1066,adaptive blade,Slices can ricochet in tight areas.,attribute
+159,demon's spear,originates_from,1257,batwing demon bones,Carved from demons that soar in Anor Londo.,origin
+159,demon's spear,imbued_with,840,lightning,Charged with electricity for extra power.,attribute
+160,channeler's trident,used_by,1260,six-eyed channelers,Wielded by magic-wielding channelers.,affiliation
+160,channeler's trident,has_effect,1073,buff allies,Dance-like movement grants allies temporary strength.,combat_effect
+161,silver knight spear,used_by,812,silver knights,Used by elite guards of Anor Londo.,affiliation
+161,silver knight spear,associated_with,31,anor londo,Belongs to the city's holy defenders.,location
+162,pike,has_trait,1415,very long reach,"Longest spear-type weapon, hard to handle.",attribute
+163,dragonslayer spear,forged_from,692,soul of ornstein,Crafted from the soul of the dragonslayer.,origin
+163,dragonslayer spear,causes_effect,1183,lightning damage,Inflicts lightning-based attacks.,combat_effect
+163,dragonslayer spear,effective_against,818,dragons,Designed to slay dragon-type enemies.,combat_effect
+164,moonlight butterfly horn,forged_from,693,soul of the moonlight butterfly,Weapon born from magical butterfly’s soul.,origin
+164,moonlight butterfly horn,imbued_with,1296,pure magic,Deals strong magic-based damage.,attribute
+165,halberd,weapon_type,1059,polearm,Versatile weapon with thrust and sweeping attacks.,category
+165,halberd,requires,1353,strength and dexterity,Effective use depends on physical and agile stats.,mechanic
+166,giant's halberd,used_by,1029,anor londo sentinels,Brass weapon wielded by giant guards.,affiliation
+166,giant's halberd,imbued_with,840,lightning,Charged with electrical energy.,attribute
+167,titanite catch pole,used_by,862,titanite demon,Rare weapon dropped by demon variant.,affiliation
+167,titanite catch pole,has_trait,1441,enchanted,Possesses magical leap attack.,attribute
+168,gargoyle's halberd,used_by,70,bell gargoyle,Weapon of the rooftop guardian.,affiliation
+168,gargoyle's halberd,has_trait,1014,standard bronze,"Made of bronze, decent reach and swing.",attribute
+169,black knight halberd,used_by,833,black knights,Powerful halberd with wide swings.,affiliation
+170,lucerne,has_trait,1096,beak-like protrusion,Deals thrust damage via heavy head.,attribute
+170,lucerne,causes_effect,841,thrust damage,Pierces with a downward motion.,combat_effect
+171,scythe,modified_from,165,halberd,Altered for slashing instead of thrusting.,origin
+172,great scythe,originates_from,1281,farming tool,Converted farming blade repurposed for combat.,origin
+172,great scythe,causes_effect,1025,fear,Its terrifying shape intimidates enemies.,combat_effect
+173,lifehunt scythe,forged_from,695,soul of priscilla,Weapon made from the hybrid's soul.,origin
+173,lifehunt scythe,causes_effect,814,bleeding,Extremely high bleed build-up.,combat_effect
+173,lifehunt scythe,harms,1420,wielder,Its cursed power drains user’s vitality.,mechanic
+174,short bow,weapon_type,1063,bow,Basic bow for standard use.,category
+174,short bow,can_use,1151,arrow types,Can swap arrow types as needed.,mechanic
+175,longbow,weapon_type,1063,bow,Standard long-range weapon.,category
+175,longbow,favored_by,1427,hunters,Used by skilled long-range fighters.,affiliation
+176,black bow of pharis,used_by,870,pharis,Signature weapon of heroic long-range archer.,ownership
+176,black bow of pharis,has_trait,1223,long range,Superior range compared to other bows.,attribute
+177,dragonslayer greatbow,used_by,865,dragonslayers,Massive bow requiring great strength.,affiliation
+177,dragonslayer greatbow,requires,250,dragonslayer arrows,Only usable with specialized arrows.,mechanic
+178,composite bow,has_trait,1087,high power,Short-range bow with heavy draw weight.,attribute
+178,composite bow,requires,1307,strength,Needs physical power to use.,mechanic
+178,composite bow,ineffective_for,1203,sniping,Not suited for long-range precision.,mechanic
+179,darkmoon bow,forged_from,696,soul of gwyndolin,Created from the soul of the Darkmoon deity.,origin
+179,darkmoon bow,strongest_with,248,moonlight arrows,Reaches full potential when paired with these arrows.,mechanic
+180,light crossbow,weapon_type,1007,crossbow,"One-handed ranged weapon, used by soldiers.",category
+180,light crossbow,requires,1136,manual reloading,Needs manual reloading after each shot.,mechanic
+181,heavy crossbow,weapon_type,1007,crossbow,Larger version with higher damage output.,category
+181,heavy crossbow,requires,1378,manual bolt loading,Requires bolt to be manually inserted before firing.,mechanic
+182,avelyn,created_by,866,eidas,Repeating crossbow crafted by artisan Eidas.,origin
+182,avelyn,fires,989,triple bolts,Shoots three bolts at once.,mechanic
+182,avelyn,has_trait,1140,lower damage per shot,Tradeoff for its rapid fire capabilities.,attribute
+183,sniper crossbow,used_by,1079,carim snipers,Specialized crossbow for long-range precision.,affiliation
+183,sniper crossbow,requires,1414,dexterity,Needs dexterity for effective handling.,mechanic
+184,sorcerer's catalyst,used_by,871,vinheim dragon school,Catalyst taught and used by Vinheim scholars.,affiliation
+184,sorcerer's catalyst,casts,1103,sorceries,Used to cast standard magical spells.,mechanic
+185,beatrice's catalyst,used_by,42,witch beatrice,Catalyst linked to ancient rogue magic.,ownership
+185,beatrice's catalyst,associated_with,1131,old sorceries,Power tied to pre-Vinheim arcane methods.,narrative_reference
+186,tin banishment catalyst,used_by,1354,new londo banishment sorcerers,Special catalyst used in spirit expulsion.,affiliation
+186,tin banishment catalyst,deals_damage,1130,physical,"Unlike others, deals actual physical damage.",combat_effect
+187,logan's catalyst,used_by,774,big hat logan,Greatly empowered by his own skill.,ownership
+187,logan's catalyst,has_trait,1226,extremely powerful,Enhanced output compared to standard catalysts.,attribute
+188,tin darkmoon catalyst,used_by,69,dark sun gwyndolin,Used by the deity to channel magic.,affiliation
+188,tin darkmoon catalyst,scales_with,1279,faith,Uses faith instead of intelligence.,mechanic
+189,oolacile ivory catalyst,originates_from,869,oolacile,Catalyst from the long-lost magical kingdom.,origin
+189,oolacile ivory catalyst,boosts,1263,sorcery adjustment,Increases spell effectiveness regardless of stats.,mechanic
+190,tin crystallization ctlyst.,used_by,774,big hat logan,Used by Logan for high-level magic.,ownership
+190,tin crystallization ctlyst.,has_trait,1442,halves sorcery uses,Massive power at the cost of casts.,mechanic
+191,demon's catalyst,originates_from,868,izalith,Molten catalyst from the chaos city.,origin
+191,demon's catalyst,functions_as,1154,fire weapon,Doubles as a weapon that deals fire damage.,combat_effect
+192,izalith catalyst,originates_from,828,witch of izalith,Used before the creation of pyromancy.,origin
+192,izalith catalyst,associated_with,1380,ancient sorcery,Tied to early forms of magical fire.,narrative_reference
+194,pyromancy flame,used_by,1137,great swamp pyromancers,Used to channel and cast flame spells.,affiliation
+194,pyromancy flame,associated_with,782,quelana of izalith,Flame passed from the mother of pyromancy.,narrative_reference
+194,pyromancy flame,creates,1326,eternal bonds,Flame sharing is a sacred rite.,narrative_reference
+194,pyromancy flame,associated_with,782,quelana of izalith,Represents link between flame and emotional ties.,narrative_reference
+195,talisman,casts,1173,miracles,Basic casting tool for divine spells.,mechanic
+195,talisman,issued_to,1305,believers,Distributed to faithful followers.,affiliation
+196,canvas talisman,used_by,1138,pilgrim clerics,Designed for clerics on sacred journey.,affiliation
+197,thorolund talisman,used_by,1255,high-ranking thorolund clerics,Advanced divine catalyst for miracles.,affiliation
+197,thorolund talisman,boosts,1070,divine adjustment,Increases miracle effectiveness.,mechanic
+198,ivory talisman,used_by,1008,female clerics,Tailored for women of faith.,affiliation
+198,ivory talisman,scales_with,1279,faith,Miracle power based on faith stat.,mechanic
+199,sunlight talisman,used_by,39,solaire of astora,Sacred catalyst of the sun warrior.,ownership
+199,sunlight talisman,symbol_of,1145,unwavering faith,Represents Solaire’s devotion to the Sun.,narrative_reference
+200,darkmoon talisman,granted_to,923,darkmoon blade knights,Given to knights of the Darkmoon covenant.,affiliation
+200,darkmoon talisman,requires,1349,high faith,Effective use demands strong devotion.,mechanic
+200,darkmoon talisman,boosts,1146,miracle adjustment,Grants high miracle effectiveness.,mechanic
+201,velka's talisman,belongs_to,844,velka,Used by the Goddess of Sin.,ownership
+201,velka's talisman,scales_with,1336,intelligence,Unique among talismans for INT-based scaling.,mechanic
+202,skull lantern,used_by,873,catacombs necromancers,Used to illuminate and guide through darkness.,affiliation
+202,skull lantern,emits,1128,light,Functions as a light source in dark areas.,mechanic
+202,skull lantern,causes_effect,1379,fire damage,Can burn enemies despite its utility role.,combat_effect
+203,east-west shield,has_design,1242,double-headed eagle,Wooden shield marked with a unique crest.,attribute
+203,east-west shield,has_trait,1100,lightweight,"Lighter than metal shields, but with less defense.",attribute
+204,wooden shield,has_design,1429,white dragon,Depicts the symbol of a mystical creature.,attribute
+204,wooden shield,has_trait,1001,low stability,Offers little poise under sustained hits.,attribute
+205,large leather shield,favored_by,1427,hunters,Preferred by those who value mobility.,affiliation
+206,small leather shield,has_trait,1269,parry oriented,Designed for quick parry actions.,attribute
+207,target shield,has_trait,1020,parry focused,Circular design enhances parrying.,attribute
+208,buckler,has_trait,1324,parry protrusion,Central protrusion ideal for deflection.,attribute
+209,cracked round shield,has_trait,1312,very low stability,Barely holds up under pressure.,attribute
+210,leather shield,has_trait,1418,standard round,Common and widely available.,attribute
+211,plank shield,has_trait,1091,minimal protection,Makeshift and barely effective in combat.,attribute
+212,caduceus round shield,has_design,1175,blue caduceus,Decorated with magical staff symbol.,attribute
+212,caduceus round shield,reduces_damage,863,magic,Provides some protection against spells.,combat_effect
+213,crystal ring shield,originates_from,56,moonlight butterfly,Forged from the soul of a mystical being.,origin
+213,crystal ring shield,emits,1003,crystal light rings,Releases magical projectiles in defense.,combat_effect
+214,heater shield,has_trait,1037,100% physical block,Complete protection from standard attacks.,attribute
+215,knight shield,standard_gear,1339,knights,Commonly equipped by noble warriors.,affiliation
+216,tower kite shield,has_design,1124,tower symbol,Medium shield with distinctive crest.,attribute
+217,grass crest shield,enhances,1126,stamina recovery,Improves stamina regeneration rate.,mechanic
+217,grass crest shield,has_trait,1328,enchanted origin,Its effect comes from embedded magic.,attribute
+218,hollow soldier shield,has_trait,1258,rusted but sturdy,Rough appearance yet reliable in combat.,attribute
+219,balder shield,originates_from,1046,balder knights,Used by knights of the ancient kingdom.,affiliation
+219,balder shield,has_trait,1217,good stability,Balances weight and defensive capability well.,attribute
+220,crest shield,has_trait,1311,magic reduction,Blue enchanted shield that reduces magic damage.,combat_effect
+221,dragon crest shield,has_trait,1153,fire reduction,Blue enchanted shield that reduces fire damage.,combat_effect
+222,warrior's round shield,has_design,1323,labrys,"Decorated with the double-axe symbol, offers magic resistance.",attribute
+223,iron round shield,used_by,785,shiva of the east,Heavy shield carried by the Eastern warrior.,affiliation
+224,spider shield,originates_from,875,mountain bandits,Poison-resistant shield used by outlaws.,affiliation
+224,spider shield,resists,1322,poison,Provides protection against toxins.,combat_effect
+225,spiked shield,belongs_to,876,darkwraith kirk,His personal shield that causes bleeding.,ownership
+225,spiked shield,causes_effect,814,bleeding,Inflicts bleed buildup when used as weapon.,combat_effect
+226,crystal shield,has_trait,1164,crystallized,Extremely fragile and cannot be repaired.,attribute
+226,crystal shield,has_limitation,1092,irreparable,"Once broken, cannot be restored.",mechanic
+227,sunlight shield,belongs_to,39,solaire of astora,Shield of the sun-worshipping knight.,ownership
+228,silver knight shield,used_by,812,silver knights,Holy shield blessed for divine combat.,affiliation
+228,silver knight shield,has_trait,815,blessed,Carries divine enchantment.,attribute
+229,black knight shield,used_by,833,black knights,Offers resistance to fire.,affiliation
+229,black knight shield,resists,824,fire,Provides excellent defense against fire damage.,combat_effect
+230,pierce shield,used_by,886,knights of catarina,Unique design allows it to be used as a weapon.,affiliation
+230,pierce shield,can_be_used_as,1143,thrust weapon,Shield has central protrusion for piercing attacks.,mechanic
+231,red and white round shield,crafted_in,837,lordran,"Made in the ancient land, inspired by archtrees.",origin
+231,red and white round shield,resists,863,magic,Its wood reduces magic damage.,combat_effect
+232,caduceus kite shield,has_design,1175,blue caduceus,Standard shield with magical symbol.,attribute
+233,gargoyle's shield,used_by,1005,undead church gargoyle,"Shield with low physical reduction, rare for metal.",affiliation
+233,gargoyle's shield,has_trait,1127,low physical reduction,Uncommon for a shield of its class.,attribute
+234,eagle shield,has_design,1028,eagle,Lightest greatshield available.,attribute
+234,eagle shield,can_be_used_as,994,bash tool,Greatshields cannot parry; they bash instead.,mechanic
+235,tower shield,used_by,832,knight berenike,Enormous shield used by heavily armored knight.,ownership
+236,giant shield,used_by,1029,anor londo sentinels,Bronze greatshield made for giants.,affiliation
+236,giant shield,resists,1053,non-physical damage,Marcasite offers strong elemental defense.,combat_effect
+237,stone greatshield,used_by,813,stone knight,Shield of the guardian of Darkroot Garden.,affiliation
+237,stone greatshield,associated_with,18,darkroot garden,Imbued with ancient magic from this forest.,location
+238,havel's greatshield,belongs_to,852,havel the rock,Legendary greatshield carved from a stone slab.,ownership
+238,havel's greatshield,has_trait,1371,divine heirloom,Comparable in status to Dragon Tooth.,narrative_reference
+239,bonewheel shield,has_trait,1148,spiked wheel,Shield with rotating spikes usable in offense.,attribute
+239,bonewheel shield,used_by,1325,skeletons,Melded with undead enemies in the catacombs.,affiliation
+240,greatshield of artorias,forged_from,689,soul of sif,Shield made from the soul of the great wolf.,origin
+240,greatshield of artorias,associated_with,58,artorias the abysswalker,Guardian of the knight's resting place.,narrative_reference
+240,greatshield of artorias,grants,1039,divine protection,Shields against multiple status effects.,combat_effect
+241,whip,effective_against,1157,exposed skin,"Ineffective against armor, but good versus unprotected foes.",combat_effect
+242,notched whip,causes_effect,814,bleeding,Inflicts heavy bleeding thanks to sharp barbs.,combat_effect
+242,notched whip,effective_against,1157,exposed skin,"Much like standard whip, excels against flesh.",combat_effect
+243,standard arrow,requires,1363,equipped to fire,Must be equipped before being used with a bow.,mechanic
+244,large arrow,has_trait,1404,heavier = more damage,Heavy arrows deal more damage but reduce range.,mechanic
+244,large arrow,has_limitation,1187,shorter range,Greater weight reduces projectile distance.,mechanic
+245,feather arrow,used_by,880,lord's hunters,Long-range arrows ideal for sniping.,affiliation
+245,feather arrow,has_trait,1223,long range,Effective for sniping due to reach.,attribute
+246,fire arrow,causes_effect,1379,fire damage,Flaming tips ignite targets on contact.,combat_effect
+247,poison arrow,causes_effect,1322,poison,Applies poison over time to the target.,combat_effect
+248,moonlight arrow,granted_by,1316,covenant of dark sun gwyndolin,Bestowed on covenant members.,affiliation
+248,moonlight arrow,causes_effect,1074,magic damage,Inflicts arcane damage with silver glow.,combat_effect
+248,moonlight arrow,compatible_with,179,darkmoon bow,Designed to be used with this bow.,mechanic
+249,wooden arrow,has_trait,1229,low cost,Cheap and efficient when used in volume.,attribute
+250,dragonslayer arrow,used_by,768,hawkeye gough,Massive anti-dragon projectile.,affiliation
+250,dragonslayer arrow,used_by,865,dragonslayers,Massive anti-dragon projectile.,affiliation
+250,dragonslayer arrow,compatible_with,177,dragonslayer greatbow,Only usable with this bow.,mechanic
+251,gough's great arrow,used_by,768,hawkeye gough,Crafted by and for the Four Knights' archer.,ownership
+251,gough's great arrow,requires,996,greatbow,Fired exclusively from large bows.,mechanic
+252,standard bolt,compatible_with,180,light crossbow,Standard ammo type for this weapon.,mechanic
+253,heavy bolt,compatible_with,181,heavy crossbow,Powerful bolt with reduced range.,mechanic
+253,heavy bolt,has_trait,1158,high damage,"Heavy impact, shorter flight.",attribute
+254,sniper bolt,compatible_with,183,sniper crossbow,Designed for long-distance precision.,mechanic
+254,sniper bolt,has_trait,1223,long range,Red feather bolt optimized for sniping.,attribute
+255,wood bolt,has_trait,1229,low cost,Inexpensive ammo with limited power and range.,attribute
+256,lightning bolt,imbued_with,840,lightning,Infused with electric energy.,attribute
+256,lightning bolt,crafted_by,851,giant blacksmith,Forged from ancient specs in Anor Londo.,origin
+257,effigy shield,resists,1095,divine,Defensive occult shield against divine powers.,combat_effect
+257,effigy shield,resists,840,lightning,Defensive occult shield against divine powers.,combat_effect
+257,effigy shield,associated_with,882,occult followers,Linked to a plot to destroy the gods.,narrative_reference
+257,effigy shield,opposed_to,63,gravelord nito,Used in a failed attempt to steal his power.,narrative_reference
+258,sanctus,granted_to,1235,way of white paladin,Sacred item with faint white flame blessing.,affiliation
+258,sanctus,restores,1202,hp over time,Slow passive regeneration effect.,mechanic
+259,bloodshield,has_trait,1402,boosts resistances,Enhances defense via red enchantment.,attribute
+260,black iron greatshield,used_by,41,tarkus,Heavy fire-resistant shield.,ownership
+260,black iron greatshield,resists,824,fire,Highly protective against flame attacks.,combat_effect
+261,gold tracer,used_by,759,lord's blade ciaran,Golden curved sword for rapid strikes.,ownership
+262,dark silver tracer,used_by,759,lord's blade ciaran,Poisonous dagger complementing the gold tracer.,ownership
+262,dark silver tracer,causes_effect,1322,poison,Applies poison through stealthy attacks.,combat_effect
+263,abyss greatsword,belongs_to,58,artorias,Weapon that reflects humanity and Abyss taint.,ownership
+263,abyss greatsword,tainted_by,5,abyss,Tied to Artorias's fall and darkness.,narrative_reference
+264,cleansing greatshield,used_by,58,artorias,Used to protect Sif from the Abyss.,ownership
+264,cleansing greatshield,resists,863,magic,Still retains high magical defense.,combat_effect
+265,stone greataxe,used_by,813,stone knights,Requires inhuman strength to wield.,affiliation
+266,four-pronged plow,used_by,1385,forest sanctuary scarecrows,Improvised weapon from farming tool.,affiliation
+266,four-pronged plow,has_trait,1178,sharp,Dangerous despite rustic design.,attribute
+267,manus catalyst,forged_from,699,soul of manus,Old wooden catalyst used for dark sorceries.,origin
+267,manus catalyst,boosts,1347,sorcery strength,Increases spell power but limits casts.,mechanic
+267,manus catalyst,has_limitation,1067,fewer casts,Reduces number of sorcery uses.,mechanic
+268,oolacile catalyst,originates_from,869,oolacile,Formed from enchanted branches.,origin
+268,oolacile catalyst,boosts,1263,sorcery adjustment,Helps with lost land sorceries.,mechanic
+268,oolacile catalyst,ineffective_with,1336,intelligence,Attacks are not boosted by INT.,mechanic
+269,guardian tail,originates_from,57,sanctuary guardian,Severed tail from the toxic beast.,origin
+269,guardian tail,causes_effect,1322,poison,Highly poisonous and flexible.,combat_effect
+270,obsidian greatsword,originates_from,1192,tail of kalameet,Forged from the tail of the black dragon Kalameet.,origin
+270,obsidian greatsword,has_trait,1288,mystical power,Unleashes magical energy when wielded two-handed.,attribute
+271,gough's greatbow,used_by,768,hawkeye gough,Massive bow used for dragon hunting.,ownership
+271,gough's greatbow,effective_against,818,dragons,Designed for use in dragon slaying.,combat_effect
+272,catarina helm,part_of_set,877,catarina,"Iconic helm with onion shape, effective for parrying.",attribute
+273,catarina armor,part_of_set,877,catarina,Matches helm with curved form and parrying use.,attribute
+274,catarina gauntlets,part_of_set,877,catarina,Defense-focused part of the Catarina knight set.,attribute
+275,catarina leggings,part_of_set,877,catarina,Lower armor piece known for its curved design.,attribute
+276,paladin helm,belongs_to,44,paladin leeroy,Worn by Leeroy of the Way of White.,ownership
+276,paladin helm,associated_with,258,sanctus,Tied to divine relics wielded by Leeroy.,narrative_reference
+276,paladin helm,associated_with,147,grant,Tied to divine relics wielded by Leeroy.,narrative_reference
+277,paladin armor,belongs_to,44,paladin leeroy,Armor from his divine crusade.,ownership
+278,paladin gauntlets,belongs_to,44,paladin leeroy,Part of the gear from the first Undead mission.,ownership
+279,paladin leggings,belongs_to,44,paladin leeroy,Worn for sacred quests under the Way of White.,ownership
+280,dark mask,used_by,810,darkwraiths,Their mask fuses partially with the face.,affiliation
+281,dark armor,represents,1109,lifedrain art,Armor symbolizing the soul-absorbing art of the Darkwraiths.,narrative_reference
+282,dark gauntlets,used_by,810,darkwraiths,Gloves of the Lifedrain warriors.,affiliation
+283,dark leggings,part_of_set,1403,darkwraith,Lower portion of the corrupted knight armor.,attribute
+284,brigand hood,used_by,1041,mountain brigands,Provides protection and battlefield ID.,affiliation
+285,brigand armor,has_trait,1228,mobility and defense,Balanced leather and metal construction.,attribute
+286,brigand gauntlets,has_trait,1238,ambush-suited,Optimized for light surprise attacks.,attribute
+287,brigand trousers,has_trait,1335,stealth and flexibility,Worn by ambushers for agility.,attribute
+288,shadow mask,used_by,1236,eastern spies,Sacrifices defense for agility.,affiliation
+289,shadow garb,has_trait,1382,mobility-focused,Suited for martial artists and light combat.,attribute
+290,shadow gauntlets,resists,1322,poison,Provides resilience in espionage contexts.,combat_effect
+290,shadow gauntlets,resists,814,bleed,Provides resilience in espionage contexts.,combat_effect
+291,shadow leggings,has_trait,1244,lightweight for stealth,Part of a silent operative’s gear.,attribute
+292,black iron helm,belongs_to,41,tarkus,"Heavy, fire-resistant helm of Tarkus.",ownership
+293,black iron armor,belongs_to,41,tarkus,Main torso of the nearly immovable armor.,ownership
+294,black iron gauntlets,resists,824,fire,Gauntlets designed to endure flames.,combat_effect
+295,black iron leggings,part_of_set,1261,black iron set,Completes the heavy armor set of the legendary Tarkus.,attribute
+295,black iron leggings,belongs_to,41,tarkus,"Part of the set worn by Tarkus, a renowned warrior.",ownership
+296,smough's helm,part_of_set,1266,smough's set,"Part of Smough’s executioner armor, known for extreme defense.",attribute
+296,smough's helm,belongs_to,54,executioner smough,"Worn by Smough, the brutal executioner of Anor Londo.",ownership
+297,smough's armor,part_of_set,1266,smough's set,Main armor piece of the executioner Smough.,attribute
+297,smough's armor,belongs_to,54,executioner smough,Massive golden armor worn by Smough in Anor Londo.,ownership
+298,smough's gauntlets,part_of_set,1266,smough's set,Heavy gloves from Smough’s iconic armor.,attribute
+298,smough's gauntlets,belongs_to,54,executioner smough,Gauntlets used by the Anor Londo executioner.,ownership
+299,smough's leggings,part_of_set,1266,smough's set,Heavy lower armor worn by Smough.,attribute
+299,smough's leggings,belongs_to,54,executioner smough,Completes Smough’s personal armor set.,ownership
+300,six-eyed helm of the channelers,used_by,858,channelers,Worn by Seath’s agents; aids vision due to Seath's blindness.,affiliation
+300,six-eyed helm of the channelers,associated_with,68,seath the scaleless,"Channelers served Seath, using these helms to compensate for his blindness.",narrative_reference
+301,robe of the channelers,used_by,858,channelers,Robes of the agents who abducted test subjects for Seath.,affiliation
+302,gauntlets of the channelers,used_by,858,channelers,Magic-infused gloves worn by Seath’s servants.,affiliation
+303,waistcloth of the channelers,used_by,858,channelers,Lower magical armor worn by Channelers.,affiliation
+304,helm of favor,belongs_to,47,lautrec,Helm symbolizing Lautrec’s devotion to the goddess Fina.,ownership
+304,helm of favor,associated_with,915,fina,Represents Lautrec’s love for Fina.,narrative_reference
+305,embraced armor of favor,belongs_to,47,lautrec,Golden armor with an embracing motif linked to Fina.,ownership
+305,embraced armor of favor,associated_with,915,fina,Embodiment of the goddess Fina's love.,narrative_reference
+306,gauntlets of favor,belongs_to,47,lautrec,Symbolizes devotion and abandonment for love.,ownership
+307,leggings of favor,belongs_to,47,lautrec,Final armor piece representing Lautrec’s bond to Fina.,ownership
+308,helm of the wise,belongs_to,762,domhnall of zena,"Horned helm worn by Domhnall, the eccentric merchant.",ownership
+308,helm of the wise,originates_from,890,zena,Crafted in the ancient and mysterious land of Zena.,origin
+309,armor of the glorious,belongs_to,762,domhnall of zena,Gold-plated armor covered in medals.,ownership
+310,gauntlets of the vanquisher,belongs_to,762,domhnall of zena,Strange golden bracelets signifying conquest.,ownership
+311,boots of the explorer,belongs_to,762,domhnall of zena,Boots with silver rings symbolizing exploration.,ownership
+312,stone helm,used_by,813,stone knights,Magic-infused helm worn by Darkroot Garden defenders.,affiliation
+312,stone helm,located_in,18,darkroot garden,Worn by enchanted defenders of the ancient forest.,location
+313,stone armor,used_by,813,stone knights,"Enchanted, moss-covered armor from ancient magic.",affiliation
+314,stone gauntlets,used_by,813,stone knights,Heavy gauntlets from the magically animated Stone Knights.,affiliation
+315,stone leggings,used_by,813,stone knights,Leg armor belonging to ancient mossy knights.,affiliation
+316,crystalline helm,used_by,1428,crystal hollow knight,Crystallized helm granting high defense.,affiliation
+316,crystalline helm,has_trait,1086,crystal enhancement,Provides increased defense due to crystal structure.,attribute
+317,crystalline armor,used_by,1428,crystal hollow knight,Body armor crystallized for increased protection.,affiliation
+318,crystalline gauntlets,used_by,1428,crystal hollow knight,Crystallized gloves offering solid defense.,affiliation
+319,crystalline leggings,used_by,1428,crystal hollow knight,Lower crystalline armor for a Hollowed knight.,affiliation
+320,mask of the sealer,used_by,892,sealers,Worn by sorcerers who sealed away the Darkwraiths and the Four Kings.,affiliation
+320,mask of the sealer,symbolizes,1205,atonement and resolve,Represents the Sealers' dedication to keeping the seal shut and their atonement.,narrative_reference
+321,crimson robe,used_by,892,sealers,"Robe of sorcerers who sealed New Londo, formerly known as healers.",affiliation
+321,crimson robe,symbolizes,1233,healing tradition,The crimson color recalls their origins as healers.,narrative_reference
+322,crimson gloves,used_by,892,sealers,Gloves of the Sealers who performed the New Londo flooding ritual.,affiliation
+323,crimson waistcloth,used_by,892,sealers,Lower garment worn during the sealing of the Darkwraiths.,affiliation
+324,mask of velka,used_by,893,velka's pardoners,Worn by those who hear confessions and urge penance in Velka’s name.,affiliation
+324,mask of velka,symbolizes,1417,detachment from worldly desires,The mask reflects their vow of spiritual separation.,narrative_reference
+325,black cleric robe,used_by,893,velka's pardoners,"Robe infused with Velka’s power, worn by her agents.",affiliation
+325,black cleric robe,resists,863,magic,The robe offers resistance to various forms of magic.,combat_effect
+326,black manchette,resists,863,magic,Magically resistant gloves of Velka’s pardoners.,combat_effect
+327,black tights,resists,863,magic,"Lower part of Velka’s attire, offers magical defense.",combat_effect
+328,iron helm,belongs_to,39,solaire of astora,Standard-quality helm used by the Knight of Sunlight.,ownership
+329,armor of the sun,belongs_to,39,solaire of astora,"Features a sun painted by Solaire, worn during his quest.",ownership
+330,iron bracelet,belongs_to,39,solaire of astora,"Part of Solaire’s knightly set, high craftsmanship.",ownership
+331,iron leggings,belongs_to,39,solaire of astora,Used by Solaire during his journey for his own sun.,ownership
+332,chain helm,has_trait,1044,reliable defense,Common helm providing balanced protection.,attribute
+333,chain armor,has_trait,1044,reliable defense,Widespread armor known for its consistent quality.,attribute
+334,leather gauntlets,has_trait,1056,flexibility,Soft leather construction ideal for mobility.,attribute
+335,chain leggings,has_trait,1044,reliable defense,Lower armor completing the standard chain set.,attribute
+336,cleric helm,used_by,1359,warrior clerics,Heavy helm of those in the Way of White.,affiliation
+337,cleric armor,used_by,1359,warrior clerics,Protective garb for the faithful in battle.,affiliation
+338,cleric gauntlets,used_by,1359,warrior clerics,Heavy gloves from the Way of White’s battle gear.,affiliation
+339,cleric leggings,used_by,1359,warrior clerics,Substantial lower armor for clerics.,affiliation
+340,sunlight maggot,originates_from,14,lost izalith,Parasitic creature native to Lost Izalith.,origin
+340,sunlight maggot,emits,1002,blinding light,"Glows when worn on the head, useful in dark areas.",attribute
+341,helm of thorns,belongs_to,45,kirk,Damages enemies when rolling; part of Kirk’s armor.,ownership
+342,armor of thorns,belongs_to,45,kirk,Covered in spikes to inflict damage when rolling.,ownership
+343,gauntlets of thorns,belongs_to,45,kirk,Spiked gloves for damaging enemies through movement.,ownership
+344,leggings of thorns,belongs_to,45,kirk,Complete Kirk’s aggressive armor set.,ownership
+345,standard helm,part_of_set,1421,standard set,Standard iron helm with good defense.,attribute
+346,hard leather armor,part_of_set,1201,hard leather set,Common armor providing solid defense.,attribute
+347,hard leather gauntlets,part_of_set,1201,hard leather set,Thick leather gauntlets from the same set.,attribute
+348,hard leather boots,part_of_set,1201,hard leather set,Boots matching the hard leather armor.,attribute
+349,sorcerer hat,used_by,1104,vinheim sorcerers,Represents academic tradition of Vinheim.,affiliation
+350,sorcerer cloak,used_by,1104,vinheim sorcerers,Formal cloak of Dragon School sorcerers.,affiliation
+351,sorcerer gauntlets,used_by,1104,vinheim sorcerers,Reflects academic pride of sorcerers.,affiliation
+352,sorcerer boots,used_by,1104,vinheim sorcerers,Footwear denoting academic discipline.,affiliation
+353,tattered cloth hood,used_by,1137,great swamp pyromancers,Provides natural resistance and identity.,affiliation
+354,tattered cloth robe,used_by,1137,great swamp pyromancers,Protects against harsh environments.,affiliation
+355,tattered cloth manchette,resists,1322,poison,Enhances elemental resistances.,combat_effect
+355,tattered cloth manchette,resists,824,fire,Enhances elemental resistances.,combat_effect
+356,heavy boots,used_by,1137,great swamp pyromancers,Worn for surviving difficult terrain.,affiliation
+357,pharis's hat,belongs_to,870,pharis,Heroic hat of legendary archer.,ownership
+358,leather armor,part_of_set,1274,leather set,Common lightweight armor.,attribute
+359,leather gloves,part_of_set,1274,leather set,Part of soft leather defense gear.,attribute
+360,leather boots,part_of_set,1274,leather set,Light footwear matching leather armor.,attribute
+361,painting guardian hood,used_by,834,painting guardians,Worn by the guardians of Ariamis.,affiliation
+362,painting guardian robe,used_by,834,painting guardians,Passed through generations of guardians.,affiliation
+363,painting guardian gloves,used_by,834,painting guardians,Part of the guardian attire.,affiliation
+364,painting guardian waistcloth,used_by,834,painting guardians,Magical protective garment.,affiliation
+365,ornstein's helm,belongs_to,66,dragonslayer ornstein,Helm of the legendary knight.,ownership
+366,ornstein's armor,belongs_to,66,dragonslayer ornstein,Main armor piece offering lightning resistance.,ownership
+367,ornstein's gauntlets,belongs_to,66,dragonslayer ornstein,Lightning-protective gloves of Ornstein.,ownership
+368,ornstein's leggings,belongs_to,66,dragonslayer ornstein,Lightning-resistant lower armor.,ownership
+369,eastern helm,originates_from,836,eastern lands,Defensive helm from a distant land.,origin
+370,eastern armor,part_of_set,1234,eastern,Armor from the Eastern lands with slashing resistance.,attribute
+371,eastern gauntlets,part_of_set,1234,eastern,Well-crafted gauntlets offering good slash resistance.,attribute
+372,eastern leggings,part_of_set,1234,eastern,Leggings from the East with slash protection.,attribute
+373,xanthous crown,belongs_to,46,xanthous king jeremiah,Oversized crown linked to the exiled king.,ownership
+374,xanthous overcoat,belongs_to,46,xanthous king jeremiah,Bright coat worn by the eccentric exiled king.,ownership
+375,xanthous gloves,belongs_to,46,xanthous king jeremiah,Yellow gloves from the Xanthous legend.,ownership
+376,xanthous waistcloth,belongs_to,46,xanthous king jeremiah,Tattered waistcloth symbolic of his exile.,ownership
+377,thief mask,used_by,799,thieves,Worn to conceal identity during stealth.,affiliation
+378,black leather armor,has_trait,1386,stealth,Smooth armor for silent operations.,attribute
+379,black leather gloves,has_trait,1386,stealth,Gloves crafted for silent movements.,attribute
+380,black leather boots,has_trait,1386,stealth,Boots designed for quiet steps.,attribute
+381,priest's hat,used_by,897,way of white priests,Headwear for clerics from Thorolund.,affiliation
+382,holy robe,used_by,1370,way of white clerics,Plain robe for spiritual service.,affiliation
+407,traveling gloves,used_by,850,clerics,"Practical gloves, once used by Logan.",affiliation
+407,traveling gloves,used_by,1273,scholars,"Practical gloves, once used by Logan.",affiliation
+384,holy trousers,used_by,1370,way of white clerics,Durable cleric trousers.,affiliation
+385,black knight helm,belongs_to,833,black knights,Helmet scorched by the First Flame.,ownership
+386,black knight armor,belongs_to,833,black knights,Worn by the spectral warriors of Lord Gwyn.,ownership
+387,black knight gauntlets,belongs_to,833,black knights,Gauntlets scorched by the Flame.,ownership
+388,black knight leggings,belongs_to,833,black knights,Leg armor of Gwyn’s undead knights.,ownership
+389,crown of dusk,belongs_to,40,dusk,Enhances magic but reduces defense.,attribute
+390,antiquated dress,originates_from,869,oolacile,Enchanted garment from ancient times.,origin
+391,antiquated gloves,originates_from,869,oolacile,Ancient gloves of no combat use.,origin
+392,antiquated skirt,originates_from,869,oolacile,Skirt imbued with old magic.,origin
+393,witch hat,belongs_to,42,beatrice,Worn by the rogue witch who braved the Abyss.,ownership
+394,witch cloak,belongs_to,42,beatrice,Cloak of a witch unaffiliated with formal schools.,ownership
+395,witch gloves,used_by,42,beatrice,"Gloves of Beatrice, an unconventional magic user.",ownership
+396,witch skirt,used_by,42,beatrice,"Skirt of Beatrice, the rogue Abyss-explorer.",ownership
+397,elite knight helm,belongs_to,1089,astora knight,Helm of an elite Astora knight who perished and went Hollow.,ownership
+398,elite knight armor,belongs_to,1089,astora knight,Armor of a knight of Astora. Features fire-warding symbol.,ownership
+399,elite knight gauntlets,belongs_to,1089,astora knight,Gauntlets of a knight who died during his Undead mission.,ownership
+400,elite knight leggings,belongs_to,1089,astora knight,Leggings of a knight of Astora who went Hollow.,ownership
+401,wanderer hood,belongs_to,1438,wanderer,Hood of a leather-clad aimless traveler.,ownership
+402,wanderer coat,belongs_to,1438,wanderer,Leather coat of a traveler. Offers moderate protection.,ownership
+403,wanderer manchette,belongs_to,1438,wanderer,Leather manchettes for long journeys.,ownership
+404,wanderer boots,belongs_to,1438,wanderer,Traveler’s boots for long-distance trekking.,ownership
+405,big hat,belongs_to,774,big hat logan,"Hat worn by Logan, the antisocial great sorcerer.",ownership
+406,sage robe,belongs_to,774,big hat logan,Logan’s worn robe from his days at Dragon School.,ownership
+407,traveling gloves,belongs_to,774,big hat logan,Ordinary gloves used by Logan.,ownership
+408,traveling boots,belongs_to,774,big hat logan,Common traveling boots worn by Logan.,ownership
+409,knight helm,belongs_to,1019,undead knight,Basic helm with grooved reinforcement.,ownership
+410,knight armor,belongs_to,1019,undead knight,Simple armor with grooved structure.,ownership
+411,knight gauntlets,belongs_to,1019,undead knight,Grooved gauntlets offering extra protection.,ownership
+412,knight leggings,belongs_to,1019,undead knight,Basic knight leggings with grooved texture.,ownership
+413,dingy hood,belongs_to,898,fire keeper,Charred white hood worn by Firelink Shrine’s Fire Keeper.,ownership
+414,dingy robe,belongs_to,898,fire keeper,"Formerly white robe of Firelink Fire Keeper, now blackened.",ownership
+415,dingy gloves,belongs_to,898,fire keeper,Darkened gloves worn by Fire Keeper.,ownership
+416,blood-stained skirt,belongs_to,898,fire keeper,"Possibly maimed Fire Keeper’s skirt, stained with blood.",ownership
+417,maiden hood,used_by,899,traveling maidens,Soft white formal hood worn by traveling maidens.,affiliation
+418,maiden robe,used_by,899,traveling maidens,"Formal white robe, not battle-suited.",affiliation
+419,maiden gloves,used_by,899,traveling maidens,Soft ceremonial gloves worn by maidens.,affiliation
+420,maiden skirt,part_of_set,1047,maiden,White skirt as part of ceremonial attire.,attribute
+421,silver knight helm,part_of_set,812,silver knight,Helm worn by the knights who remained in Anor Londo.,affiliation
+422,silver knight armor,belongs_to,812,silver knights,Armor of knights who served Gwyn’s goddess.,ownership
+423,silver knight gauntlets,part_of_set,812,silver knight,Gauntlets of the Anor Londo’s Silver Knights.,attribute
+424,silver knight leggings,part_of_set,812,silver knight,Leggings of Silver Knights who remained after Gwyn left.,attribute
+425,havel's helm,belongs_to,1278,havel's warriors,Heavy helm worn by the warriors of Havel.,ownership
+426,havel's armor,belongs_to,1278,havel's warriors,Massive stone armor worn by Havel’s men.,ownership
+427,havel's gauntlets,part_of_set,852,havel,Stone gauntlets for unmatched defense.,attribute
+428,havel's leggings,part_of_set,852,havel,Stone leggings worn by the unyielding Havel’s warriors.,attribute
+429,brass helm,belongs_to,761,darkmoon knightess,Helm concealing the identity of the Darkmoon Knightess.,ownership
+430,brass armor,grants,1017,darkmoon authority,Grants concealment and power to hunt the guilty.,narrative_reference
+431,brass gauntlets,used_by,761,darkmoon knightess,Symbolic of her duty as Fire Keeper of Anor Londo.,affiliation
+432,brass leggings,represents,1334,divine purpose,Leggings that embody secrecy and divine role.,narrative_reference
+433,gold-hemmed black hood,belongs_to,782,quelana of izalith,Provides high resistance to fire and poison.,ownership
+434,gold-hemmed black cloak,represents,1048,fire and chaos heritage,"Worn by Quelana, reinforces her origin.",narrative_reference
+435,gold-hemmed black gloves,belongs_to,782,quelana of izalith,Part of her ancient garb before the Age of Fire.,ownership
+436,gold-hemmed black skirt,has_resistance_to,824,fire,High resistance to fire and poison.,attribute
+436,gold-hemmed black skirt,has_resistance_to,1322,poison,High resistance to fire and poison.,attribute
+437,golem helm,penalizes,1126,stamina recovery,Extremely heavy helm that reduces stamina recovery.,combat_effect
+438,golem armor,provides,1125,extreme protection,Torso armor that greatly increases defense.,combat_effect
+439,golem gauntlets,increases,1365,weight load,Heavy gauntlets that increase endurance requirements.,attribute
+440,golem leggings,part_of_set,53,iron golem,Lower armor suitable for high endurance builds.,attribute
+441,hollow soldier helm,used_by,1055,hollow soldiers,Basic iron helm offering minimal protection.,affiliation
+442,hollow soldier armor,used_by,1055,hollow soldiers,Worn armor used by Hollow soldiers.,affiliation
+443,hollow soldier waistcloth,used_by,1055,hollow soldiers,Barely functional piece used by Hollow footmen.,affiliation
+444,steel helm,used_by,832,berenike knights,Heavy and sturdy helm worn by Berenike Knights.,affiliation
+445,steel armor,part_of_set,1264,steel,"Armor worn by Berenike Knights, matches rest of the heavy set.",attribute
+446,steel gauntlets,part_of_set,1264,steel,Gauntlets from the Berenike Knights' heavy steel set.,attribute
+447,steel leggings,part_of_set,1264,steel,"Legwear used by Berenike Knights, designed for high durability.",attribute
+448,hollow thief's hood,used_by,902,hollow thieves,Stealth-optimized hood used by undead thieves.,affiliation
+449,hollow thief's leather armor,has_trait,1410,evasion and silence,Light armor meant for evading attacks and stealth movement.,attribute
+450,hollow thief's tights,has_trait,1386,stealth,Soft leggings worn by thieves for silent steps.,attribute
+451,balder helm,originates_from,806,balder,Heavy helm from the fallen kingdom of Balder.,origin
+452,balder armor,part_of_set,806,balder,Defensive armor used by knights from Balder.,attribute
+453,balder gauntlets,part_of_set,806,balder,Worn by knights of Balder as a symbol of their resistance.,attribute
+454,balder leggings,part_of_set,806,balder,Leg armor that endured battles during Balder’s fall.,attribute
+455,hollow warrior helm,used_by,903,hollow warriors,Worn iron helm still functional despite damage.,affiliation
+456,hollow warrior armor,used_by,903,hollow warriors,Worn armor of undead soldiers who lost their humanity.,affiliation
+457,hollow warrior waistcloth,has_trait,1091,minimal protection,Low quality waistcloth used by Hollow warriors.,attribute
+458,giant helm,used_by,859,giant sentinels,Helm worn by massive Giant guards of Anor Londo.,affiliation
+459,giant armor,has_trait,1165,extreme defense,Brass chestplate that hinders stamina but grants great protection.,attribute
+460,giant gauntlets,has_trait,1280,weight and protection,Gauntlets that offer large coverage but are heavy to wield.,attribute
+461,giant leggings,part_of_set,1344,giant,Lower portion of the Giant Sentinel armor.,attribute
+462,crown of the dark sun,belongs_to,69,dark sun gwyndolin,Crown symbolizing Gwyndolin's devotion and magical power.,ownership
+463,moonlight robe,belongs_to,69,dark sun gwyndolin,Elegant robe tied to Gwyndolin's moonlit identity.,ownership
+464,moonlight gloves,part_of_set,964,gwyndolin,Silken gloves worn as part of Gwyndolin’s ceremonial wear.,attribute
+465,moonlight waistcloth,part_of_set,964,gwyndolin,"Matching ceremonial waistcloth, not intended for battle.",attribute
+466,crown of the great lord,belongs_to,71,gwyn,"Worn by Lord Gwyn, symbol of divine kingship.",ownership
+467,robe of the great lord,belongs_to,71,gwyn,"Once worn by the Lord of Sunlight, now faded by time.",ownership
+468,bracelet of the great lord,part_of_set,71,gwyn,Ceremonial bracelets from Gwyn’s post-Flame regalia.,attribute
+469,anklet of the great lord,part_of_set,71,gwyn,Anklets that completed Gwyn’s sacred attire.,attribute
+470,sack,used_by,1199,undead cook,Bloodstained sack worn by the man-eating Undead cook.,affiliation
+471,symbol of avarice,has_trait,981,soul absorption boost,Raises soul absorption and item discovery.,attribute
+471,symbol of avarice,has_trait,1133,item discovery boost,Raises soul absorption and item discovery.,attribute
+471,symbol of avarice,inflicts,1190,curse,Curses the wearer.,attribute
+472,royal helm,belongs_to,790,vamos,Helm of blacksmith Vamos. Partially gold.,ownership
+473,mask of the father,created_by,906,pinwheel,One of Pinwheel’s masks. Raises equipment load.,creation
+473,mask of the father,has_trait,1426,increased equipment load,Raises equipment load.,attribute
+474,mask of the mother,created_by,906,pinwheel,One of Pinwheel’s masks. Raises HP.,creation
+474,mask of the mother,has_trait,1333,increased hp,Raises HP.,attribute
+475,mask of the child,created_by,906,pinwheel,One of Pinwheel’s masks. Raises stamina recovery.,creation
+475,mask of the child,has_trait,1387,increased stamina recovery,Raises stamina recovery.,attribute
+476,fang boar helm,originates_from,985,armored boar,"Head of the armored boar, taken as trophy.",origin
+477,gargoyle helm,originates_from,70,bell gargoyle,Bronze helm from gargoyle.,origin
+478,black sorcerer hat,used_by,1104,vinheim sorcerers,Worn by secret Vinheim sorcerers.,affiliation
+478,black sorcerer hat,associated_with,1076,sound-based spells,Associated with sound-based spells.,narrative_reference
+479,black sorcerer cloak,used_by,1104,vinheim sorcerers,Worn by secret Vinheim sorcerers.,affiliation
+480,black sorcerer gauntlets,used_by,1104,vinheim sorcerers,Worn by secret Vinheim sorcerers.,affiliation
+481,black sorcerer boots,used_by,1104,vinheim sorcerers,Worn by secret Vinheim sorcerers.,affiliation
+478,black sorcerer hat,part_of_set,1108,black sorcerer,Hat from the Black Sorcerer set.,attribute
+479,black sorcerer cloak,part_of_set,1108,black sorcerer,Cloak from the Black Sorcerer set.,attribute
+480,black sorcerer gauntlets,part_of_set,1108,black sorcerer,Gauntlets from the Black Sorcerer set.,attribute
+481,black sorcerer boots,part_of_set,1108,black sorcerer,Boots from the Black Sorcerer set.,attribute
+482,helm of artorias,part_of_set,483,armor of artorias,"Helm worn by Artorias the Abysswalker, corroded by the Abyss. Belongs to his armor set.",equipment_set
+483,armor of artorias,part_of_set,483,armor of artorias,"Central chestpiece of Artorias's set, bearing signs of the Abyss.",equipment_set
+484,gauntlets of artorias,part_of_set,483,armor of artorias,"Gauntlets from Artorias's set, also damaged by Abyssal influence.",equipment_set
+485,leggings of artorias,part_of_set,483,armor of artorias,Leggings completing the Abyss-damaged set of Artorias.,equipment_set
+486,porcelain mask,associated_with,759,ciaran,"This mask belonged to Ciaran, one of Gwyn’s Four Knights.",character_item
+487,lord's blade robe,part_of_set,1443,lord's blade set,"Robe of Ciaran, known as the Lord's Blade, part of her stealth-focused attire.",equipment_set
+488,lord's blade gloves,part_of_set,1443,lord's blade set,"Gloves worn by Ciaran, designed to maximize stealth and precision.",equipment_set
+489,lord's blade waistcloth,part_of_set,1443,lord's blade set,Decorative and agile waistcloth from Ciaran’s set.,equipment_set
+490,gough's helm,part_of_set,1355,gough's set,"Helm worn by Hawkeye Gough, with resin-filled eye holes symbolizing his blindness.",equipment_set
+491,gough's armor,part_of_set,1355,gough's set,"Main body armor of Gough, a Dragonslayer honored by Gwyn.",equipment_set
+492,gough's gauntlets,part_of_set,1355,gough's set,"Heavy gauntlets resembling those worn by Silver Knights, part of Gough’s ensemble.",equipment_set
+493,gough's leggings,part_of_set,1355,gough's set,"Greaves belonging to Hawkeye Gough, final piece of his full armor.",equipment_set
+494,guardian helm,associated_with,1054,stone guardians,Massive helm worn by the magically animated Stone Guardians in Oolacile Sanctuary.,enemy_equipment
+497,guardian leggings,boosts,1243,magic defense,Stone knight leggings. Animated by magic.,effect
+498,snickering top hat,worn_by,758,marvellous chester,Hat of Marvellous Chester. Exudes sarcasm.,equipment
+499,chester's long coat,worn_by,758,marvellous chester,Aristocratic coat for stealth. Worn by Chester.,equipment
+500,chester's gloves,worn_by,758,marvellous chester,Plain but high-quality gloves of Chester.,equipment
+504,havel's ring,tribute_to,852,havel the rock,Increases max equip load. Tribute to Havel the Rock.,dedication
+504,havel's ring,boosts,1010,equip load,Increases max equip load. Tribute to Havel the Rock.,effect
+505,red tearstone ring,boosts,1230,hp,Boosts attack when HP is low.,effect
+505,red tearstone ring,boosts,1435,attack,Boosts attack when HP is low.,effect
+506,darkmoon blade covenant ring,associated_with,964,gwyndolin,Allows summoning by Gwyndolin.,covenant
+507,cat covenant ring,associated_with,792,alvina,Allows summoning by Alvina.,covenant
+508,cloranthy ring,boosts,1237,stamina regeneration,Boosts stamina regen.,effect
+509,flame stoneplate ring,boosts,1275,fire defense,Increases fire resistance.,effect
+510,thunder stoneplate ring,boosts,1360,lightning defense,"Stoneplate ring symbolizing thunder, boosts lightning defense.",effect
+511,spell stoneplate ring,boosts,1243,magic defense,"Stoneplate ring symbolizing souls, boosts magic defense.",effect
+512,speckled stoneplate ring,boosts,1243,magic defense,"Rare stoneplate grants small boost to magic, fire, and lightning defense.",effect
+512,speckled stoneplate ring,boosts,1275,fire defense,"Rare stoneplate grants small boost to magic, fire, and lightning defense.",effect
+512,speckled stoneplate ring,boosts,1360,lightning defense,"Rare stoneplate grants small boost to magic, fire, and lightning defense.",effect
+513,bloodbite ring,originates_from,796,carim,"Bite ring from Carim, helps prevent bleeding.",origin
+513,bloodbite ring,protects_against,814,bleeding,"Bite ring from Carim, helps prevent bleeding.",effect
+514,poisonbite ring,originates_from,796,carim,"Bite ring from Carim, helps prevent poison.",origin
+514,poisonbite ring,protects_against,1322,poison,"Bite ring from Carim, helps prevent poison.",effect
+515,tiny being's ring,boosts,1230,hp,"Ring with ancient red jewel, slightly increases HP.",effect
+516,cursebite ring,originates_from,796,carim,"Bite ring from Carim, helps prevent curses.",origin
+516,cursebite ring,protects_against,1190,curse,"Bite ring from Carim, helps prevent curses.",effect
+517,white seance ring,granted_by,849,way of white,"Divine ring of Way of White, grants extra attunement slots.",faction
+517,white seance ring,grants,1254,attunement slots,"Divine ring of Way of White, grants extra attunement slots.",effect
+518,bellowing dragoncrest ring,granted_by,871,vinheim dragon school,"Ring from Vinheim Dragon School, boosts sorcery strength.",origin
+518,bellowing dragoncrest ring,boosts,1347,sorcery strength,"Ring from Vinheim Dragon School, boosts sorcery strength.",effect
+519,dusk crown ring,associated_with,40,dusk,"Ring of Princess Dusk, grants more magic but halves HP.",origin
+519,dusk crown ring,boosts,1230,hp,"Ring of Princess Dusk, grants more magic but halves HP.",effect
+519,dusk crown ring,boosts,1243,magic defense,"Ring of Princess Dusk, grants more magic but halves HP.",effect
+520,hornet ring,boosts,1224,critical attacks,Ring of Lord's Blade Ciaran,mechanical_effect
+520,hornet ring,associated_with,759,lord's blade ciaran,,lore_association
+521,hawk ring,boosts,1156,bow range,Ring of Hawkeye Gough,mechanical_effect
+521,hawk ring,associated_with,768,hawkeye gough,,lore_association
+522,ring of steel protection,boosts,1031,physical defense,Ring of Knight King Rendal,mechanical_effect
+522,ring of steel protection,associated_with,803,knight king rendal,,lore_association
+523,covetous gold serpent ring,boosts,1256,item discovery,Gold ring with serpent,mechanical_effect
+524,covetous silver serpent ring,boosts,1239,souls per kill,Silver ring with serpent,mechanical_effect
+525,slumbering dragoncrest ring,suppresses,1440,wearer sound,Vinheim ring,mechanical_effect
+526,ring of fog,grants,1337,camouflage,Ring from Alvina,mechanical_effect
+526,ring of fog,associated_with,792,alvina,,lore_association
+527,rusted iron ring,improves,1197,footing on poor terrain,,mechanical_effect
+528,ring of sacrifice,prevents,1405,death penalties,Velka's ring,mechanical_effect
+528,ring of sacrifice,associated_with,844,velka,,lore_association
+529,rare ring of sacrifice,prevents,1155,curse and death loss,Rare Velka ring,mechanical_effect
+529,rare ring of sacrifice,associated_with,844,velka,,lore_association
+530,dark wood grain ring,alters,1027,rolling behavior,Eastern ring,mechanical_effect
+531,ring of the sun princess,boosts,1406,miracle synergy,Covenant ring with Gwynevere,mechanical_effect
+531,ring of the sun princess,associated_with,770,gwynevere,,lore_association
+532,old witch's ring,enables,1376,communication with quelaag's sister,Old ring with indecipherable script,lore_function
+533,covenant of artorias,enables,1356,abyss traversal,,mechanical_effect
+534,orange charred ring,reduces,1374,lava damage,linked to centipede demon,mechanical_effect
+535,lingering dragoncrest ring,boosts,1215,sorcery duration,,mechanical_effect
+536,ring of the evil eye,absorbs,1361,hp from defeated enemies,,mechanical_effect
+537,ring of favor and protection,boosts,1230,hp,,mechanical_effect
+537,ring of favor and protection,boosts,1270,stamina,,mechanical_effect
+537,ring of favor and protection,boosts,1010,equip load,,mechanical_effect
+537,ring of favor and protection,breaks_if,997,removed,,mechanical_condition
+538,leo ring,boosts,1301,thrust counterattacks,Ring of Ornstein,mechanical_effect
+538,leo ring,associated_with,66,ornstein,,lore_association
+539,east wood grain ring,reduces,1367,weapon durability loss,Good for Eastern swords,mechanical_effect
+540,wolf ring,boosts,1061,poise,Ring of Artorias,mechanical_effect
+540,wolf ring,associated_with,58,artorias,,lore_association
+541,blue tearstone ring,boosts,1341,defense when hp is low,,mechanical_effect
+542,ring of the sun's firstborn,boosts,1097,miracle strength,Belonged to Gwyn's firstborn,mechanical_effect
+542,ring of the sun's firstborn,associated_with,916,gwyn's firstborn,,lore_association
+543,darkmoon seance ring,grants,1306,extra magic slots,Ring of Gwyndolin,mechanical_effect
+543,darkmoon seance ring,associated_with,964,gwyndolin,,lore_association
+544,calamity ring,doubles,1196,damage taken,Linked to Kalameet,mechanical_effect
+544,calamity ring,associated_with,60,kalameet,,lore_association
+545,soul arrow,is_spell_type,1212,sorcery,Basic soul sorcery.,categorical
+545,soul arrow,has_effect,1049,ranged magic attack,Fires a soul arrow effective against tough enemies.,effect
+546,great soul arrow,is_variant_of,545,soul arrow,"Stronger version of Soul Arrow, signifies sorcerous growth.",variant
+546,great soul arrow,is_spell_type,1212,sorcery,Advanced soul arrow.,categorical
+547,heavy soul arrow,is_variant_of,545,soul arrow,Powerful but slower variant of Soul Arrow.,variant
+548,great heavy soul arrow,is_variant_of,547,heavy soul arrow,"Stronger version of Heavy Soul Arrow, favored by certain users.",variant
+549,homing soulmass,created_by,774,big hat logan,Logan's sorcery; fires homing magical projectiles.,origin
+549,homing soulmass,has_effect,1090,homing magic attack,Fires magical homing soul masses.,effect
+550,homing crystal soulmass,is_variant_of,549,homing soulmass,Crystal-enhanced version developed through Logan's Regal Archives research.,variant
+550,homing crystal soulmass,location_associated,34,duke's archives,Developed in the Regal Archives (Duke’s Archives).,location
+551,soul spear,created_by,774,big hat logan,Legendary piercing soul sorcery by Logan.,origin
+551,soul spear,has_effect,1186,piercing magic attack,Fires a piercing soul spear rivaling Gwyn’s lightning.,effect
+552,crystal soul spear,is_variant_of,551,soul spear,Enhanced with crystal magic from the Regal Archives.,variant
+553,magic weapon,has_effect,1297,weapon enchantment,Enchants right-hand weapon with basic magic.,effect
+554,great magic weapon,is_variant_of,553,magic weapon,Stronger enchantment variant used by Vinheim magic swordsmen.,variant
+554,great magic weapon,location_associated,871,vinheim,Associated with the Vinheim school of sorcery.,location
+555,crystal magic weapon,is_variant_of,553,magic weapon,"Uses crystal soul energy for enchantment, tied to Logan's research.",variant
+556,magic shield,has_effect,1283,shield enchantment,Grants left-hand shield magic resistance and stability.,effect
+557,strong magic shield,is_variant_of,556,magic shield,Enhanced version for greatshields used in Vinheim.,variant
+558,hidden weapon,location_associated,869,oolacile,Turns right-hand weapon invisible; from Oolacile.,location
+559,hidden body,location_associated,869,oolacile,Renders the caster nearly invisible with light-control sorcery.,location
+560,cast light,location_associated,869,oolacile,Ancient light-producing sorcery from Oolacile.,location
+561,hush,location_associated,871,vinheim,Silences caster's sound; made by stealth sorcerer of Vinheim.,location
+562,aural decoy,has_effect,1113,enemy distraction,Creates distant sound to mislead enemies.,effect
+563,repair,location_associated,869,oolacile,Restores durability of weapons and armor; Oolacile sorcery.,location
+564,fall control,location_associated,871,vinheim,Reduces fall damage and noise; stealth spell from Vinheim.,location
+565,chameleon,has_effect,1436,stealth transformation,Disguises the caster as an environmental object.,effect
+566,resist curse,location_associated,4,new londo,Lifts curses using humanity; linked to Ingward.,location
+567,remedy,location_associated,4,new londo,Cleanses poison and bleed buildup; tied to Yulva.,location
+567,remedy,linked_to,917,yulva,Linked to Yulva of New Londo.,association
+568,white dragon breath,created_by,774,big hat logan,Emulation of Seath's breath from Regal Archive studies.,origin
+568,white dragon breath,associated_with,68,seath the scaleless,Imitates Seath’s crystal breath attack.,association
+569,dark orb,location_associated,869,oolacile,Abyss sorcery discovered by a maddened Oolacile sorcerer.,location
+569,dark orb,is_spell_type,1384,abyss sorcery,Deals physical damage unlike typical soul sorceries.,categorical
+570,dark bead,has_trait,1291,multiple dark orbs,Fires several dark projectiles simultaneously; Abyss sorcery.,attribute
+570,dark bead,originates_from,5,abyss,Dark magic born of the Abyss.,origin
+571,dark fog,has_trait,582,poison mist,Creates poisonous fog reflecting human cruelty.,attribute
+571,dark fog,originates_from,5,abyss,Sorcery of Abyss origin tied to human nature.,origin
+572,pursuers,created_by,59,manus,Dark sorcery fired as emotion-driven spirits.,origin
+572,pursuers,originates_from,5,abyss,Abyssal magic fueled by powerful emotions.,origin
+573,fireball,part_of_school,1068,great swamp pyromancy,Basic fire spell from the Great Swamp.,magic_school
+574,fire orb,stronger_version_of,573,fireball,Improved Fireball with splash damage.,evolution
+575,great fireball,created_by,918,salaman,Powerful pyromancy attributed to Salaman.,origin
+576,firestorm,created_by,782,quelana,Primal pyromancy summoning fire pillars.,origin
+577,fire tempest,stronger_version_of,576,firestorm,Advanced form mimicking Chaos Flame.,evolution
+578,fire surge,has_trait,1240,continuous flame jet,Produces sustained stream of fire.,attribute
+579,fire whip,has_trait,1110,sweeping flame,Sweeping whip of fire; primal pyromancy.,attribute
+580,combustion,has_trait,1208,close-range flame,Short-range blast of fire.,attribute
+581,great combustion,stronger_version_of,580,combustion,Amplified version with stronger fire.,evolution
+582,poison mist,created_by,763,eingyi,Toxic cloud from heretical pyromancer.,origin
+583,toxic mist,advanced_version_of,582,poison mist,Stronger toxic mist by Eingyi.,evolution
+584,acid surge,has_trait,1315,equipment corrosion,Releases acid damaging armor and weapons.,combat_effect
+585,iron flesh,grants_effect,1111,body hardening,Boosts defense but slows movement.,attribute
+586,flash sweat,grants_effect,1214,fire resistance,Protects against fire via heavy perspiration.,combat_effect
+587,undead rapport,used_against,1160,weak undead,Controls lesser Undead temporarily.,combat_effect
+588,power within,forbidden_by,919,carmina,Forbidden pyromancy traded for strength.,narrative_reference
+589,great chaos fireball,originates_from,920,flame of chaos,"Fireball creating lava, born of Chaos Flame.",origin
+590,chaos storm,created_by,828,witch of izalith,Chaos magic summoning pillars of flame.,origin
+591,chaos fire whip,used_by,988,eldest daughter of chaos,Chaos whip of fire linked to Izalith.,ownership
+592,black flame,discovered_in,869,oolacile,Pyromancy altered by the Abyss.,origin
+592,black flame,has_trait,1271,physical damage,Deals physical damage instead of fire.,attribute
+593,heal,part_of_school,1366,miracle,Basic miracle restoring HP.,magic_school
+594,great heal,stronger_version_of,593,heal,Miracle restoring large amounts of HP.,evolution
+595,great heal excerpt,variation_of,594,great heal,Abbreviated version of Great Heal. Fewer casts.,spell_variation
+596,soothing sunlight,used_by,1330,gwynevere's maidens,Miracle performed by Gwynevere’s maidens. Provides area healing.,ownership
+596,soothing sunlight,part_of_school,1173,miracles,AoE healing miracle aligned with divine magic.,category
+597,replenishment,used_by,1284,cleric knights,Gradual regeneration miracle commonly used by cleric knights.,ownership
+598,bountiful sunlight,used_by,770,gwynevere,AoE healing-over-time miracle associated with Gwynevere.,ownership
+599,gravelord sword dance,created_by,63,gravelord nito,Necromantic miracle tied to the Eye of Death.,origin
+599,gravelord sword dance,requires,622,eye of death,Miracle requires offering of the Eye of Death.,requirement
+600,gravelord greatsword dance,stronger_version_of,599,gravelord sword dance,Greater variant of Nito's miracle.,spell_variation
+600,gravelord greatsword dance,requires,622,eye of death,Also requires Eye of Death to perform.,requirement
+601,homeward,used_by,804,undead,Miracle replaces the idea of homeland by returning to bonfires.,lore_reference
+602,force,part_of_school,1173,miracles,Basic miracle for defensive knockback.,category
+603,wrath of the gods,stronger_version_of,602,force,Advanced shockwave miracle. Causes damage.,spell_variation
+604,emit force,variation_of,602,force,Outland version that fires a shockwave orb.,spell_variation
+605,seek guidance,used_by,804,undead,Reveals more messages; assists communication among Undead.,lore_reference
+606,lightning spear,used_by,1389,warriors of sunlight,Core miracle of the Sunlight Covenant.,ownership
+606,lightning spear,effective_against,818,dragons,Lightning miracles are known to slay dragons.,combat_effect
+607,great lightning spear,inherited_from,916,gwyn's firstborn,Passed down miracle. Stronger lightning attack.,origin
+608,sunlight spear,originates_from,690,soul of gwyn,Ultimate lightning miracle born from Lord Gwyn's soul.,origin
+609,magic barrier,created_by,852,havel,Protective anti-magic miracle attributed to Havel.,origin
+610,great magic barrier,stronger_version_of,609,magic barrier,Advanced form of Havel’s magic defense.,spell_variation
+610,great magic barrier,used_against,68,seath the scaleless,Miracle developed to counter Seath's sorcery.,combat_reference
+611,karmic justice,created_by,844,velka,Punishment miracle of Velka. Triggers when overwhelmed.,origin
+611,karmic justice,tied_to,1071,sin,Triggers as divine retribution for heavy damage.,narrative_reference
+612,tranquil walk of peace,part_of_school,1173,miracles,Used to impede enemy escape or facilitate retreat.,category
+613,vow of silence,created_by,844,velka,Velka’s miracle to silence magic. Highly forbidden.,origin
+614,sunlight blade,inherited_from,916,gwyn's firstborn,Weapon buff miracle. Lightning enchantment.,origin
+615,darkmoon blade,used_by,923,darkmoon blade knights,Miracle of Gwyndolin’s followers. Buffs weapon with magic.,affiliation
+615,darkmoon blade,requires,200,darkmoon talisman,Covenant-based spell requiring specific talisman.,requirement
+615,darkmoon blade,tied_to,999,darkmoon covenant,Available to those aligned with Gwyndolin’s faction.,covenant_restriction
+616,white sign soapstone,used_for,1191,cooperation,Used to summon player for co-op. Leaves white sign.,mechanic
+617,red sign soapstone,used_for,1198,pvp duels,Allows players to challenge others for honorable duels.,mechanic
+618,red eye orb,used_by,810,darkwraiths,Tool for infinite invasions. Tied to Darkwraith covenant.,affiliation
+619,black separation crystal,used_for,1295,phantom dismissal,Tool to end multiplayer sessions or sever connections.,mechanic
+620,orange guidance soapstone,used_for,984,message writing,Allows leaving messages to guide or mislead others.,functionality
+621,book of the guilty,created_by,844,velka,A ledger maintained by the goddess Velka to list the guilty.,narrative_reference
+621,book of the guilty,used_for,1299,tracking sins,Displays list of players who have sinned in the game.,functionality
+622,eye of death,used_by,1194,gravelords,Used to spread curse and initiate Gravelord invasions.,affiliation
+623,cracked red eye orb,used_by,1134,non-covenant invaders,Temporary item enabling PvP invasions without covenant membership.,affiliation
+624,servant roster,maintained_by,763,eingyi,Used to track members of the Daughters of Chaos covenant.,ownership
+625,blue eye orb,used_by,923,blades of the darkmoon,Tracks and invades guilty players in service of Dark Sun Gwyndolin.,affiliation
+626,dragon eye,used_by,1313,dragon covenant,Enables duels for dragon scales as part of the covenant.,affiliation
+627,black eye orb,used_against,993,fire keeper killers,Reacts near the guilty and enables justice-based invasion.,functionality
+627,black eye orb,reacts_in,31,anor londo,Activates in the location of the Fire Keeper's killer.,location_reference
+628,darksign,symbolizes,1247,undead curse,"A brand marking the Undead, linking them to the cycle of death.",symbolism
+628,darksign,used_for,1115,respawning,Tool that causes the user to respawn at the last bonfire with penalty.,functionality
+629,purple coward's crystal,used_for,1038,pvp exit,Used to forfeit duels in the PvP arena dishonorably.,functionality
+630,estus flask,linked_to,1206,fire keepers,Primary healing item connected to the soul and power of Fire Keepers.,narrative_reference
+631,silver pendant,given_by,31,anor londo,A gift to Artorias that deflects dark magic from the Abyss.,narrative_reference
+632,elizabeth's mushroom,linked_to,764,elizabeth,Healing item associated with the sanctuary keeper Elizabeth.,narrative_reference
+633,divine blessing,originates_from,770,gwynevere,Holy water created by Gwynevere that heals completely.,origin
+634,green blossom,found_near,1176,water bodies,"Boosts stamina regeneration, grows annually near water.",environment_reference
+635,bloodred moss clump,resists,814,bleeding,Used to reduce bleeding buildup from lacerating attacks.,combat_effect
+636,purple moss clump,resists,1322,poison,"Cures poison, essential in toxic areas.",combat_effect
+637,blooming purple moss clump,resists,1322,poison,Unique moss that cures both poison and toxin due to its flower.,combat_effect
+637,blooming purple moss clump,resists,1004,toxin,Unique moss that cures both poison and toxin due to its flower.,combat_effect
+638,purging stone,used_for,1262,curse breaking,Absorbs and removes curse status; once a living being.,functionality
+639,egg vermifuge,used_for,1399,parasite removal,Removes egg infestations linked to Flame of Chaos followers.,functionality
+640,repair powder,used_for,1277,weapon repair,Fixes the currently equipped weapon without a repairbox.,functionality
+641,throwing knife,used_by,804,undead,A simple throwing weapon for short-range attacks.,affiliation
+642,poison throwing knife,applies,1322,poison,"Applies poison on hit, effective for prolonged combat.",combat_effect
+643,firebomb,deals,1379,fire damage,Thrown item that explodes on impact causing fire damage.,combat_effect
+644,dung pie,inflicts,1004,toxin,Inflicts toxin on enemies and affects the user slightly.,combat_effect
+645,alluring skull,affects,1195,hollows,Lures certain enemies by attracting their attention. Especially effective on Hollows.,effect
+646,lloyd's talisman,used_by,1284,cleric knights,Tool of the cleric knights to prevent Estus use during battle.,tactical_use
+647,black firebomb,stronger_variant_of,643,firebomb,Stronger firebomb variant that deals greater damage.,upgrade
+648,charcoal pine resin,enhances_against,804,undead,Applies fire to weapon. Effective versus Undead enemies.,combat_effect
+649,gold pine resin,effective_against,818,dragons,"Imbues weapon with lightning damage, effective against dragons.",combat_effect
+650,transient curse,allows_interaction_with,830,ghosts,Allows attacks to land on cursed spirits like ghosts.,functional_effect
+651,rotten pine resin,applies,1322,poison,"Applies poison effect to weapons, poisoning over time.",combat_effect
+652,homeward bone,returns_to,1425,last bonfire,Used to return to the last bonfire rested at.,teleportation
+653,prism stone,used_for,1396,fall safety,Marks paths and tests whether a fall is lethal.,utility
+654,binoculars,crafted_in,808,astora,"Tool created in Astora, allows long-distance viewing.",origin
+655,indictment,reports_to,923,blades of the darkmoon,Used to report invaders to the covenant for retribution.,mechanic
+656,souvenir of reprisal,collected_by,923,blades of the darkmoon,Trophy obtained after defeating a sinner.,covenant_item
+657,sunlight medal,awarded_by,1397,warrior of sunlight,Given as reward for jolly cooperation in jolly co-op.,reward
+657,sunlight medal,associated_with,916,gwyn's firstborn,Tied to the god of war and lightning.,lore_reference
+658,pendant,represents,1181,memories,No practical function; symbolic value related to memory.,symbolism
+659,dragon head stone,grants,1424,dragon head form,Transforms the user's head and grants dragon breath ability.,transformation
+659,dragon head stone,associated_with,1319,dragon apostles,Tied to those who seek the power of dragons.,affiliation
+660,dragon torso stone,grants,1102,dragon torso form,Transforms the user's torso and allows a roar ability.,transformation
+661,rubbish,has_trait,1098,no value,"Described as entirely worthless, though its presence may be deceptive.",attribute
+662,copper coin,depicts,925,old man mcloyf,"Coin depicting a saint, carried for good fortune.",narrative_reference
+663,silver coin,depicts,803,knight king rendal,"Coin featuring Rendal, used for luck or trade.",narrative_reference
+664,gold coin,depicts,911,allfather lloyd,"Coin portraying Lloyd, symbolizes divine favor.",narrative_reference
+665,peculiar doll,used_in,1357,painted world,Required to access the Painted World of Ariamis.,key_item
+666,dried finger,enables,1290,extra phantom summon,Allows summoning an additional co-op phantom.,mechanic
+670,fire keeper soul,belongs_to,898,ash maiden,One of the Fire Keepers whose soul reinforces Estus.,ownership
+670,fire keeper soul,belongs_to,761,darkmoon knightess,Used to reinforce Estus; soul of the Fire Keeper in Anor Londo.,ownership
+670,fire keeper soul,belongs_to,12,daughter of chaos,"Fire Keeper of the Fair Lady, tied to humanity and Chaos.",ownership
+670,fire keeper soul,used_for,983,estus flask reinforcement,Used to reinforce Estus Flasks. Linked to Fire Keepers and bonfires. Draws humanity.,mechanic
+671,soul of a lost undead,grants,1185,souls,Basic consumable soul item. Common among Hollows.,consumable
+672,large soul of a lost undead,grants,1185,souls,Larger variant of the basic Undead soul.,consumable
+673,soul of a nameless soldier,grants,1185,souls,Represents a Hollowed soldier. Slightly stronger than basic Undead.,consumable
+674,large soul of a nameless soldier,grants,1185,souls,Larger variant of the nameless soldier soul.,consumable
+675,soul of a proud knight,grants,1185,souls,Represents a once-proud knight. Grants a good amount of souls.,consumable
+676,large soul of a proud knight,grants,1185,souls,Larger variant. More powerful than previous souls.,consumable
+677,soul of a brave warrior,grants,1185,souls,High-value soul of a once-brave warrior.,consumable
+678,large soul of a brave warrior,grants,1185,souls,Larger variant of the brave warrior soul.,consumable
+679,soul of a hero,grants,1185,souls,Very high-value soul. Belonged to a legendary hero.,consumable
+680,soul of a great hero,grants,1185,souls,Top-tier soul. Extremely rare and valuable.,consumable
+681,humanity,grants,1437,hp recovery and humanity,Used to restore HP and gain Humanity. Mysterious black sprite. Crucial lore element.,consumable
+682,twin humanities,grants,1268,double humanity,Grants two Humanity. Rare drop. Lore emphasizes human duality.,consumable
+683,hello carving,used_for,1142,player communication,Carving made by Gough. Emits 'Hello'. Used for communication.,utility
+684,thank you carving,used_for,1142,player communication,Carving made by Gough. Emits 'Thank you'. Expression of gratitude.,utility
+685,very good! carving,used_for,1142,player communication,Carving made by Gough. Emits 'Very good!'. Expression of approval.,utility
+686,i'm sorry carving,used_for,1142,player communication,Carving made by Gough. Emits apology. Used to express regret.,utility
+687,help me! carving,used_for,1142,player communication,Carving made by Gough. Emits plea. Desperate communication.,utility
+688,soul of quelaag,can_be_used_to,1033,create chaos weapon,Boss soul. Daughter of the Witch of Izalith. Can create Chaos weapon.,crafting
+689,soul of sif,associated_with,58,artorias,Boss soul. Sif guards Artorias's grave. Divine knightsword inheritance.,narrative_reference
+690,"soul of gwyn, lord of cinder",originates_from,71,gwyn,Final boss soul. Linked the First Flame. Extremely powerful.,origin
+691,core of an iron golem,originates_from,53,iron golem,Soul of Sen's Fortress boss. Originates from everlasting dragon.,origin
+692,soul of ornstein,used_for,1189,crafting weapon,Boss soul. One of Gwyn’s Four Knights. Used for unique weapon.,crafting
+693,soul of the moonlight butterfly,created_by,68,seath,Boss soul. Created by Seath. Linked to sorcery.,narrative_reference
+694,soul of smough,originates_from,54,smough,Boss soul. Executioner of Anor Londo. Gleeful demeanor.,narrative_reference
+695,soul of priscilla,boss_soul_of,55,priscilla,Priscilla is a unique crossbreed boss in the Painted World. Her soul holds life-antithesis power.,lore
+696,soul of gwyndolin,boss_soul_of,69,dark sun gwyndolin,Gwyndolin is the lastborn of Gwyn and leader of the Darkmoon covenant.,lore
+697,guardian soul,boss_soul_of,57,sanctuary guardian,The soul of the winged lion-like demon guarding Oolacile Sanctuary.,lore
+698,soul of artorias,boss_soul_of,58,artorias,Artorias was consumed by the Abyss; the player inherits his honor and soul.,lore
+699,soul of manus,boss_soul_of,59,manus,"Manus, Father of the Abyss, was once human. His soul seeks a broken pendant.",lore
+700,large ember,used_by_blacksmiths,1393,blacksmiths of astora,Used to ascend standard weapons from +5 to +10 or Raw. Linked to Astoran smithing.,functional
+701,very large ember,used_by_blacksmiths,1122,undead parish giant blacksmith,Allows weapon ascension from +10 to +15; the final upgrade level for standard weapons.,functional
+702,crystal ember,creates_weapon_type,1292,crystal weapons,Used to create brittle but powerful weapons. Linked to Seath's methods.,functional
+703,large magic ember,used_by_blacksmiths,1168,vinheim blacksmiths,Enables magic weapon upgrades to +10; tied to Vinheim sorcery tradition.,functional
+704,enchanted ember,originated_from,869,oolacile,"This ember allows enchanted upgrades and is found in Oolacile, ancient and mysterious.",lore
+705,divine ember,creates_weapon_type,978,divine weapons,Used to create weapons effective against undead; imbued with holy power.,functional
+706,large divine ember,ritual_object_of,1118,secret church rites,Enables divine upgrades to +10; linked to secret ecclesiastical rites.,lore
+707,dark ember,creates_weapon_type,1362,occult weapons,Infuses weapons to damage gods and kin. Taboo in Anor Londo.,lore
+708,large flame ember,used_to_upgrade,986,fire weapons,Upgrades fire weapons to +10. Origin traces back to the Age of Fire.,functional
+709,chaos flame ember,linked_to,14,lost izalith,Used for chaos weapon crafting. Chaos weapons scale with Humanity.,lore
+710,titanite shard,used_to_upgrade,1220,standard weapons,Basic material for upgrading standard weapons up to +5.,functional
+711,large titanite shard,used_to_upgrade,980,raw weapons,Used to upgrade standard weapons to +10 and raw weapons to +5.,functional
+712,green titanite shard,used_to_upgrade,1265,magic weapons,"Needed for early upgrades of magical, divine, and fire-aligned weapons.",functional
+712,green titanite shard,used_to_upgrade,978,divine weapons,"Needed for early upgrades of magical, divine, and fire-aligned weapons.",functional
+712,green titanite shard,used_to_upgrade,986,fire weapons,"Needed for early upgrades of magical, divine, and fire-aligned weapons.",functional
+713,titanite chunk,used_to_upgrade,1292,crystal weapons,Required for high-level upgrades to +14 standard and +4 elemental paths.,functional
+713,titanite chunk,used_to_upgrade,1412,lightning weapons,Required for high-level upgrades to +14 standard and +4 elemental paths.,functional
+714,blue titanite chunk,used_to_upgrade,1265,magic weapons,Used for advanced magic upgrades up to +9 and enchanted to +4.,functional
+714,blue titanite chunk,used_to_upgrade,1433,enchanted weapons,Used for advanced magic upgrades up to +9 and enchanted to +4.,functional
+715,white titanite chunk,used_to_upgrade,978,divine weapons,Used to upgrade divine weapons to +9 and occult to +4.,functional
+715,white titanite chunk,used_to_upgrade,1362,occult weapons,Used to upgrade divine weapons to +9 and occult to +4.,functional
+716,red titanite chunk,used_to_upgrade,986,fire weapons,Enables fire and chaos weapon upgrades to +9 and +4 respectively.,functional
+716,red titanite chunk,used_to_upgrade,1250,chaos weapons,Enables fire and chaos weapon upgrades to +9 and +4 respectively.,functional
+717,titanite slab,used_to_upgrade,1220,standard weapons,Final upgrade material for several weapon paths. Rare and divine.,functional
+717,titanite slab,used_to_upgrade,1292,crystal weapons,Final upgrade material for several weapon paths. Rare and divine.,functional
+717,titanite slab,used_to_upgrade,1412,lightning weapons,Final upgrade material for several weapon paths. Rare and divine.,functional
+718,blue titanite slab,used_to_upgrade,1265,magic weapons,Allows final upgrade of magic to +10 and enchanted to +5.,functional
+718,blue titanite slab,used_to_upgrade,1433,enchanted weapons,Allows final upgrade of magic to +10 and enchanted to +5.,functional
+719,white titanite slab,used_to_upgrade,978,divine weapons,Needed for final divine and occult upgrades to +10 and +5 respectively.,functional
+719,white titanite slab,used_to_upgrade,1362,occult weapons,Needed for final divine and occult upgrades to +10 and +5 respectively.,functional
+720,red titanite slab,reinforces,986,fire weapons,Reinforces fire weapons to +10,functional
+720,red titanite slab,reinforces,1250,chaos weapons,Reinforces chaos weapons to +5,functional
+721,dragon scale,reinforces,1177,dragon weapons,Used to reinforce dragon weapons,functional
+721,dragon scale,originates_from,929,ancient dragon,Peeled from an ancient dragon,lore
+722,demon titanite,reinforces,1219,special weapons,Used to reinforce special weapons,functional
+722,demon titanite,stolen_from,862,titanite demon,Stolen from Titanite Demon,lore
+723,twinkling titanite,reinforces,1401,non-standard weapons,Used to reinforce weapons that cannot be reinforced normally,functional
+725,crest of artorias,opens,1340,sealed door to artorias's grave,Opens sealed door in Darkroot Garden,functional
+725,crest of artorias,related_to,58,artorias,Linked to the grave of Sir Artorias,lore
+732,annex key,opens,931,annex in painted world of ariamis,Opens annex in Painted World,functional
+733,dungeon cell key,opens,1162,undead asylum cell,Used in Undead Asylum,functional
+734,big pilgrim's key,opens,1375,inner door of undead asylum,Grants access deeper into Asylum,functional
+736,key to the seal,opens,1286,new londo floodgates,Used to access Four Kings,functional
+736,key to the seal,seals_away,72,four kings,Key's purpose is to isolate Four Kings,lore
+737,key to depths,opens,1309,door from lower undead burg to depths,Grants access to Depths,functional
+747,lord soul,related_to,63,gravelord nito,lore_reference,
+747,lord soul,related_to,71,gwyn,lore_reference,
+747,lord soul,related_to,73,bed of chaos,lore_reference,
+749,bequeathed lord soul shard,related_to,72,four kings,lore_reference,
+749,bequeathed lord soul shard,related_to,68,seath,lore_reference,
+750,lordvessel,location_usage,37,firelink altar,location_reference,
+750,lordvessel,related_to,71,gwyn,lore_reference,
+750,lordvessel,related_to,772,kaathe,lore_reference,
+750,lordvessel,related_to,766,frampt,lore_reference,
+750,lordvessel,location_usage,37,firelink altar,location_reference,
+750,lordvessel,used_with,1231,bonfires,functional_usage,
+751,broken pendant,related_to,59,manus,lore_reference,
+751,broken pendant,related_to,869,oolacile,lore_reference,
+752,weapon smithbox,used_with,1231,bonfires,functional_usage,
+752,weapon smithbox,used_with,1320,titanite,functional_usage,
+753,armor smithbox,used_with,1231,bonfires,functional_usage,
+753,armor smithbox,used_with,1320,titanite,functional_usage,
+754,repairbox,used_with,1231,bonfires,functional_usage,
+755,rite of kindling,used_with,1231,bonfires,functional_usage,
+755,rite of kindling,affects,630,estus flask,mechanical_effect,
+755,rite of kindling,related_to,804,undead,lore_reference,
+756,bottomless box,used_with,1231,bonfires,functional_usage,
+758,marvellous chester,has_item,498,snickering top hat,Associated with Chester’s equipment set,equipment
+758,marvellous chester,located_in,869,oolacile,Time-displaced traveler found in the past of Oolacile,location
+759,lord's blade ciaran,member_of,1289,four knights of gwyn,One of Lord Gwyn's Four Knights,affiliation
+759,lord's blade ciaran,uses_weapon,261,gold tracer,Uses Gold and Dark Silver Tracers,equipment
+759,lord's blade ciaran,uses_weapon,262,dark silver tracer,Uses Gold and Dark Silver Tracers,equipment
+759,lord's blade ciaran,has_item,520,hornet ring,Owner of the Hornet Ring,equipment
+759,lord's blade ciaran,emotionally_linked_to,58,artorias,Pays respects to a dear friend; linked by emotional connection,relationship
+761,darkmoon knightess,role,898,fire keeper,Serves as the Fire Keeper in Anor Londo,occupation
+761,darkmoon knightess,location,31,anor londo,Keeper of the bonfire in Anor Londo,location
+761,darkmoon knightess,follower_of,69,dark sun gwyndolin,Became a Blade of the Darkmoon after visiting Gwyndolin,affiliation
+762,domhnall of zena,origin,890,zena,Merchant from the land of Zena,origin
+762,domhnall of zena,role,1204,merchant,Offers trinkets and unique items,occupation
+763,eingyi,role,1035,servant,Serves a Daughter of Chaos,occupation
+763,eingyi,condition,1051,egg-bearing undead,A heretical pyromancer who became an egg-bearing Undead,state
+763,eingyi,keeper_of,624,servant roster,Keeper of the Servant Roster,responsibility
+764,elizabeth,guardian_of,21,oolacile sanctuary,Self-described as guardian of the sanctuary,responsibility
+764,elizabeth,associated_with,1043,healing mushroom,Associated with the healing mushroom and sanctuary,object
+764,elizabeth,associated_with,954,oolacile sorceries,Associated with Oolacile’s sorceries,magic
+766,kingseeker frampt,type,1411,primordial serpent,Primordial serpent and close friend of Gwyn,classification
+766,kingseeker frampt,ally_of,71,gwyn,Close friend of Gwyn,affiliation
+766,kingseeker frampt,opposes,772,darkstalker kaathe,Opposes Kaathe’s view,conflict
+766,kingseeker frampt,advocates_for,1050,linking the fire,Guides Chosen Undead toward linking the Fire,ideology
+768,hawkeye gough,member_of,1289,four knights of gwyn,One of Gwyn’s Four Knights,affiliation
+768,hawkeye gough,role,854,dragonslayer,Leader of the Dragonslayers,occupation
+768,hawkeye gough,uses_weapon,177,dragonslayer greatbow,Wielder of Dragonslayer Greatbow,equipment
+768,hawkeye gough,associated_with,521,hawk ring,Associated with Hawk Ring and long-range archery,equipment
+768,hawkeye gough,carves,1329,archtree heads,"Carves archtree heads in imprisonment, imbuing them with emotion",activity
+768,hawkeye gough,friend_of,58,artorias,Honors the player for restoring Artorias' dignity; was his friend,relationship
+769,griggs of vinheim,from_location,871,vinheim,He is originally from Vinheim and practices its sorceries.,descriptive
+769,griggs of vinheim,rescued_by,1298,player,He is rescued by the player and becomes a sorcery trainer.,descriptive
+769,griggs of vinheim,occupation,1419,sorcery instructor,He offers sorcery instruction after being rescued.,descriptive
+770,gwynevere,child_of,71,gwyn,"She is the daughter of Lord Gwyn, as stated multiple times.",descriptive
+770,gwynevere,grants,750,lordvessel,She grants the Lordvessel to the Chosen Undead.,explicit
+770,gwynevere,grants,1141,covenant ring,She offers a covenant ring upon alliance.,explicit
+770,gwynevere,married_to,913,flame god flann,She is described as the wife of the Flame God Flann.,explicit
+770,gwynevere,associated_with,596,soothing sunlight,She is the source of powerful healing miracles such as Soothing Sunlight.,descriptive
+770,gwynevere,associated_with,598,bountiful sunlight,She is the source of powerful healing miracles such as Bountiful Sunlight.,descriptive
+771,ingward,member_of,892,sealers of new londo,He is one of the Sealers of New Londo.,explicit
+771,ingward,uses,566,resist curse,He is known for using the Resist Curse sorcery.,explicit
+772,darkstalker kaathe,leader_of,810,darkwraiths,He is associated with and incites the Darkwraiths.,explicit
+772,darkstalker kaathe,grants,618,red eye orb,He is associated with the Red Eye Orb used by Darkwraiths.,explicit
+772,darkstalker kaathe,primordial_serpent,1332,yes,He is one of the primordial serpents alongside Frampt.,descriptive
+772,darkstalker kaathe,opposes,766,kingseeker frampt,He is a philosophical and narrative counterpart to Frampt.,explicit
+772,darkstalker kaathe,advocates_for,967,age of dark,He supports the Age of Dark and guides the player toward becoming the Dark Lord.,explicit
+774,big hat logan,obsessed_with,1106,knowledge,"He is repeatedly described as obsessed with knowledge, especially Seath’s.",explicit
+774,big hat logan,mentor_of,769,griggs of vinheim,He is mentioned as Griggs' mentor.,explicit
+774,big hat logan,studied_at,973,dragon school,He studied at the Dragon School of Vinheim.,explicit
+774,big hat logan,pursues,68,seath the scaleless,He seeks Seath’s secrets of immortality.,descriptive
+774,big hat logan,developed,187,logan's catalyst,He strengthened his catalyst into Logan’s Catalyst.,explicit
+774,big hat logan,developed,549,homing soulmass,He created powerful sorceries like Homing Soulmass.,explicit
+774,big hat logan,developed,551,soul spear,He created powerful sorceries like Soul Spear.,explicit
+775,nest,,1172,unnamed crow-like creature,Interpreted as a crow due to voice and nature of item trades,interpretation
+775,nest,trades_with,1298,player,Exchanges items if the player drops 'warm and soft' objects in the nest,interaction
+776,nico,accompanies,783,reah of thorolund,Travels alongside Reah as an escort,association
+776,nico,betrayed_by,780,patches,Went Hollow due to Patches' deception,cause_effect
+777,oscar,gives,630,estus flask,Gives the player their first Estus Flask in the Undead Asylum,gift
+777,oscar,believes_in,992,the prophecy,Places faith in the Undead prophecy and urges the player to fulfill it,belief
+778,oswald,originates_from,796,carim,Described as a pardoner hailing from Carim,origin
+778,oswald,handles,1221,sin and indictments,"Oversees forgiveness of sin, confessions, and Indictments",role
+778,oswald,knows_about,781,petrus,Possesses knowledge of Petrus’ conduct,knowledge_of
+779,palespider,related_to,67,quelaag,Refers to Quelaag affectionately as a sister,familial
+779,palespider,suffers_from,1094,chaos corruption,Endures suffering due to demonic corruption,condition
+779,palespider,leads,1149,chaos servant covenant,Presides over the Chaos Servant Covenant,role
+780,patches,deceives,1298,player,Known for luring the player into traps and ambushes,deception
+780,patches,deceives,1159,reah's escorts,Caused the Hollowing of Vince and Nico by betraying them,deception
+780,patches,despised_by,47,lautrec,Lautrec expresses his hatred for Patches,hostility
+780,patches,self_identifies_as,1338,'trusty patches',Presents himself with false friendliness under this alias,self_reference
+782,quelana of izalith,founded,1072,pyromancy,Identified as the originator of pyromancy,creation
+782,quelana of izalith,is,12,daughter of chaos,One of the daughters of the Witch of Izalith,identity
+782,quelana of izalith,teaches,576,firestorm,Mentor of advanced fire spells,instruction
+782,quelana of izalith,teaches,577,fire tempest,Mentor of advanced fire spells,instruction
+782,quelana of izalith,teaches,579,fire whip,Mentor of advanced fire spells,instruction
+782,quelana of izalith,inhabits,1327,poison swamp,Said to dwell in the swamp area,location
+782,quelana of izalith,related_to,67,quelaag,Implied to be another sister in the Izalith family,familial
+782,quelana of izalith,related_to,955,fair lady,Implied to be another sister in the Izalith family,familial
+783,reah of thorolund,is_daughter_of,971,house of thorolund,"Noble background, the youngest daughter",origin
+783,reah of thorolund,protected_by,781,petrus,Initially guarded by Petrus during her Undead mission,protection
+783,reah of thorolund,accompanied_by,776,nico,Traveled with two cleric escorts on her mission,association
+783,reah of thorolund,accompanied_by,791,vince,Traveled with two cleric escorts on her mission,association
+785,shiva of the east,member_of,1252,alvina's clan,Confirmed member of Alvina's forest hunters,affiliation
+785,shiva of the east,owns,223,iron round shield,Possesses this item within his inventory,ownership
+785,shiva of the east,captains,1083,clan brigade from the east,Leads the Eastern warriors allied with Alvina,leadership
+785,shiva of the east,suspected_of,1218,hiding something,Dialogue and behavior suggest secretive motives,suspicion
+786,sieglinde of catarina,rescued_by,1298,player,The player frees her from a cell during the game,rescue
+786,sieglinde of catarina,searches_for,1011,her father,"States she is seeking her father, Siegmeyer",goal
+786,sieglinde of catarina,is_daughter_of,787,siegmeyer,"States she is seeking her father, Siegmeyer",affiliation
+786,sieglinde of catarina,mentions,1304,her mother's last words,Speaks of her mother’s final message,dialogue
+787,siegmeyer of catarina,parent_of,786,sieglinde of catarina,Father of Sieglinde,character_relationship
+786,sieglinde of catarina,mentioned_by,787,siegmeyer of catarina,References a character named 'Lin' who may be his daughter,mention
+788,undeadman,accompanied_by,976,yulia,Accompanied by Yulia,npc_relation
+789,undeadwoman,possibly_hollowed,789,undeadwoman,Erratic behavior suggests she is close to hollowing,state
+790,vamos,associated_with,472,royal helm,Associated with the Royal Helm,item_association
+790,vamos,uses,1345,embers,Uses embers to craft weapons,crafting
+791,vince,escorted,783,reah of thorolund,One of Reah's former escorts,character_relationship
+791,vince,deceived_by,780,patches,Deceived by Patches,conflict
+792,alvina,friend_of,58,artorias,Trusted friend of Knight Artorias,character_relationship
+792,alvina,friend_of,62,sif,Trusted friend of Great Wolf Sif,character_relationship
+792,alvina,referenced_by,785,shiva of the east,Referenced as authority figure,mention
+792,alvina,leads,1348,forest hunter covenant,Leader of the Forest Hunter covenant,faction_leadership
+793,anastacia,fire_keeper,1400,bonfire,Mute Fire Keeper of the bonfire,function
+794,andre of astora,uses,1345,embers,Requests embers to craft divine weapons,crafting
+794,andre of astora,from,808,astora,Blacksmith from Astora,origin
+795,knights of carim,from,796,carim,Famous knights from Carim,origin
+796,carim,origin_of,1398,snipers,Origin of snipers who use crossbows,origin
+797,ghosts of new londo,can_be_damaged_by,798,cursed weapons,Ghosts in New Londo can only be harmed with cursed weapons.,
+798,cursed weapons,can_damage,797,ghosts of new londo,These weapons are capable of harming otherwise immune ghosts.,
+799,lowly thieves,known_for,1224,critical attacks,Low-tier enemies characterized by their reliance on critical strikes.,
+800,bandits,preferred_weapon_type,1253,slicing weapons,"Bandits prefer slicing-type weapons, highlighting their aggressive style.",
+801,dragon crossbreed,refers_to,55,priscilla,The term Dragon Crossbreed refers to Priscilla’s mixed heritage.,
+802,white-robed painting guardians,part_of_group,834,painting guardians,They belong to an ancient order guarding the Great Paintings in Anor Londo.,
+802,white-robed painting guardians,fighting_style,1082,dance-like,"Their combat movements resemble a dance, indicating ceremonial training.",
+803,knight king rendal,ruled,806,ancient kingdom of balder,"Former ruler of Balder, associated with the Balder Shield and legendary status.",
+803,knight king rendal,known_for,1321,steel protection and dragon combat,Famous for facing a giant drake and using the Ring of Steel Protection.,
+803,knight king rendal,failed_to_reach,31,anor londo,"Listed among those who did not reach Anor Londo, implying a failed quest.",
+804,undead,associated_with,806,ancient kingdom of balder,"Balder fell due to the Undead outbreak, linking the Undead to its ruin.",
+804,undead,fears,1016,flame,"Undead are said to fear flame, as referenced by pyromancies.",
+804,undead,charmed_by,587,undead rapport,Undead can be influenced by the Undead Rapport pyromancy.,
+804,undead,defined_by,628,darksign,"Undead are cursed beings marked by the Darksign, unable to die permanently.",
+805,hollowed,uses,1161,broken weapons,"Hollowed enemies wield broken gear, reflecting their decayed state.",
+806,ancient kingdom of balder,ruined_by,804,undead,The kingdom was destroyed due to the spread of the Undead curse.,
+806,ancient kingdom of balder,ruled_by,803,knight king rendal,Once ruled by Knight King Rendal before falling to the Undead.,
+807,lifehunt,power_wielded_by,55,priscilla,"Lifehunt is the unique power wielded by Priscilla, associated with bleeding and death.",
+808,astora,associated_with,1373,high-ranked knights,Astora is known for producing elite knights and is referenced in multiple shield items.,
+808,astora,associated_with,995,enchanted shields,"Astora is linked to multiple enchanted shields (Items 1145, 1146, 1152).",
+808,astora,homeland_of,794,andre,Andre of Astora is a blacksmith who hails from this region.,
+808,astora,homeland_of,793,anastacia,Anastacia the Fire Keeper is originally from Astora.,
+809,undead asylum,location_type,1383,prison,The Undead Asylum is described as a Northern prison and the starting zone for the Chosen Undead.,
+809,undead asylum,contains,1422,discarded relics,The Asylum holds cast-off items and forgotten artifacts.,
+810,darkwraiths,followers_of,772,kaathe,The Darkwraiths serve the primordial serpent Kaathe and are tied to the Abyss.,
+810,darkwraiths,corrupted_by,5,abyss,"Originally knights of New Londo, the Darkwraiths were corrupted by the Abyss.",
+810,darkwraiths,sealed_with,72,four kings,Darkwraiths were sealed alongside the Four Kings in New Londo.,
+812,silver knights,serve,31,anor londo,Silver Knights remain in Anor Londo and defend its goddess.,
+812,silver knights,guard,770,gwynevere,They serve a false goddess left in Anor Londo after Gwyn’s departure.,
+813,stone knights,guard,18,darkroot garden,These moss-covered golems are magically animated to defend the Darkroot Garden.,
+813,stone knights,created_by,1169,ancient magic,The Stone Knights are not natural beings but constructs of forest sorcery.,
+814,bleeding,status_effect,1120,blood loss,Bleeding causes rapid health loss when triggered by certain weapons.,
+815,blessing,status_effect,1039,divine protection,Blessings imbue weapons or characters with divine magic or holy effects.,
+816,dark,associated_with,5,abyss,The element of Dark is intrinsically tied to the Abyss and its moral weight.,
+818,dragons,can_drop,1119,weapons_from_tails,Some dragon tails can be severed and forged into powerful weapons.,
+818,dragons,time_period,987,age_before_fire,Dragons are remnants of the world that existed before the Age of Fire.,
+819,drake,subtype_of,818,dragons,Lesser kin of dragons; often hunted for their tails to forge weapons.,type_hierarchy
+820,serpent man,inhabits,30,sen's fortress,Slithering creatures who serve as guardians of Sen's Fortress; imprison adventurers.,location_association
+822,arstor of carim,holds_title,826,earl of carim,Earl of Carim; creator of a curved sword capable of bypassing shield defenses.,title_association
+822,arstor of carim,associated_with,638,purging stone,"Owner of the Purging Stone, linked to Carim.",item_association
+823,chaos fire,created_by,828,witch of izalith,"Wild, unstable fire born from the Witch of Izalith's corruption.",origin
+824,fire,initiates,942,age of fire,A cosmic force that introduced disparity and began the Age of Fire.,event_trigger
+825,occult,effective_against,1251,divine beings,Dark energy capable of harming divine beings; often used in forbidden rites.,effectiveness
+826,earl of carim,held_by,822,arstor of carim,Title held by Arstor; associated with cursed and evasive weaponry.,title_holder
+827,lord of cinder,title_of,71,gwyn,Title borne by Gwyn after linking the First Flame.,title_assignment
+828,witch of izalith,mother_of,67,quelaag,"Mother of Quelaag, associated with Chaos.",familial
+828,witch of izalith,creator_of,829,chaos demons,One of the original Lords; her failed flame ritual birthed chaos demons.,origin
+828,witch of izalith,mother_of,782,quelana,"Quelana's mother, described as one of the primeval Lords who tried to recreate the First Flame and failed.",familial
+829,chaos demons,faced_by,833,black knights,Faced by Black Knights; responsible for charring their armor.,conflict
+828,witch of izalith,creator_of,73,bed of chaos,The monster known as Bed of Chaos is a direct result of the Witch's failed attempt to recreate the First Flame.,origin
+828,witch of izalith,associated_with,192,izalith catalyst,Her connection to the catalyst reinforces her origin as a powerful flame sorceress prior to chaos.,artifact_association
+828,witch of izalith,bearer_of,747,lord soul,She is one of the four original beings who obtained a Lord Soul from the depths of the First Flame.,possession
+828,witch of izalith,soul_required_for,750,lordvessel,Her soul is one of the four required to open access to the Kiln of the First Flame and fulfill the Chosen Undead's destiny.,quest_requirement
+828,witch of izalith,catalyst_of,920,flame of chaos,"Her attempt to replicate the First Flame gave rise to the Flame of Chaos, marking the transition from ordered fire to demonic chaos.",transformation
+830,ghosts,can_be_damaged_by,798,cursed weapons,Spirits of the dead; can only be harmed by cursed weapons.,mechanical_property
+830,ghosts,haunt,4,new londo,Dangerous cursed beings haunting the ruins of New Londo.,location_association
+831,capra demons,associated_with,1431,brutality and strength,"Lesser demons using dual heavy blades, symbolizing brute strength.",attribute
+832,knights of berenike,use,235,tower shield,Known for massive tower shields and heavy armor.,equipment_usage
+832,knights of berenike,went,924,hollow,Many became Undead and went Hollow after reaching Lordran.,transformation
+832,knights of berenike,wield,1021,gigantic greatswords,Known for using brute force weapons.,equipment_usage
+833,black knights,formerly_served,71,gwyn,Elite undead warriors who served Lord Gwyn.,historical_association
+833,black knights,fight_against,829,chaos demons,They now wander Lordran fighting chaos demons.,enemy_of
+834,painting guardians,protect,36,painted world of ariamis,Protectors of the painted world in Anor Londo.,role
+834,painting guardians,fight_with,1084,curved swords,They wield unique curved swords with dance-like technique.,weapon_type
+835,servants of gravelord nito,follow,63,nito,"Followers of the first of the dead, Gravelord Nito.",allegiance
+835,servants of gravelord nito,wield,1135,bone-crafted swords,Weapons emit miasma and are made from bone.,equipment_usage
+836,eastern land,origin_of,1042,katana craftsmanship,Region famed for katana and curved blade techniques.,cultural_association
+836,eastern land,home_of,861,spooks,Spooks who resist bleed and poison originate here.,inhabitants
+837,lordran,destination_of,935,chosen undead,The land where the pilgrimage of the Undead begins.,narrative_function
+837,lordran,contains,878,archtrees,Region of ancient divine artifacts and archtrees.,feature
+838,old church,home_of,794,andre of astora,Located near Undead Parish; houses the blacksmith Andre.,location_association
+839,undead church,contains,879,bell of awakening,Sanctified location guarding one of the Bells.,location_association
+839,undead church,guarded_by,70,bell gargoyles,The Bell of Awakening is protected by gargoyles.,defended_by
+840,lightning,used_in_weapon_forging,978,divine weapons,Elemental force channeled through divine weapons; forged by skilled blacksmiths.,property_of
+840,lightning,effective_against,1065,armored foes,Elemental force tied to gods and divine weapons; devastating against armored foes.,effectiveness
+841,thrust damage,damage_type,1065,armored foes,Piercing attack useful against armored enemies; bypasses defenses.,effectiveness
+842,chaos demon,created_from,1093,failed flame sorcery,Mutated entities born from failed flame sorcery tied to Izalith.,origin
+842,chaos demon,related_to,1018,legacy of izalith,Tied to the legacy of Izalith.,association
+843,ricard,holds_title,846,undead prince,Noble of undead origin known for rapier techniques.,title
+844,velka,is_a,845,goddess of sin,Deity associated with sin and salvation.,identity
+844,velka,oversees,621,book of the guilty,Overseer of the Book of the Guilty and punisher of the sinful.,governance
+844,velka,associated_with,893,pardoners,Served by pardoners who wield enchanted black garments.,affiliation
+844,velka,creator_of,528,ring of sacrifice,Creator of the Ring of Sacrifice.,creation
+847,taurus demons,role,1166,castle guardians,Horned demons wielding crude weapons and guarding walls.,function
+848,undead merchant,sells,1075,reinforced unstable weapons,Peddler in Undead Burg dealing in unstable weapons.,activity
+849,way of white,grants,1032,holy weapons,Clerical faith that blesses weapons and grants divine power.,effect
+849,way of white,associated_with,1180,paladin,Clerical order that grants titles such as Paladin.,affiliation
+850,clerics,wield_weapon_type,1391,blunt weapons,Clerics commonly use blunt weapons in battle.,attribute
+850,clerics,serve_faction_type,1045,faith-based factions,Clerics are affiliated with religious or miracle-based groups.,affiliation
+850,clerics,performed_rite,937,kindling,Clerics were the original custodians of the rite of Kindling.,ritual
+850,clerics,targeted_by,780,patches,Patches often mocks or targets clerics for their self-righteousness.,interaction
+851,giant blacksmith,resides_in,31,anor londo,The Giant Blacksmith lives in Anor Londo.,location
+851,giant blacksmith,crafts,1179,lightning-based weapons,Specializes in crafting weapons imbued with lightning.,ability
+851,giant blacksmith,crafted_item,1147,lightning bolts,He crafted Lightning Bolts using wood safely.,creation
+851,giant blacksmith,follows_specifications_of,1077,ancient warriors,His designs adhere to ancient warrior standards.,reference
+852,havel the rock,wields,149,dragon tooth,"Havel uses the Dragon Tooth, a massive indestructible weapon.",equipment
+852,havel the rock,owns,238,havel's greatshield,His greatshield is made from stone and imbued with magic.,equipment
+852,havel the rock,has_trait,1390,resists flame and magic,Known for resilience to flame and magic.,attribute
+852,havel the rock,wears,1430,heavy rock armor,His armor is extremely heavy and durable.,equipment
+852,havel the rock,has_followers_with_trait,1267,tenacity and resilience,His followers share his endurance and toughness.,affiliation
+852,havel the rock,ally_of,71,gwyn,Havel was a battlefield ally of Lord Gwyn.,relation
+852,havel the rock,opposes,863,magic,He devised miracles to resist magic due to his hatred of it.,opposition
+852,havel the rock,devised,610,great magic barrier,He created this miracle to resist magic.,creation
+853,north undead asylum,birthplace_of,935,chosen undead,The Chosen Undead begins their journey here.,location
+853,north undead asylum,occupied_by,1057,lesser demons,Later taken over by low-ranking demons.,status
+854,dragonslayer,title_held_by,66,ornstein,Ornstein is the one known as the Dragonslayer.,identity
+854,dragonslayer,uses,1121,lightning-charged spear,Famous for using a spear infused with lightning.,equipment
+854,dragonslayer,effective_against,818,dragons,Known for piercing dragon hides.,combat
+855,four knights,served,71,gwyn,Elite warriors who served under Lord Gwyn.,affiliation
+855,four knights,includes,66,ornstein,Ornstein was one of the Four Knights.,composition
+855,four knights,includes,58,artorias,Artorias was one of the Four Knights.,composition
+855,four knights,includes,768,gough,Gough was one of the Four Knights.,composition
+855,four knights,includes,759,ciaran,Ciaran was one of the Four Knights.,composition
+856,blacksmith,includes,794,andre,"Blacksmiths include Andre, a known craftsman.",grouping
+856,blacksmith,includes,790,vamos,"Blacksmiths include Vamos, who works in Catacombs.",grouping
+856,blacksmith,includes,851,giant blacksmith,Blacksmiths include Giant Blacksmith who resides in Anor Londo.,grouping
+857,batwing demons,type_of,829,chaos demons,They are a variant of chaos demons.,classification
+857,batwing demons,found_in,31,anor londo,They appear in Anor Londo.,location
+857,batwing demons,wield,1012,lightning-imbued weapons,Their weapons are enchanted with lightning.,equipment
+858,channelers,serve,68,seath,Channelers serve Seath the Scaleless.,affiliation
+858,channelers,use,1272,tridents,Their weapons of choice are tridents.,equipment
+858,channelers,abduct,1246,humans,They capture humans for experimentation.,action
+858,channelers,travel_to,1392,distant lands,They journey to distant areas to obtain specimens.,behavior
+859,giant sentinels,guard,31,anor londo,They are assigned to protect Anor Londo.,duty
+859,giant sentinels,wield,1022,brass halberds infused with lightning,They use halberds with lightning enchantments.,equipment
+859,giant sentinels,wear,430,brass armor,Their armor is extremely heavy and brass-plated.,equipment
+860,butterfly,refers_to,56,moonlight butterfly,Magical creature created by Seath,descriptive
+861,spooks,originates_from,836,eastern land,Eastern land known for stealth combat and bleeding resistance,lore
+861,spooks,uses,1232,claws,Preferred tools of assassination; effective with bleeding damage,combat
+862,titanite demon,born_of,1320,titanite,Manifestation of titanite power; faceless and resilient,descriptive
+862,titanite demon,wields,1352,enchanted polearms,Weapon imbued with magic; known for leaping attacks,combat
+863,magic,used_by,1331,sorcerers,Channeled by figures like Seath for arcane power,usage
+863,magic,enhances,1423,weapons and spells,Used to strengthen both ranged and melee capabilities,effect
+864,chaos flame,source_of,1072,pyromancy,Foundation of pyromantic arts; birthed from flame ritual,lore
+864,chaos flame,engulfed,868,izalith,Consumed the city during the Witch's failed flame replication,event
+865,dragonslayers,led_by,768,hawkeye gough,Leader famed for greatbow mastery and dragon hunting prowess,hierarchy
+865,dragonslayers,specializes_in,1285,dragon hunting,Use of heavy arrows and greatbows in anti-dragon warfare,role
+866,eidas,crafted,182,avelyn,"Renowned for forging ornate, triple-shot repeating crossbow",creation
+867,great swamp,home_of,895,pyromancers,Sanctuary for those who master the Pyromancy Flame,location
+867,great swamp,origin_of,1013,pyromancies,Birthplace of many fire arts; linked to Salaman and Eingyi,origin
+868,izalith,linked_to,828,witch of izalith,Site of the Witch's failed flame ritual; birthplace of chaos,lore
+868,izalith,location_of,709,chaos flame ember,Residue of flame transformation found in the ruins,lore
+868,izalith,beneath,1216,fair lady's domain,Ruined city lying under the domain of one of the Witch's daughters,geographic
+869,oolacile,home_of,40,dusk,Princess of a lost land tied to ancient light sorceries,lore
+869,oolacile,associated_with,1188,gentle sorceries,Sorceries focused on light and concealment; pre-Abyss,magic
+869,oolacile,afflicted_by,5,abyss,Fell into darkness after disturbing the grave of the primeval man,event
+869,oolacile,mentioned_in,751,broken pendant,Artifact traces its magical origin to Oolacile’s legacy,reference
+870,pharis,associated_with,176,black bow of pharis,Heroic archer known for legendary long-range accuracy,lore
+870,pharis,ranked_alongside,768,hawkeye gough,Renowned human archer compared to one of Gwyn’s Four Knights,descriptive
+871,vinheim dragon school,associated_with,1099,standard catalysts,Primary institution where most catalysts are learned and used,usage
+871,vinheim dragon school,origin_of,546,great soul arrow,Known for producing structured sorcery and formal discipline,origin
+871,vinheim dragon school,home_of,784,rickert,Identified as the homeland of major sorcery characters,location
+871,vinheim dragon school,home_of,774,big hat logan,Identified as the homeland of major sorcery characters,location
+872,thorolund,origin_of,197,thorolund talisman,Religious artifact linked to the region’s clerical tradition,origin
+872,thorolund,home_of,849,way of white,Region central to the clerical hierarchy and mission routes,location
+872,thorolund,stated_by,783,reah,Identified as Reah’s homeland in her dialogue,reference
+872,thorolund,homeland_of,791,vince,Cleric who travels on pilgrimage with Nico and others,lore
+873,catacombs necromancer,wields,202,skull lantern,Used to illuminate dark areas like Tomb of the Giants,combat
+873,catacombs necromancer,connected_to,28,tomb of the giants,Contextual association through item and location use,lore
+878,great stone archtrees,ancestor_of,1394,giant trees in lordran,Described as ancient world trees predating the Age of Fire,descriptive
+878,great stone archtrees,influences,1276,shield crafting,"Referenced as influencing ancient shield designs (e.g., ID 1147, 1156)",design
+875,mountain bandits,associated_with,224,spider shield,Shield provides poison resistance and is linked to bandits,combat
+876,darkwraith kirk,owner_of,225,spiked shield,Causes bleeding and enables offensive shield use,combat
+877,catarina,associated_with,230,pierce shield,Shield type favored by knights from this region,combat
+879,bell of awakening,guarded_by,70,bell gargoyle,"Located above Undead Church, triggers mysterious event",location
+879,bell of awakening,requires,1015,ringing of two bells,"One above, one below—event necessary to continue journey",event
+880,lord's hunters,uses,1036,red feather arrows,Used for elite long-range sniping,combat
+882,followers of the occult,associated_with,63,gravelord nito,Sought to steal his power to challenge the gods,lore
+882,followers of the occult,associated_with,257,effigy shield,Shield tied to their heretical protection against divine forces,item
+883,undead paladin,granted,258,sanctus,Holy shield bestowed by the Way of White,item
+883,undead paladin,blessed_by,1310,white flame,Once touched by sacred flame of the Way of White,event
+884,forest sanctuary,guarded_by,813,stone knights,"Immense, silent protectors of the sanctuary",enemy
+884,forest sanctuary,inhabited_by,885,scarecrows,Wooden servitors who roam the sanctuary fields,enemy
+884,forest sanctuary,source_of,1294,unique weapons,Rare forest-linked weapons found here,item
+885,scarecrows,wield,266,four-pronged plow,Primitive tool used as weapon by these wooden beings,weapon
+886,knights of catarina,associated_with,877,catarina,"Their homeland, reflected in their equipment and values",origin
+886,knights of catarina,known_for,1060,distinctive armor,Rounded onion-shaped armor often mocked in appearance,trait
+887,brigands,operate_in,1293,mountains,Mountain raiders skilled in ambushes and survival,region
+887,brigands,wear,1081,light armor,Prioritize agility and mobility for fast attacks,equipment
+888,cathedral of anor londo,located_in,31,anor londo,Major sacred structure central to the city's divine authority,location
+888,cathedral of anor londo,guarded_by,54,executioner smough,Massive sentinel who defends the cathedral,enemy
+889,goddess fina,worshipped_by,47,lautrec,His devotion shown through his armor and dialogue,devotion
+889,goddess fina,symbolized_in,1317,armor of favor,The set reflects her supposed affection and grace,representation
+890,zena,birthplace_of,762,domhnall,Eccentric merchant hailing from this ancient land,origin
+890,zena,associated_with,991,wisdom and exploration,Land famed for wandering scholars and ornate attire,trait
+891,hollowed knight,wears,317,crystalline armor,Armor offers high defense and shows partial crystallization,equipment
+892,sealers of new londo,sealed_away,810,darkwraiths,Flooded New Londo to contain them,event
+892,sealers of new londo,sealed_away,72,four kings,Flooded New Londo to contain them,event
+892,sealers of new londo,known_for,1152,crimson attire,Their garb symbolizes healing origins and ritual roles,descriptive
+893,velka's pardoners,serve,844,velka,Clerics devoted to absolution of sin and judgment,affiliation
+894,thorns armor,worn_by,45,kirk,"Armor causes damage when rolling, tied to Kirk’s aggressive tactics",usage
+895,pyromancers of the great swamp,originates_from,867,great swamp,Practitioners of pyromancy hardened by harsh environments,lore
+896,great paintings of ariamis,guarded_by,834,painting guardians,Mythic artworks protected in Anor Londo,role
+897,way of white priests,associated_with,872,thorolund,Represent religious hierarchy and spiritual purification rites,affiliation
+898,fire keeper,stationed_at,2,firelink shrine,"Mute maiden tending the bonfire, linked to Estus and sacrifice",location
+898,fire keeper,associated_with,1381,dingy set,Symbolic attire tied to her martyrdom,equipment
+899,traveling maidens,wear,1184,white attire,Ceremonial garb offering minimal protection,descriptive
+900,mausoleum of the spiral depths,inhabited_by,69,dark sun gwyndolin,Chamber in Anor Londo tied to the Blades of the Darkmoon,location
+901,daughters of chaos,descendants_of,828,witch of izalith,Transformed by the Flame of Chaos; some became demons,lore
+902,hollow thieves,wears,1101,leather gear,Used to suppress noise during stealth attacks,combat
+902,hollow thieves,is_type_of,804,undead,Stealth-based enemies with high agility,classification
+903,hollow warriors,used_to_be,1170,human soldiers,Now undead enemies wearing tattered gear,lore
+904,undead man-eating cook,associated_with,1105,patchwork sack,Enemy in the Depths with possible cannibalistic traits,lore
+905,ancient god,symbolized_by,471,symbol of avarice,"Depicted by mimic-head helm, associated with greed and shame",symbolism
+906,pinwheel,stole_power_from,63,gravelord nito,Necromancer who reigns over the Catacombs,event
+906,pinwheel,associated_with,1139,three masks,"Represents father, mother, and child",symbolism
+907,fang boar,head_used_as,1064,boar helm,Decapitated enemy whose head becomes a wearable helm,item_origin
+907,fang boar,associated_with,1107,dragon hunting rituals,Fully-armored beast linked to ancient rituals,lore
+908,secret sorcerers,part_of,871,vinheim dragon school,"Operate in secrecy, specializing in sound-based sorcery",group
+909,oolacile resident,transformed_by,59,manus,"Victim of the Abyss, transformed into bloated head-form",event
+910,oolacile sorcerer,originates_from,869,oolacile,Sorcerer whose humanity turned wild,lore
+910,oolacile sorcerer,wears,502,bloated head,Enchanted head-form indicating sorcerous origin,symbolism
+911,allfather lloyd,related_to,71,gwyn,His uncle and patron of the Way of White,family
+911,allfather lloyd,referenced_in,517,white seance ring,Cleric figure revered by undead hunters,reference
+911,allfather lloyd,depicted_on,664,gold coin,Symbol of divine authority and reverence,symbolism
+912,head bishop of the way of white,leads,849,way of white,High clerical figure overseeing the Way of White’s hierarchy and rituals.,hierarchy
+912,head bishop of the way of white,located_in,872,thorolund,"Based in Thorolund, spiritual homeland of many clerics and paladins.",geographic
+912,head bishop of the way of white,entrusted_with,1129,divine ring,Bearer of a divine ring symbolizing religious authority.,ownership
+913,flame god flann,husband_of,770,gwynevere,Mythic union referenced in Gwynevere’s ring; symbolizes a divine marriage.,familial
+913,flame god flann,mentioned_in,531,ring of the sun princess,Referenced in the ring that boosts miracle power; associated with divine favor.,reference
+914,evil eye,assaulted,808,astora,Dark beast that once attacked Astora; said to be sealed in a cursed ring.,event
+914,evil eye,bound_within,536,ring of the evil eye,"Its presence is trapped inside the ring, which drains enemy vitality.",binding
+915,fina,symbolized_by,537,ring of favor and protection,"Her ring bestows increased stamina, HP, and equipment load; linked to divine blessing.",artifact
+915,fina,revered_by,47,lautrec,"Lautrec acts in devotion to her, even murdering in her name.",devotion
+916,lord gwyn's firstborn,created,614,sunlight blade,Final miracle left behind after his fall from grace; symbol of lost glory.,creation
+916,lord gwyn's firstborn,associated_with,542,ring of the sun's firstborn,The ring enhances miracles and represents his forgotten legacy.,artifact
+916,lord gwyn's firstborn,stripped_of,1350,divine status,Cast out from the pantheon for transgression; name erased from history.,event
+917,yulva,member_of,892,sealers of new londo,One of the crimson-robed sorcerers who sealed away the abyss in New Londo.,affiliation
+917,yulva,uses,567,remedy,"Practices healing sorceries like Remedy, linked to her mission of purification.",combat
+917,yulva,returned_to,10,blighttown,Rumored to have returned to Blighttown after her duty in New Londo.,geographic
+918,salaman,taught_by,782,quelana,Learned pyromancy under Quelana before becoming the Master Pyromancer.,apprenticeship
+918,salaman,associated_with,575,great fireball,His pyromantic expertise culminated in powerful spells like Great Fireball.,magic
+919,carmina,created,585,iron flesh,Pioneered unique techniques of inner transformation such as Iron Flesh.,creation
+919,carmina,created,588,power within,Innovated dangerous self-enhancement pyromancy called Power Within.,creation
+920,flame of chaos,created_by,828,witch of izalith,Born of a failed attempt to recreate the First Flame; led to the birth of demons.,origin
+920,flame of chaos,watched_by,956,molten giant,Guarded deep in the ruins of Izalith by a fireborn guardian.,lore
+920,flame of chaos,corrupted,868,izalith,"The flame consumed the city, twisting its inhabitants into demons.",event
+921,first flame,linked_by,71,gwyn,Lord Gwyn sacrificed himself to prolong the Age of Fire through this flame.,event
+921,first flame,attempted_to_recreate,828,witch of izalith,The Witch’s failed attempt birthed the Flame of Chaos instead.,event
+921,first flame,source_of,1318,divine power,Primordial source of gods’ strength and the beginning of fire.,origin
+922,gods,invoked_by,850,clerics,Divine beings whose tales are channeled to cast miracles through faith-based prayer.,lore
+923,blades of the darkmoon,serves,761,darkmoon,Covenant knights who act as agents of retribution under Gwyndolin's command.,hierarchy
+923,blades of the darkmoon,established_by,964,gwyndolin,Gwyndolin is the founder of this justice-oriented covenant.,hierarchy
+923,blades of the darkmoon,hunts,1408,enemies of the lords,Members pursue and punish those deemed traitors to the gods.,role
+924,hollow,state_of,804,undead,A condition that Undead fall into over time when they lose purpose or humanity.,descriptive
+924,hollow,referenced_in,1351,soul-seeking,Condition often tied to loss of purpose and the diminishing of the soul.,lore
+925,old man mcloyf,depicted_on,662,copper coin,Worshipped as the god of medicine and drink; symbolic representation.,symbolic
+926,church,hid,707,dark ember,Institution responsible for suppressing knowledge of forbidden power.,event
+927,legendary slabs,used_for,1395,reinforcement,Rare slabs used to fully reinforce weapons to their ultimate form.,effect
+927,legendary slabs,domain_of,922,gods,Said to be heirlooms or treasures of the divine pantheon.,lore
+928,divine blacksmith,forged,1409,weapons,Forged weapons for the Gods using divine embers and legendary materials.,creation
+928,divine blacksmith,associated_with,927,legendary slabs,Used these rare materials to craft godly weaponry.,material
+929,ancient dragons,source_of,1407,dragon scales,Their bodies are tied to the source and power of dragon scales.,origin
+929,ancient dragons,served_by,804,undead,"Some Undead train under them, seeking draconic transformation.",hierarchy
+930,apostles of the ancient dragons,seek,1026,perpetuity,Spiritual seekers aiming to transcend humanity by emulating dragons.,goal
+931,grave of artorias,sealed_by,1314,crest,"Sacred location protected by a magical barrier, only accessible by certain means.",event
+931,grave of artorias,sought_by,1241,adventurers,A legendary site visited by many hoping to uncover its secrets.,event
+932,maidens,imprisoned_in,34,duke's archives,Countless women once held captive within the tower.,lore
+933,annex,part_of,36,painted world of ariamis,A section of the Painted World used for storage and secrets.,geographic
+934,mysterious knight,aided,935,chosen undead,Dropped a corpse with a key into the cell to assist the Chosen Undead.,event
+935,chosen undead,carries,734,big pilgrim's key,Undead pilgrim who begins the journey with this key.,object_association
+935,chosen undead,bears,750,lordvessel,"Destined bearer of the Lordvessel, chosen to succeed Gwyn.",role
+936,pilgrimage,performed_by,935,chosen undead,Journey undertaken as part of their fate.,lore
+937,kindling,increases,630,estus flask,Sacred rite that boosts bonfire effectiveness via humanity.,effect
+937,kindling,tied_to,850,clerics,"Originally a clerical rite, later adopted by Undead.",origin
+938,age of ancients,preceded,940,disparity,An era before fire introduced contrasts like life/death.,timeline
+939,everlasting dragons,dominated,938,age of ancients,Ancient beings with immortal stone scales.,lore
+940,disparity,introduced_by,824,fire,"Fire brought division: light/dark, life/death.",conceptual
+941,furtive pygmy,found,966,dark soul,Forgotten being said to be the ancestor of humanity.,origin
+941,furtive pygmy,ancestor_of,681,humanity,"Bearer of the Dark Soul, origin of humankind.",mythical
+942,age of fire,follows,938,age of ancients,"Era that followed the Age of Ancients, started by the Lords",timeline
+942,age of fire,sustained_by,71,gwyn,"Gwyn linked the Fire to extend this age, creating order and light",lore
+943,juniper,mentioned_by,758,chester,Used humorously as an idiomatic or personal reference,reference
+944,mushroom,refers_to,764,elizabeth,Large sentient mushroom who aids the player in Oolacile Sanctuary,descriptive
+945,toothy serpent,deceived,869,oolacile,Manipulated the people of Oolacile into disturbing the grave of the primeval man,event
+946,primeval man,disturbed_by,869,oolacile,"His grave was disturbed by the people of Oolacile, causing catastrophe",event
+947,lord's blade,title_of,759,ciaran,Designation of Ciaran as an assassin under Lord Gwyn,hierarchy
+948,crow,transported,935,chosen undead,"Carried the curled-up player, suggesting mystical transport",event
+949,godmother of pyromancy,admired_by,1377,pyromancer,Revered by a follower who journeyed to Blighttown,lore
+950,m'lady,accompanied_by,1207,followers,"Travels with Vince and Nico, possibly clerics or pilgrims",lore
+951,remedician,resides_in,4,new londo,"Healer mentioned in legends, possibly ghostly or symbolic",lore
+952,regal archives,location_of,1123,seath's forbidden research,Location where Seath pursued forbidden research on immortality and profound sorcerous knowledge.,lore
+952,regal archives,sought_by,774,logan,Logan sought the archives for their legendary sorcerous knowledge.,lore
+952,regal archives,mentioned_by,769,griggs,Griggs aspires to reach the archives to gain Logan's recognition.,reference
+953,crystal golem,imprisoned,40,dusk,The golem imprisoned Dusk in a distorted plane of existence.,event
+954,oolacile sorceries,contrasted_with,1167,modern sorcery,"Seen as an older, less precise form of magic compared to modern sorcery.",comparison
+1445,abyss creature,attacked,40,dusk,Abyss-associated entity that assaulted Dusk in the past.,event
+1445,abyss creature,required_aid_from,58,artorias,Defeating the Abyss creature required intervention from Artorias.,combat
+955,our fair lady,served_by,763,eingyi,Eingyi is devoted to and serves the Fair Lady out of reverence and concern.,devotion
+957,blightpus,consumed_by,955,our fair lady,"She consumed the toxic Blightpus to ease Eingyi's suffering, against Quelaag's orders.",sacrifice
+958,primeval human,abducted,40,dusk,The Primeval Human is blamed for abducting Dusk and spreading the Abyss.,event
+959,firelink chamber,location_for,750,lordvessel,The chamber is the site where the successor must place the Lordvessel.,lore
+960,the duke,referenced_by,767,giantsmith,The Duke is mentioned by the Giantsmith as the source of a shiny item used for forging.,reference
+961,dark of the abyss,threatens,869,oolacile,"A consuming darkness associated with Manus, which endangers Oolacile.",threat
+962,wood carving,admired_by,768,gough,considered a form of refined artistic expression by Hawkeye Gough,descriptive
+963,logan's sorcery,developed_by,774,big hat logan,created in pursuit of ultimate magical truth and defiance of orthodoxy,creation
+963,logan's sorcery,classified_as,1249,advanced sorceries,considered heretical and powerful within the magical hierarchy,magic
+964,dark sun,title_of,964,gwyndolin,self-designation as the last son of Gwyn and tomb guardian,descriptive
+965,guardian of the seal,title_of,771,ingward,refers to Ingward’s role in protecting New Londo and the Four Kings,descriptive
+965,guardian of the seal,duty_to,72,four kings,tasked with sealing and containing their threat in New Londo,role
+966,dark soul,found_by,941,furtive pygmy,identified as the unique soul claimed by the progenitor of humanity,lore
+966,dark soul,associated_with,1246,humans,seen as the source of humanity and central to the Age of Dark,lore
+967,age of dark,succeeds,942,age of fire,destined to follow the First Flame’s fading in the world’s cycle,lore
+967,age of dark,supported_by,772,darkstalker kaathe,advocated as the rightful age for humanity by Kaathe,lore
+967,age of dark,associated_with,966,dark soul,defined by the influence of the Dark Soul and its human origins,lore
+968,maiden thorolund,mentioned_by,47,lautrec,described by Lautrec as vulnerable and carrying humanity,reference
+969,primordial crystal,grants,68,seath,source of Seath’s immortality hidden in the Crystal Forest,magic
+969,primordial crystal,located_in,970,crystal forest,stored deep within the Archives’ inner garden,location
+970,crystal forest,part_of,952,regal archives,functions as the inner sanctuary of the Archives,location
+971,house of thorolund,lineage_of,783,reah,noble family from which Reah descends,descriptive
+971,house of thorolund,associated_with,850,clerics,connected to clerical missions and faith traditions,lore
+971,house of thorolund,involved_in,1300,undead missions,supports clerics in ventures like kindling and miracle use,role
+972,giant's coffin,location_where,783,reah,"Reah falls from this structure in the Catacombs, indicating its pivotal spatial role.",location-entity
+973,dragon school,taught,774,big hat logan,The Dragon School from Vinheim is noted as the place where Big Hat Logan learned sorcery.,educational
+974,lin,mentioned_by,787,siegmeyer,"Lin is referenced by Siegmeyer with emotional weight, possibly indicating a personal relation.",dialogue-inferred
+975,tomb of the gravelord,mentioned_by,39,solaire,"Solaire refers to this tomb while considering his journey, suggesting it as a place of interest.",dialogue-location
+976,yulia,named_by,788,undeadman,"Yulia is affectionately addressed by an Undeadman, though her true nature is ambiguous.",ambiguous-entity
+977,darkroot wood,led_by,792,alvina,Alvina leads a group of hunters defending the forest and the grave of Artorias.,leadership
+978,divine weapons,created_with,1434,divine embers,"These weapons require divine embers, suggesting a forging relation tied to holy properties.",crafting
+979,black ember,intrigues,794,andre,"Andre expresses fascination with the mysterious Black Ember, which is unknown to him.",character-object

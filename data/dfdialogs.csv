@@ -1,0 +1,925 @@
+﻿id,NPC,Action,Dialog
+10001,Aside,Prologue,"In the Age of Ancients, the world was unformed, shrouded by fog. A land of grey crags, archtrees, and everlasting dragons. But then there was Fire. And with Fire, came Disparity. Heat and cold, life and death, and of course... Light and Dark. Then, from the Dark, They came, and found the Souls of Lords within the flame. Nito, the first of the dead, the Witch of Izalith, and her Daughters of Chaos, Gwyn, the Lord of Sunlight, and his faithful knights, and the furtive pygmy, so easily forgotten. With the Strength of Lords, they challenged the dragons. Gwyn's mighty bolts peeled apart their stone scales. The witches weaved great firestorms. Nito unleashed a miasma of death and disease. And Seath the Scaleless betrayed his own, and the dragons were no more. Thus began the Age of Fire. But soon, the flames will fade, and only Dark will remain. Even now, there are only embers, and man sees not light, but only endless nights. And amongst the living are seen, carriers of the accursed Darksign."
+10002,Aside,Northern Undead Asylum,"Yes, indeed. The Darksign brands the Undead. And in this land, the Undead are corralled and led to the north, where they are locked away, to await the end of the world. ...This is your fate."
+10003,Aside,Leaving Undead Asylum,"Only, in the ancient legends it is stated, that one day an Undead shall be chosen to leave the Undead Asylum, in pilgrimage, to the land of the Ancient Lords, Lordran."
+20001,Chester,Talk-1st time,"Hm...Oh, let me guess... Snatched by a shadowy limb, and dragged off to the past?"
+20002,Chester,"Choose ""No"" to his query","Oh, well, my mistake... But we are both travellers. We ought to help one another out."
+20003,Chester,"Choose ""Yes"" to his query","Yes, of course. Exactly what happened to me. We are both strangers in this strange land. But, at least now there are two of us."
+20004,Chester,Talk-2nd time,"Oh, still alive, are you? Think of anything that you might need?"
+20005,Chester,Talk-3rd time,"Oh, for Juniper's sake. Put some spring into your step! Mwah hah hah!"
+20006,Chester,"Menu-Choose ""Talk"" before defeating Artorias","Did you happen across Knight Artorias? The legendary Abysswalker, from the old tales. ...Well, if you haven't, it's just as well... He's a colourless sort, if you ask me. Mwah hah hah!"
+20007,Chester,"Menu-Choose ""Talk"" after accepting Elizabeth's query","So, what did that giant mushroom make you do? Not that I care. It's none of my business. But I do wonder about those sorceries of hers... Heh heh heh..."
+20008,Chester,"Menu-Choose ""Talk"" 1st time","Hm? I've little to talk about, really. Oh, you know me. What do I know? Heh heh!"
+20009,Chester,"Menu-Choose ""Talk"" 1st time after defeating Artorias","Did you really slay Knight Artorias? I'd heard the Abyss found him first, but even still... That's absolutely treacherous. Yes, magnificently so! Mwah hah hah!"
+20010,Chester,"Menu-Choose ""Talk"" 2nd time after defeating Artorias","Believe it or not, Oolacile has brought the Abyss upon itself. Fooled by that toothy serpent, they upturned the grave of primeval man, and incited his ornery wrath. What could they have been thinking? But to you and I, it's all ancient history. You have to ask yourself. Does it really matter? Heh heh heh..."
+20011,Chester,Talk-After he invades the protagonist in the Oolacile Township,"Oh, you again... What ever's the matter? No, I can tell. You need me more than ever. Mwah hah hah!"
+20012,Chester,Talk-After vanquishing his Dark Phantom in the Oolacile Township,"...Oh, you! You have quite some nerve. Or are you just thick? Fine, then. What is it that you need?"
+20013,Chester,"Menu-Choose ""Talk"" after he invaded as Dark Phantom, but not vanquished","What? If you've something to say, then say it! Just don't say the wrong thing... Heh heh heh!"
+20014,Chester,"Menu-Choose ""Talk"" after vanquishing his Dark Phantom","...Well, you've quite the nerve! I've had enough of you!"
+20015,Chester,"Menu-Choose ""Leave""",So long.
+20016,Chester,"Menu-Choose ""Leave"" after he invaded as Dark Phantom, but not vanquished",So long. ...We'll be seeing each other... Gee hee hee!
+20017,Chester,"Menu-Choose ""Leave"" after vanquishing his Dark Phantom",I'll be seeing you. If you survive your travels...
+20018,Chester,Upon being attacked-1st time,Ooph!
+20019,Chester,Upon being attacked-2nd time,Erg!
+20020,Chester,Upon being attacked-3rd time,Oww!
+20021,Chester,Upon being attacked-4th time,That bloody hurts!
+20022,Chester,Upon being attacked & made hostile,"Oh! It's come to blows, has it? Fine, then. I've had enough of you, anyway!"
+20023,Chester,"Upon being attacked & made hostile, after he invaded in Oolacile Township","What now? You think this my fault? How very, very petty of you! Very petty, indeed!"
+20024,Chester,While attacking the protagonist,"There! Ah-hah, there!"
+20025,Chester,After reducing the protagonist's health to below 11%,What? Now you're feeling the heat? You should have thought long and hard... Nyah hah hah hah hah!
+20026,Chester,"Upon killing the protagonist in his hostile, non-Dark Phantom state",You damn fool. I am Marvellous Chester! What did you expect?
+20027,Chester,Upon dying,"Hrrg... You win...please... Oh, please...have mercy..."
+30001,Ciaran,Talk-1st time,"...Are you human? ...I forgive you. I am here to pay respects to a dear friend. Please, allow me a moment alone."
+30002,Ciaran,Talk-1st time holding the Soul of Artorias,"...You, is that not... The soul of the man who fell on this spot? He was a dear friend. I wish to pay proper respect, with that soul. Would you be willing to part with it?"
+30003,Ciaran,"Choose ""No"" to the 1st query","Yes, of course... ... ...I must not be presumptuous. Artorias would not have approved."
+30004,Ciaran,"Talk-2nd time after choosing ""No"" to the 1st query",What is it? Something else? Have you changed your mind?
+30005,Ciaran,"Choose ""No"" after choosing ""No"" to the 1st query",...Then you have no business with me...
+30006,Ciaran,"Choose ""Yes"" to the 1st query",Thank you. You are very kind. Please take this. I no longer need it. May the Lord guide thee.
+30007,Ciaran,"Talk-2nd time after choosing ""Yes"" to the 1st or 2nd query",May the Lord guide thee.
+30008,Ciaran,Upon being attacked-1st time,Hrk!
+30009,Ciaran,Upon being attacked-2nd time,Erg!
+30010,Ciaran,Upon being attacked-3rd time,Ooh!
+30011,Ciaran,Upon being attacked & made hostile,"Hmph, you humans... ...always taking what you please. Then, I shall do the same."
+30012,Ciaran,Upon killing the protagonist,"Hmph, such conceit... How did you imagine that the Lord's Blade would not reach you?"
+30013,Ciaran,Upon dying,"But, how... You humans... (No caption) My dear Artorias..."
+40001,Crestfallen,Talk-1st time,"Well, what do we have here? You must be a new arrival. Let me guess. Fate of the Undead, right? Well, you're not the first. But there's no salvation here. You'd have done better to rot in the Undead Asylum... But, too late now. Well, since you're here... Let me help you out. There are actually two Bells of Awakening. One's up above, in the Undead Church. The other is far, far below, in the ruins at the base of Blighttown. Ring them both, and something happens... Brilliant, right? Not much to go on, but I have a feeling that won't stop you. So, off you go. It is why you came, isn't it? To this accursed land of the Undead? Hah hah hah hah..."
+40002,Crestfallen,Talk-1st time as a Hollow,"Oh, your face! You're practically Hollow. It won't be long, if you keep dying like this. You'd best hurry and restore your humanity. But who knows, going Hollow could solve quite a bit! Hah hah hah hah..."
+40003,Crestfallen,Talk-2nd time as a Hollow,"Hm, what? Restoring your humanity? Well, there are a few ways to go about it... Collect it bit by bit from corpses, or you can butter up a cleric, and get yourself summoned. And the quickest way, although I'd never do it, is to kill a healthy Undead, and pillage its humanity. Coveting thy neighbour is only human, after all! Hah hah hah hah..."
+40004,Crestfallen,Talk-3rd time as a Hollow,What are you looking at? Don't try anything clever. You might regret it.
+40005,Crestfallen,Talk-2nd time,"Hm? What, you want to hear more? Oh, that's all we need. Another inquisitive soul. Well, listen carefully, then... One of the bells is up above in the Undead Church, but the lift is broken. You'll have to climb the stairs up the ruins, and access the Undead Burg through the waterway. The other bell is back down below the Undead Burg, within the plague-infested Blighttown. But I'd die again before I step foot in that cesspool! Hah hah hah hah!"
+40006,Crestfallen,Talk-3rd time,"Bloody hell, what is it now? You ask too many questions."
+40007,Crestfallen,Talk-4th time,Hm? What now? I'm not up for chatting. Leave me alone.
+40008,Crestfallen,"Talk-After attempting to talk with Anastacia, and resting at a Bonfire","Oh, have you seen that terribly morose lass? ...The Fire Keeper. She's stuck keeping that bonfire lit. Sad, really. She's mute and bound to this forsaken place. They probably cut her tongue out back in her village, so that she'd never say any god's name in vain. How do these martyrs keep chugging along? I'd peter out in an instant. Hah hah hah hah!"
+40009,Crestfallen,Talk-Before entering the New Londo Ruins,"Have you been to the ruins of New Londo below? Just head down the stairs, and take the lift. It's certainly worth a visit. It was once an Undead city. You may find a clue or two. Unless the ghosts find you first... Keh heh heh heh!"
+40010,Crestfallen,Talk-Before carring back to the Undead Asylum,"You again? There's nothing to speak about, really. Oh, actually...Something strange did happen. That crow flew off with somebody in its clutches. I think it was a man curled up in a ball. Stranger things have happened, right? No, maybe not..."
+40011,Crestfallen,Talk-1st time without upgraded weapon after defeating the Taurus Demon,"Don't you ever think to forge your weapons? You'd better find a smithbox soon, Unless you enjoy swinging about with blunt instruments! Hah hah hah hah!"
+40012,Crestfallen,Talk-2nd time without upgraded weapon after defeating the Taurus Demon,"Don't you ever think to forge your weapons? Perhaps you haven't heard of Andre. Visit him in the Old Church, in the forest behind the Undead Church. Perhaps you haven't heard of Andre. You really need to find him. Unless you enjoy swinging about with blunt instruments! Hah hah hah hah!"
+40013,Crestfallen,Talk-While carrying an at-risk or broken weapon,"Don't you ever repair your weapons? You just need the right tools, or some powder. If you keep swinging those scraps around, you'll be mistaken for a Hollow! Hah hah hah hah!"
+40014,Crestfallen,Talk-Before saving Griggs of Vinheim,"How did that silly sorcerer's apprentice end up? You know, the one always prattling on about Master Logan. He left for the Undead Burg, but never came back. Serves him right. If even Old Big Hat can't make it out there, what chance does he have? I hope he enjoys his new life as a Hollow."
+40015,Crestfallen,Talk-After freeing Griggs from the lower Undead Burg,"How did that nutty sorcerer make it back? Unexpected, but I suppose stranger things have happened."
+40016,Crestfallen,Talk-Before saving Laurentius from the Depths,"How did that raggedy old chum end up? You know, the one who idolized some godmother of pyromancy. He left for Blighttown, but never came back. Whereas most flee from sickness, he dives right in. Well, nothing will harm him once he goes Hollow."
+40017,Crestfallen,Talk-After freeing Laurentius from the Depths,"How did that old man make it back? Unexpected, but I suppose stranger things have happened."
+40018,Crestfallen,Talk-After Rhea arrived in Firelink Shrine,"Did you see her? That virtuous little maiden, complete with followers in tow. They're probably going straight to pillage graves. I've heard enough about ""M'Lady"" for a lifetime. What absolute rubbish, eh? Tsk!"
+40019,Crestfallen,Talk-After Rhea left from Firelink Shrine,"Did you see that hoity-toity cleric? He went through the graveyard and down into the Catacombs. Clerics speak of some nonsense called Kindling, used to feed bonfires. They're so bloody determined. They practically queue to explore the Catacombs. Hah hah hah hah..."
+40020,Crestfallen,Talk-After Petrus to return to Firelink Shrine,That cleric was spared? I never know what the Gods are thinking... Tsk!
+40021,Crestfallen,Talk-1st time after saving Rhea from the Tomb of the Giants,"Did you hear about the maiden? The virtuous lass came back alone, and in absolute tatters... Did her followers die, or was she abandoned? Who knows. But I suppose we've heard the last from ""M'lady"". Hah hah hah hah!"
+40022,Crestfallen,Talk-2nd time after saving Rhea from the Tomb of the Giants,That maiden? She's shuffled off somewhere. I believe to the Undead Church. These ruins were probably too awkward for her.
+40023,Crestfallen,Talk-Before saving Logan from Sen's Fortress,"Oi, did you see him? Big Hat Logan, the legendary sorcerer, in the flesh! ...This place is simply mad... Legendary heroes popping up left and right... They're making me feel quite inadequate, to be honest! Hah hah hah hah..."
+40024,Crestfallen,Talk-While Cursed,"Oi, hold on...Don't tell me, have you been cursed? Oh woe is the Undead who's cursed on top of it all! Harsh times; harsh times, indeed! Hah hah hah hah! Hah hah hah hah! No, no, I'm sorry. Here, let me share a nice tip. Long ago, I was told of a remedician who resides in New Londo. Does he really exist? Well, go and find out for yourself. But don't blame me if he's just an apparition! Hah hah hah hah!"
+40025,Crestfallen,Talk-1st time after ringing 1st Bell of Awakening,"Why, what a surprise. I didn't expect you to make it. ...Oh, somebody rang the bell...Wait. Was it you? You never give up, do you? I don't know how you do it. Well, don't stop now. Only one more, but it's going to be suicide. Only one more now, if you have the heart for it. Hah hah hah hah..."
+40026,Crestfallen,Talk-2nd time after ringing 1st Bell of Awakening,What's wrong? Get a bit of a scare out there? No problem. Have a seat and get comfortable. We'll both be Hollow before you know it. Hah hah hah hah...
+40027,Crestfallen,Talk-3rd time after ringing 1st Bell of Awakening,"Well, what are you going to do? I've already decided. I don't really care; I'm simply crestfallen..."
+40028,Crestfallen,Talk-1st time after ringing both Bells of Awakening,"Did you ring the second bell? That is incredible, I must say...But now we have a new problem. It's noisy, it snores, and its breath is lethal... This is no laughing matter, I tell you."
+40029,Crestfallen,Talk-2nd time after ringing both Bells of Awakening,"Damn, that stench...And I was really beginning to like it here! Sigh... Maybe it's time I do something about it..."
+40030,Crestfallen,Talk-3rd time after ringing both Bells of Awakening,Sigh... Maybe it's time I do something about it...
+40031,Crestfallen,Upon being attacked-1st time,Ooph!
+40032,Crestfallen,Upon being attacked-2nd time,Oww!
+40033,Crestfallen,Upon being attacked-3rd time,What in the...!
+40034,Crestfallen,Upon being attacked-4th time,Stop that! Oi!
+40035,Crestfallen,Upon being attacked & made hostile,"Lousy rat! You have some nerve! I may be crestfallen, but I'm not defenceless, you rascal! You will soon regret this!"
+40036,Crestfallen,Upon killing the protagonist,"Now, that's just embarrassing. How'd you let me do that to you?"
+40037,Crestfallen,Upon dying,"Heheh, not too shabby... I think you've done me a favour..."
+50001,Darkmoon,Talk-1st time,"Well, you are a rare visitor. Welcome to the lost city of Anor Londo, chosen Undead. If you seek Lord Gwyn's old keep, exit here and head straight yonder. If you are the chosen one, a revelation shall visit thee. ...What follows thereafter, depends upon you..."
+50002,Darkmoon,Talk-2nd time,"Hmm. You have survived. Impressive. If you require rest, now is the time. That is, after all, what the bonfire is for."
+50003,Darkmoon,Talk-1rd time after leaving & returning to Anor Londo,"Hmm. You have made it back. Very well. Go ahead, you may rest here. Even an Undead requires repose."
+50004,Darkmoon,Talk-2rd time after leaving & returning to Anor Londo,"Hmm. You have made it back. You were gone so long. Go ahead, you may rest here. Even an Undead requires repose."
+50005,Darkmoon,"Menu-Choose ""Talk"" 1st time","Hm, what is it? What am I? Well...I am the Keeper of the bonfire. If not for me, what beacon would there be in this lost city? A gatekeeper, and a guide; that is my calling."
+50006,Darkmoon,"Menu-Choose ""Talk"" 2nd time","The bonfires attended by the Keepers are special. They are linked to one another, and their flames never die. Yet never shall the Keepers of these flames meet."
+50007,Darkmoon,Talk-1st time after receiving the Lordvessel,"Hmm. So, you have received a revelation? Very auspicious. I hope for the best. I pray that through you, Her wish will be granted."
+50008,Darkmoon,Talk-2nd time after receiving the Lordvessel,"Have you heard of Seath the Scaleless? In legend, he turned against the ancient dragons. He became Lord Gwyn's confidant, was granted dukedom, and was allowed to pursue his research. At the Regal Archives, he immersed himself in research on scales of immortality, the one thing that he did not have. ...But his very research drove him mad... The Archives became a dungeon, a place for sinister experiments. Now, nobody dares even approach the duke's forbidden Archives. It looms over this land, high atop the mountain. But I should warn against even an approach..."
+50009,Darkmoon,Talk-After obtaining all Lord Souls & Bequeathed Lord Soul Shards,"Will you be departing soon, honourable heir to Gwyn's Flame... We are humbled... For we exist only with your blessing."
+50010,Darkmoon,"Talk-After joining the ""Blade of Darkmoon"" Covenant","Oh...You are one of us. That is a surprise. But a pleasant one. We are both Blades of the Darkmoon, now. I shall look forward to fighting alongside you."
+50011,Darkmoon,Upon being attacked-1st time,What!
+50012,Darkmoon,Upon being attacked-2nd time,How dare you!
+50013,Darkmoon,Upon being attacked-3rd time,Hrk!
+50014,Darkmoon,Upon being attacked-4th time,Rrgh!
+50015,Darkmoon,Upon being attacked & made hostile,Very well. So be it. Expunging fools like you is part of my charge.
+50016,Darkmoon,Meeting in hostile state after killing the illusion of Gwynevere,"So...It was you, was it? How dare you produce a blade upon a deity? How did you ever get this far? I shall end your suffering here and now. It is the least that I can do."
+50017,Darkmoon,Upon killing the protagonist,Tis a pity...To think I saw potential in you...
+50018,Darkmoon,Upon killing the protagonist after killing the illusion of Gwynevere,What you saw under light of the Darkmoon shall haunt you forever.
+50019,Darkmoon,Upon dying,"...But, how... ...This man is a threat... ...This woman is a threat... ...Master Gwyndolin..."
+60001,Domhnall,Talk-1st time,"Aye, siwmae. And good day to you. I'm Domhnall of Zena. I'm just, well, a peddler, of sorts. I adore trinkets and oddities, so I trade for them."
+60002,Domhnall,Talk-2nd time,"Aye, siwmae. I adore trinkets and oddities, so I trade for them."
+60003,Domhnall,Talk-After leaving & returning to the Depth,"Aye, siwmae. We meet again."
+60004,Domhnall,Talk-1st time,"Aye, siwmae. I didn't expect to meet anybody here. I suppose great minds think alike, eh? Heh heh."
+60005,Domhnall,Talk-After leaving & returning to the Firelink Shrine,"Aye, siwmae. Never thought I'd see you here. This feels karmaic. Pray tell, what do you have for me?"
+60006,Domhnall,"Menu-Choose ""Talk"" without purchasing something",Hmm... I'm afraid I don't see anything here.
+60007,Domhnall,"Menu-Choose ""Talk"" 1st time after purchasing something","Hmm... Well, I'm certain we will make a good trade eventually... So, I am willing to share some tips. If you seek Kindling in the Catacombs, use divine weapons. That will repel the reassembling skeletons."
+60008,Domhnall,"Menu-Choose ""Talk"" 2nd time after purchasing something","Hmm... Well, I'm certain we will make a good trade eventually... So, I am willing to share some tips. The cursed Ghosts of New Londo are formidable foes. To face them, you will require special arms...Or a cursed body. The quickest way to be cursed?  Try the bug-eyed lizards in the sewer. Desperate measures, to be sure..."
+60009,Domhnall,"Menu-Choose ""Talk"" 3rd time after purchasing something","Hmm... You are a fine trading partner. Rumour it may be, but I have heard of a surviving ancient dragon who resides in this land. A coterie of Undead serves the dragon, as they train to become dragons themselves. Sounds unlikely, but you never know, do you?"
+60010,Domhnall,"Menu-Choose ""Leave"" without purchasing something","Well, that is a shame, then. But no matter. No, not to worry. Come back again. I'm always available. Not every trade was meant to be. There'll be more in store for us, someday, sometime!"
+60011,Domhnall,"Menu-Choose ""Leave"" after purchasing something","Thank you. That was a fine trade. I have this funny feeling we'll meet again soon. And we'll make another fine trade, of course!"
+60012,Domhnall,Upon being attacked-1st time,"Hold on, there!"
+60013,Domhnall,Upon being attacked-2nd time,What's this about?
+60014,Domhnall,Upon being attacked-3rd time,"Now, stop that!"
+60015,Domhnall,Upon being attacked-4th time,Ouch!
+60016,Domhnall,Upon being attacked-5th time,Oww!
+60017,Domhnall,Upon being attacked & made hostile,"What problem do you have now? I'm a man of peace, idiot! Enough of you, I say, farewell."
+60018,Domhnall,Upon dying,By the Lords...why... My precious collection...
+70001,Dusk,Talk-1st time,"So, it is thou who rescueth me? Most gracious. I am deeply obliged. I am Dusk of Oolacile. I cometh from an age long before thine... I can not stay here for long. So, before I disappear, allow me to ask one thing. My home, Oolacile, is the home of ancient sorceries. My hope is to pass this profound knowledge to thee, with thine approval. Would this be of assistance to thee?"
+70002,Dusk,"Choose ""No"" to the query","Yes, of course...I understand well. Pray forgive me. I have overstepped my boundaries. Farewell; another age, another land, beckons me to return. May the flames guide thee."
+70003,Dusk,"Choose ""Yes"" to the query","My heartfelt thanks. I am pleased beyond words. Then, I shalt engrave my signature. If thou art in need, pray summon me from my signature. It seems that my time is done. May the great flames guide thee."
+70004,Dusk,Talk-After summoning,I am Dusk of Oolacile. It is an honour to see thee again. I shall follow thine wishes.
+70005,Dusk,"Menu-Choose ""Talk"" 1st time","For a very long time, I was trapped within the Crystal Golem. From my home I was taken, and banish'd to a plane of distortion. It was there, that thou came to my rescue. Long after I had relinquished all hope. So gleeful was I, my faith reneweth."
+70006,Dusk,"Menu-Choose ""Talk"" 2nd time","The sorceries of Oolacile differ from the magic of thine age. It is difficult to explain... Oolacile sorceries are, what doth one say? They are somewhat... of an approximation. Thine sorceries are more straight forward, negating all but thy self. Dost thou not find some fascination in these discrepancies?"
+70007,Dusk,"Menu-Choose ""Talk"" 3rd time after resting at a Bonfire","My home of Oolacile was reduced to ashes, long ago, in my time. I have been alone ever since... But to be summon'd thus, and to be of service to thee... It is... most rewarding... Oh, forgive me, such a long-past time is none of thine concern..."
+70008,Dusk,"Menu-Choose ""Talk"" 1st time after defeating Manus, Father of the Abyss","...This may strike thine ear as somewhat peculiar, but... Long ago, in my homeland of Oolacile, I was beset by a creature from the Abyss. I would have perished then, were it not for the great knight Artorias. In truth, I saw little of what transpired, for mine senses were already fled! But even still, there was something about Artorias... A certain balance of the humours... ...That quite perfectly fits your semblance. Heavens, could it be that... ... Oh, dear me. That was Oolacile, many centuries ago. Please excuse my fanciful musings."
+70009,Dusk,"Menu-Choose ""Talk"" 2nd time after defeating Manus, Father of the Abyss","Excuse me for such whimsical utterances. Only, it was so very odd... You, and Artorias. I owe my life to each of you. And both seem to share some resonance of sorts... Perhaps it is the nature of true greatness."
+70010,Dusk,"Menu-Choose ""Talk"" 3rd time after defeating Manus, Father of the Abyss","I still think on that creature from the Abyss that preyed upon me. My faculties were far from lucid, but I quite clearly sensed certain emotions. A wrenching nostalgia, a lost joy, an object of obsession, and a sincere hope to reclaim it... Could these thoughts belong to the beast from the Abyss? But if that were true, then perhaps it is no beast after all? Oh, please forgive my ramblings. It's just that, I wish to know the truth. And no one, not even loving Elizabeth, will tell me."
+70011,Dusk,"Menu-Choose ""Leave"" without purchasing something","If thou art in need, pray summon me again. I wish to be of assistance... May the flames guide thee."
+70012,Dusk,"Menu-Choose ""Leave"" after purchasing something","If thou art in need, pray summon me again. I only wish to be of some genuine assistance... May the flames guide thee."
+70013,Dusk,After leaving abruptly,"Wait, where... are..."
+70014,Dusk,Talk-After leaving abruptly,Thou hast return'd. Bless thee.
+70015,Dusk,Upon being attacked-1st time,What dost thou...
+70016,Dusk,Upon being attacked-2nd time,Whatever for...
+70017,Dusk,Upon being attacked-3rd time,Cease this barbarism...
+70018,Dusk,Upon dying,"Ahh... Farewell, my rescuer..."
+70019,Dusk,"Talk-1st time after defeating Manus, Father of the Abyss",...Mmn...ahh...
+70020,Dusk,"Talk-2nd time after defeating Manus, Father of the Abyss",...Aah...mmn... ...Hmm...mm...
+70021,Dusk,Upon being attacked,Aah...
+70022,Dusk,Upon dying,Eek!
+80001,Eingyi,Talk-1st time,...Oh dear...What have we here? Are you a new servant?
+80002,Eingyi,"Choose ""No"" to the query",Then you shall not pass. Away with you!
+80003,Eingyi,"Talk-After choosing ""No"" to the query","The nerve of you! Be gone, be gone at once!"
+80004,Eingyi,"Choose ""Yes"" to the query","...Hmph. But you have no eggs? Bah, no matter. Go along and have audience with Our Fair Lady. I pray that you will mind your manners!"
+80005,Eingyi,"Talk-After choosing ""Yes"" to the query, before talking to Daughter of Chaos","What is it? Go along, and meet Our Fair Lady."
+80006,Eingyi,Talk-2nd time,"Are you prepared to dedicate yourself to Our Fair Lady? Then I will make available whatever you require. If you need something, ask me first."
+80007,Eingyi,Talk-3rd time,You again...
+80008,Eingyi,Talk-4th time,"Are you in need already? Well, anything for the Fair Lady...What do you want?"
+80009,Eingyi,Talk-With the Old Witch's Ring equipped,"...You, you speak the tongue of the Fair Lady? ... Well, do not be rash with your pride. You have yet to earn my trust. If you try anything funny with the Fair Lady, there will be hell to pay."
+80010,Eingyi,"Menu-Choose ""Talk"" 1st time","There is no time for idle chat. Think only of Our Fair Lady, and what she may need."
+80011,Eingyi,"Menu-Choose ""Talk"" 2nd time","...There is nothing to say to you... Except...If you lay a hand on the Fair Lady, you should be prepared to face my wrath."
+80012,Eingyi,Talk-1st time after already having hatched an egg,"Well! ...Now...you're just like me... Your dedication is fully apparent. Only, well...Your head looks awful... Why not try this? I've no use for it any longer."
+80013,Eingyi,Talk-2nd time after already having hatched an egg,"Oh, hello. What is it that you need?"
+80014,Eingyi,"Menu-Choose ""Talk"" 1st time after hatching an egg & resting at a Bonfire","Below us lies the ruins of the legendary city of Izalith. There, the Molten Giant watches over the Flame of Chaos. Our Fair Lady, and Mistress Quelaag, fled from the ruins. I do not know the details...And I do not ask..."
+80015,Eingyi,"Menu-Choose ""Talk"" 2nd time after hatching an egg & resting at a Bonfire","Have you heard of Lost Quelana? An inhuman witch, who wanders the Poison Swamp. Only no one has ever seen her, so who really knows? But what if she is another of the Quelaag sisters? Our Fair Lady would be greatly comforted by her presence."
+80016,Eingyi,"Menu-Choose ""Talk"" after hatching an egg & talking to Daughter of Chaos","In all honesty, I am envious. What comfort can I offer, without speaking her tongue?"
+80017,Eingyi,Talk-After talking to Daughter of Chaos hatched an egg & resting at a Bonfire,"Oh, hello...A pleasure to see you again. But don't neglect the Fair Lady. She needs some company."
+80018,Eingyi,"Menu-Choose ""Talk"" 1st time after hatching an egg","Incidentally, do you have an interest in pyromancy? If you have, I shall share my flame with you."
+80019,Eingyi,"Choose ""No"" to either the 2nd or 3rd query","...Well, fine. I will not force you."
+80020,Eingyi,"Menu-Choose ""Talk"" after choosing ""No"" to either the 2nd or 3rd query","Have you developed an interest in pyromancy? If you have, I shall share my flame with you."
+80021,Eingyi,"Choose ""Yes"" to either the 2nd or 3rd query","You have served our Fair Lady well. Now, let this strength be yours."
+80022,Eingyi,"Menu-Choose ""Talk"" 2nd time after hatching an egg","Worse than Undead, we are diseased, and unwanted. Like the grime of the Great Swamp. But my dear, Fair Lady! She cried for me... And swallowed the great Blightpus, despite Mistress Quelaag's orders to the contrary."
+80023,Eingyi,Talk-After hatching a parasitic egg for the 2nd time,"Well! That head of yours...Nothing seems to help, does it? I still have medicine. Go ahead and use it. Now, now, no need to fret about it. Things will be fine, one day..."
+80024,Eingyi,Upon being attacked-1st time,Hrgkt!
+80025,Eingyi,Upon being attacked-2nd time,Erggkt!
+80026,Eingyi,Upon being attacked-3rd time,Oog!
+80027,Eingyi,Upon being attacked-4th time,Hagkt!
+80028,Eingyi,Upon being attacked & made hostile,I knew it! I knew it! You will not get away with this!
+80029,Eingyi,Upon being attacked after the protagonist has hatched a parasitic egg,You...you would betray us?! I should have known!
+80030,Eingyi,Upon dying,Hrg...rgggkt... My dear Fair Lady...You are in danger...
+80031,Eingyi,Upon Killing the Fair Lady,"Why, youuuuu monster...! The Fair Lady! What have you done, what have you done! Hrggreeeeeeeeeeh!"
+90001,Elizabeth,Talk-1st time,"Well, look at this one. From what far-away age hast thou come? Thy scent is very human, indeed. ...But, not intolerable... Ah, Princess Dusk's saviour. Thine aura is precisely as she described. I thank thee deeply, for rescuing Her Highness. But Princess Dusk is here no longer... ...snatched away by that horrifying primeval human. And so I must ask... Couldst thou once more play the saviour?"
+90002,Elizabeth,"Talk-1st time, after talking with Dusk and exhausting her dialogue","Well, look at this one. From what far-away age hast thou come? Thy scent is very human, indeed. ...But, not intolerable... Princess Dusk has spoken of thee. Thy aura is precisely as she described. I thank thee deeply, for rescuing Her Highness. But Princess Dusk is here no longer... ...snatched away by that horrifying primeval human. And so I must ask... Couldst thou once more play the saviour?"
+90003,Elizabeth,"Choose ""No"" to the 1st query","Yes, I understand. We care dearly for Princess Dusk, and are apt to blur our boundaries. I am ashamed to have been so imposing. But should thine heart be changed, speak to me again. This sanctuary, and the sorceries of Oolacile, are my domain. My strength could surely assist thee in thy travels."
+90004,Elizabeth,"Talk-2nd time after choosing ""No"" to the 1st query",Hast thou reconsidered? Such that thou might rescue dear Dusk?
+90005,Elizabeth,"Choose ""No"" to the 2st query","Yes, yes, of course. But shouldst thine heart be changed, speak to me again."
+90006,Elizabeth,"Choose ""Yes"" to the 1st query","Thank you. I am Elizabeth, guardian of this sanctuary. Something of a godmother to Princess Dusk. I shall assist thee, to my utmost. For I am one with the sorceries of Oolacile."
+90007,Elizabeth,Talk-After accepting the 1st or 2nd query,Thank goodness thou art safe. What is thy wish? I offer thee my all.
+90008,Elizabeth,Talk-After accepting the 1st or 2nd query while the protagonist is hollow,"Struggling, are we? If there is anything I can do, never hesitate to ask."
+90009,Elizabeth,"Menu-Choose ""Talk"" 1st time","Thou shalt see further on. An abyss was begat of the ancient beast, and threatens to swallow the whole of Oolacile. Knight Artorias came to stop this, but such a hero has nary a murmur of Dark. Without doubt, he will be swallowed by the Abyss, overcome by its utter blackness. ...Indeed, the Abyss may be unstoppable... Still I have faith, that Princess Dusk  may be rescued yet..."
+90010,Elizabeth,"Menu-Choose ""Talk"" 1st time after resting at a Bonfire","Thou art from a time far, far ahead. There are many things I wish to ask. ...But I know that I must not. The perils of our time are overwhelming enough."
+90011,Elizabeth,"Menu-Choose ""Talk"" 2nd time after resting at a Bonfire","Hah hah...Was thine eye, glancing hither? Thou needst not hide thy wonder. I am a mushroom, after all. Hee hee hee..."
+90012,Elizabeth,"Menu-Choose ""Talk"" 3rd time after resting at a Bonfire","Not long ago, I had another visitor. A human like thineself, from a far-away time. Only, he was dreadfully odious... And I am afraid that he is still amongst us. He wore a hat and a long black coat..."
+90013,Elizabeth,Talk-After defeating Manus,"I have awaited thee. Thou hast rescued Princess Dusk, ...and rid us of that terrible primeval human. Even halting the spread of the Abyss! I salute the grandeur of thine enterprise. Please, allow me to express my gratitude. I thank thee... as do we all."
+90014,Elizabeth,"Menu-Choose ""Talk"" after defeating Manus","I will remember thee, but I will keep thy story to myself. This is the best way, for thou art come from a time far ahead. No-one will sing thy praises, but yet thy greatness shall live on. For it shall be my purpose, to remember all thou hast done for us."
+90015,Elizabeth,"Menu-Choose ""Leave""",May the flames guide thee.
+90016,Elizabeth,Upon being attacked-1st time,Ah!
+90017,Elizabeth,Upon being attacked-2nd time,Ooh!
+90018,Elizabeth,Upon being attacked-3rd time,Aaah!
+90019,Elizabeth,Upon being attacked-4th time,Stop that!
+90020,Elizabeth,Upon being attacked-5th time,"Please, no!"
+90021,Elizabeth,Upon being attacked-6th time,Stop!
+90022,Elizabeth,Upon dying,"Aiieeek! Aiieeegh! Ooh...aah... But, why... Why... Dear Dusk..."
+100001,Fortressknight,Talk-1st time,"... Ah, what? What? Who are you? Ahh, another Undead, eh? I took on Sen's Fortress alone... But I'm no different from those vile creatures... I was driven by conceit... Ahh, you think you're different? That you can handle it? Yes, I remember that feeling. For I was the same. ...So, let me help you out. With your soul-searching."
+100002,Fortressknight,Talk-2nd time,"... Hm, ah, oh you? Still alive? That's a surprise. Anything you want? What's mine is yours, but at a price!"
+100003,Fortressknight,Talk-3rd time,"... Hm...Oh, yes, it's you. What is it? Still something you need, eh, anything at all?"
+100004,Fortressknight,"Menu-Choose ""Talk"" 1st time","There's nothing more to say. I'm finished. We're both on the brink, you see? End of story. You bloody fool."
+100005,Fortressknight,"Menu-Choose ""Talk"" 2nd time","Let me give you a nibble of advice. Don't even consider visiting Anor Londo. Not in your state. For a century, they have tried, and failed. The Knight King Rendal, Black Iron Tarkus, and even Logan himself. You won't stand a chance. You'll be eaten alive. But, go along, if you wish. If only to deepen your despair!"
+100006,Fortressknight,"Menu-Choose ""Talk"" 3rd time",Where do I get all my things? Stripped off the corpses of fools like yourself. It isn't easy. I have to catch them just before they go Hollow. Don't worry. I'll be there to claim your trinkets. Gazing at your final twisted grimace! Gee hee hee hee hee!
+100007,Fortressknight,"Menu-Choose ""Leave"" 1st time without purchasing something","Nothing at all? Fine then, rush in like a naked babe, and be skinned alive!"
+100008,Fortressknight,"Menu-Choose ""Leave"" 2nd time without purchasing something","So, you're that good? Don't need a thing? Bah. It won't be long, before you're begging for mercy."
+100009,Fortressknight,"Menu-Choose ""Leave"" 1st time after purchasing something","Go along, try and make something of yourself. But nothing will come of it. And I should know!"
+100010,Fortressknight,"Menu-Choose ""Leave"" 2nd time after purchasing something","There you go, another brave soul. But soon you shall see...You and I are no different... Yes, yes, you soon shall see... ...the putrid fate we both share..."
+100011,Fortressknight,After leaving abruptly,...Hmm?
+100012,Fortressknight,Talk-After leaving abruptly,"...Hm, fine, fine. I understand. I have my head about me."
+100013,Fortressknight,Upon being attacked-1st time,Hrgro!
+100014,Fortressknight,Upon being attacked-2nd time,Hrgrah!
+100015,Fortressknight,Upon being attacked-3rd time,Hrgroah!
+100016,Fortressknight,Upon being attacked-4th time,Hrgaw!
+100017,Fortressknight,Upon being attacked & made hostile,What the devil's got into you! Hrrgrrrroooggh! You hrggraaaghh!
+100018,Fortressknight,Upon dying,Hrrggahh... Ahhh...help me...
+110001,Frampt,After approaching the location he sleeps after ringing 1st Bell of Awakening,Hmgg...Hmgg...
+110002,Frampt,Talk-1st time,"Ahh, hello. Was it you who rang the Bell of Awakening? I am the primordial serpent, Kingseeker Frampt, close friend of the Great Lord Gwyn. Chosen Undead, who has rung the Bell of Awakening. I wish to elucidate your fate, Do you seek such enlightenment?"
+110003,Frampt,"Choose ""No"" to either the 1st or 2nd query","By the Lords...Are you certain? Well, perhaps I was wrong. There can be only one chosen Undead. I will continue my search...You are freed from duty. But then again, you did ring the Bell of Awakening. I will stay here a while. Speak with me if you should change your mind."
+110004,Frampt,"Talk-After choosing ""No"" to either the 1st or 2nd query",What brings you here? Had a change of heart about your fate as an Undead?
+110005,Frampt,"Choose ""Yes"" to either the 1st or 2nd query","Very well. Then I am pleased to share. Chosen Undead. Your fate...is to succeed the Great Lord Gwyn. So that you may link the Fire, cast away the Dark, and undo the curse of the Undead. To this end, you must visit Anor Londo, and acquire the Lordvessel."
+110006,Frampt,Talk-2st time,I am pleased to see you well. Is it something urgent?
+110007,Frampt,"Menu-Choose ""Talk""","Those who seek the Realm of Lords must brave Sen's Fortress, a deadly house of traps. Many have gone before you, but none have returned. Fate has chosen you, but proceed with caution."
+110008,Frampt,Talk-After receiving Lordvessel from the illusion of Gwynevere,"Heavens! You have done it! You have retrieved the Lordvessel! After a thousand years! It is you, it is really you! Hraaaoogggh! Hraaaoogggh! ... Forgive me. I really should calm down. Now, let us take that vessel on a journey. I assume that you are ready. Now, be still!"
+110009,Frampt,After Frampt warps into the Firelink Altar for the 1st time,"This is the Firelink Chamber, for the successor of Lord Gwyn. Now, place the Lordvessel on the altar."
+110010,Frampt,Talk-Before placing the Lordvessel in his presence,What is it? Place the Lordvessel on the altar. No reason for pause at this point.
+110011,Frampt,Talk-After placing the Lordvessel in his presence,"Very well. As Kingseeker, I shall now instruct you, the Lord's successor, in your next task. To achieve your fate, fill the vessel with powerful souls, commensurate to the great soul of Gwyn. Scarce few possess such brilliant souls. Gravelord Nito, the Witch of Izalith, the Four Kings of New Londo, who inherited the shards of Gwyn's soul... and Lord Gwyn's former confidant, Seath the Scaleless. All of their souls are required to satiate the Lordvessel. ... Are you ready? Then we shall return. Stay still for a moment!"
+110012,Frampt,"Menu-Choose ""Talk"" after placing the Lordvessel in his presence","The beings who possess these souls have outlived their usefulness, or have chosen the path of the wicked. As the primordial serpent, I implore you to defeat them, and claim their souls. Let there be no guilt; let there be no vacillation."
+110013,Frampt,Talk-After filling the Lordvessel,"Ahh...ohh! The Lordvessel is satiated... Magnificent...You are the righteous successor to Gwyn, the new Great Lord. And I am Kingseeker no more... Your acquaintance was an honour. I must admit, I am fond of you humans. May you enjoy serendipity, And may the Age of Fire perpetuate."
+110014,Frampt,"Menu-Choose ""Warp"" from Firelink Shrine to the Firelink Altar","Very well. Then, stay still for a moment!"
+110015,Frampt,"Menu-Choose ""Warp"" from Firelink Altar to the Firelink Shrine","Are you ready? Then we shall return. Stay still, then!"
+110016,Frampt,"Menu-Choose ""Leave"", or abruptly leave","Farewell. Chosen Undead. I remain here, and await thee."
+110017,Frampt,After approaching his location while he is sleeping,Hmgg...Hmgg...
+110018,Frampt,After being attacked while sleeping to wake him,"...Hm? No, no, I'm fine, I'm fine. Well and wide awake! Do not treat me like an old withering snake."
+110019,Frampt,Upon being attacked-1st time,Hmg!
+110020,Frampt,Upon being attacked-2nd time,Hrg!
+110021,Frampt,Upon being attacked-3rd time,Agh!
+110022,Frampt,Upon being attacked-4th time,Ooph!
+110023,Frampt,Upon being attacked & made hostile,"You sorry fool...You could not be the Chosen one. Enough...I shall slumber, until I am awakened again..."
+120001,Giantsmith,Talk-1st time,Who are you? Forge your weapons?
+120002,Giantsmith,Talk-2nd time,"Mng. Hello. Forge, I can! Strong, I am!"
+120003,Giantsmith,"Menu-Choose ""Talk"" 1st time","Talk, 'tis no good. But forge...very good! I help anytime."
+120004,Giantsmith,"Menu-Choose ""Talk"" 2nd time","Talk, 'tis no good. No-one home. Everyone gone."
+120005,Giantsmith,"Menu-Choose ""Talk"" 3rd time","But you, friend. You talk, I no talk, but happy."
+120006,Giantsmith,"Menu-Choose ""Talk"" 4th time","You come, I forge. Shiny-shiny. Get shiny from Duke. Forge weapons, make shiny. More happy."
+120007,Giantsmith,"Menu-Choose ""Talk"" 5th time","You come, I forge, we talk. You good friend. I very happy."
+120008,Giantsmith,Talk-After obtaining the Crystal Ember,Mng. What's that? Shiny-shiny. Give me that. I make weapons shiny.
+120009,Giantsmith,"Choose ""No"" to giving the Crystal Ember","Hmph, 'tis pity..."
+120010,Giantsmith,"Choose ""Yes"" to giving the Crystal Ember","I hath shiny-shiny, I make weapons shiny!"
+120011,Giantsmith,"Menu-Choose ""Leave"" without purchasing something",Cometh soon.
+120012,Giantsmith,"Menu-Choose ""Leave"" after purchasing something",Cometh soon.
+120013,Giantsmith,After leaving abruptly,"Mng, hmng?"
+120014,Giantsmith,Talk-After leaving abruptly,Hello again.
+120015,Giantsmith,Upon being attacked-1st time,Oww.
+120016,Giantsmith,Upon being attacked-2nd time,"Oww, that hurts."
+120017,Giantsmith,Upon being attacked & made hostile,Oi! Stop that!
+120018,Giantsmith,Upon killing the protagonist,You weak.
+120019,Giantsmith,Upon dying,"Angh, uggghh... Nighty-night..."
+130001,Gough,Talk-1st time,"Hm? A visitor, have we? Thou must be the one who freed Artorias. An old friend he was, and thanks to thee... He left this world with honour intact. ...And here I am, retired and blind. Of little help to thee, I am afraid."
+130002,Gough,Talk-After defeating Kalameet before speaking with Gough,"Hm? A visitor, have we? Thou must be the one who freed Artorias. An old friend he was, and thanks to thee... He left this world with honour intact. And I see that the great black dragon Kalameet is dusted by thine hand. Wondrously played. Lord Gwyn's blessing upon thee. I am retired, and blind. To receive a visit by one as lofty as thyself, is a great honour indeed."
+130003,Gough,Talk-2nd time,"Well, thou com'st again. Thou art a strange one."
+130004,Gough,Talk-3rd time,"Well, thou hast come again. This is a surprise."
+130005,Gough,"Menu-Choose ""Talk"" 1st time before encountering Kalameet at his lair","If thou seeketh to explore this domain, be wary of a black dragon. I fear thee no match for this terrible beast."
+130006,Gough,"Menu-Choose ""Talk"" 2nd time","Me? There is very little to be said. What good is a dog, with no hares to hunt? ...I am lucky to be alive, I suppose."
+130007,Gough,Talk-After encountering Kalameet at his lair,Good morrow...Is the Black Dragon posing thee duress?
+130008,Gough,"Choose ""No"" to the 1st query",...Strange. I am rarely wrong on such matters...
+130009,Gough,"Menu-Choose ""Talk"" after choosing ""No"" to 1st query & resting at a Bonfire","The Black Dragon troubles you yet, I see."
+130010,Gough,"Choose ""No"" after choosing ""No"" to the 2nd query","...Hmm, yes, I see. I was mistaken..."
+130011,Gough,"Choose ""Yes"" to the 1st query","Yes, I thought as much. He is called Kalameet. A ferocious dragon indeed, even mighty Anor Londo dared not provoke his ire. I see little good coming from this, but... ...Thy intent is to persevere... to the bitter end, hmm?"
+130012,Gough,"Choose ""No"" after choosing ""Yes"" to the 1st query",A wise choice. Why foist thyself unto the fiery maw?
+130013,Gough,"Menu-Choose ""Talk"" after choosing ""No"" to 2nd query & resting at a Bonfire",...Art thou prepared to challenge great Kalameet?
+130014,Gough,"Choose ""No"" to the 3rd query","Yes, surely that is best."
+130015,Gough,"Choose ""Yes"" after choosing ""Yes"" to the 1st query","Hah hah hah! Good, good. What is bravery, without a dash of recklessness! I have taken a liking to thee. And I owe thee much for thy service to Artorias. Now watch, and see how Gough hunts dragons. Hrrmmm... Haah! Hah hah! Yes, a truer shot was never loosed! That bat will be grounded for a good spell! The rest is in thine hands. I await good tidings. Ahh, dragon slaying. Knighthood's highest calling..."
+130016,Gough,Talk-After Gough has shot down Kalameet,"Ah, hello there. What of Kalameet? He is an ancient dragon. Skyward or no, he will not be put down easily."
+130017,Gough,"Menu-Choose ""Talk"" after encountering Kalameet at his lair","The dragons shall never be forgotten... We knights fought valiantly, but for every one of them, we lost three score of our own. Exhilaration, pride, hatred, rage... The dragons teased out our dearest emotions. ...Thou will understand, one day. At thy twilight, old thoughts return, in great waves of nostalgia."
+130018,Gough,"Menu-Choose ""Talk"" 1st time, after Gough has shot down Kalameet","I suspect thou hast taken a gander at it, But the Dark of the Abyss, which swallowed poor Artorias, threatens to devour our entire land of Oolacile. It seems that this dire fate is unavoidable. But, seduced by a Dark serpent or no, They awoke that thing themselves, and drove it mad. ...One's demise is always one's own making."
+130019,Gough,"Menu-Choose ""Talk"" 2nd time, after Gough has shot down Kalameet","If thine wish is to succeed poor Artorias, and challenge the spread of the Dark, Then thou must face Manus, Father of the Abyss. The Dark emanates from Manus himself. Even if this land shall expire, thou may be able to prevent further corrosion. ...But even so, one day the flames will fade, and only Dark will remain. And even a legend such as thineself can do nothing to stop that."
+130020,Gough,"Menu-Choose ""Talk"" 3rd time, after Gough has shot down Kalameet","Now, do not mistake my words. I cherish my work. Wood carving is a nuanced art. I would have much to talk about with that blacksmith. In truth, how is the old chap, I wonder? Still hammering away, I should hope."
+130021,Gough,Talk-1st time after defeating Kalameet,"Why, thou hast defeated Kalameet! Wondrously played. Lord Gwyn's blessing upon thee. That beast will never take to the skies again."
+130022,Gough,"Talk-1st time after defeating Kalameet, without Gough shot down Kalameet",I see that thou hast dusted the great black dragon Kalameet. Wondrously played. Lord Gwyn's blessing upon thee. I see that there is at least one legend among ye humans. Dear me... That old bat will never fly again.
+130023,Gough,Talk-2nd time after defeating Kalameet,"Thou com'st again, legend of humans. It is always an honour to speak with thee."
+130024,Gough,"Menu-Choose ""Talk"" after defeating Kalameet","Ahh, this Greatbow? I shan't need it, with no dragons to hunt. I know not if a human could even operate it, but here... Thy need outweighs mine."
+130025,Gough,"Menu-Choose ""Leave"", or abruptly leave","Farewell, human. Lead thy life as thou seest fit."
+130026,Gough,"Menu-Choose ""Leave"" after encountering Kalameet at his lair, or abruptly leave","Farewell, human. I await good tidings."
+130027,Gough,"Menu-Choose ""Leave"" after defeating Kalameet, or abruptly leave","Farewell, proud human. May every honour be bestowed upon thee."
+130028,Gough,Upon being attacked-1st time,Cease this.
+130029,Gough,Upon being attacked-2nd time,"Stop it, I say."
+130030,Gough,Upon being attacked-3rd time,Understand this. I wish thee no harm.
+130031,Gough,Upon being attacked-4th time,Stop that!
+130032,Gough,Upon being attacked-5th time,By the Gods!
+130033,Gough,Upon being attacked & made hostile,"Ahh, so this is true human nature. Artorias is in your debt, but thou leavest me little choice... May you perish, for the good of all!"
+130034,Gough,Upon dying,Humans...hmph...
+130035,Gough,Archtree Carving,Hello Thank you Very good! I'm sorry! Help me!
+140001,Griggs,After approaching the door of the building he is trapped in,"Somebody! Please, let me out of here! Somebody, anybody! Help me! Unlock the door! ...Damn... ...I'm finished... How did this ever happen..."
+140002,Griggs,Talk-1st time after using the Residence Key to open the door he is locked,"Brilliant! You opened the door for me! Thank you; I am saved. I thought I might never escape. I am Griggs of Vinheim. A sorcerer of the school. I am much obliged for your assistance. Thanks to you, I may now resume my travels."
+140003,Griggs,Talk-2nd time after using the Residence Key to open the door he is locked,"Oh, hello. I am fine. I will rest a while, then return to Firelink Shrine. I have my sorcery. And I will be more cautious next time. Besides, I have an important task at hand."
+140004,Griggs,Upon being attacked-1st time,Ooph!
+140005,Griggs,Upon being attacked-2nd time,Eeg!
+140006,Griggs,Upon being attacked-3rd time,What on Earth are you...!
+140007,Griggs,Upon being attacked-4th time,Cease! I implore you!
+140008,Griggs,Upon being attacked & made hostile,"Curses, you leave me no choice! You aren't yourself any more. Forgive me!"
+140009,Griggs,Upon dying,Rrrg... How could this...
+140010,Griggs,Talk-With less than 10 Intelligence,"Oh, hello. Terrific to see us both in one piece. And pray that you never go Hollow!"
+140011,Griggs,Talk-1st time with 10 Intelligence or more,"Oh, hello. I regret meeting you under such compromising circumstances. At least we both made it back unscathed. Incidentally, would you care to learn any sorceries? You're clearly talented, and besides, I owe you. Of course, we will require some materials, but I am happy to teach you some elementary spells. Are you interested?"
+140012,Griggs,"Choose ""No"" after talking with 10 Intelligence or more","Yes, I see... It is regrettable, but to each his own. If you change your mind, do not be bashful."
+140013,Griggs,"Talk-After choosing ""No""","Oh, hello. What is it? Have you changed your mind? I am praying that you will. For, I owe you my life."
+140014,Griggs,"Choose ""Yes"" after talking with 10 Intelligence or more","Splendid! Very well! I am pleased to have a chance to give something back. Well, then let's get started straight away."
+140015,Griggs,"Talk-After choosing ""Yes""","Oh, hello. Well, you certainly are keeping at it. Myself? I am fine. Let's get started straight away."
+140016,Griggs,"Menu-Choose ""Talk"" 1st time","Have you heard of Big Hat Logan? Master Logan is a great sorcerer, and my teacher. Both of us came to this land, as Undead. But one day, he departed, leaving only a note. ...I suppose he wished to keep me out of harm's way. But where does that leave me? I have dedicated myself to sorcery. But Master Logan could find no use for me..."
+140017,Griggs,"Menu-Choose ""Talk"" 2nd time","Ahh, yes, the note that Master Logan left? It only said he would travel to Anor Londo, by way of Sen's Fortress. I can only guess that he seeks the Regal Archives. For Master Logan is a tireless pursuer of wisdom. Wisdom trumps all; everything else is hogwash. When the curse turned him Undead, I am certain that he only felt it was the perfect chance to visit this land. I only wish that I had his courage..."
+140018,Griggs,"Menu-Choose ""Talk"" 3rd time","Two things are required for sorcery. First, you must equip a wand. Second, you must attune a sorcery. Then you will be ready to fire away. Oh and don't forget to aim!"
+140019,Griggs,"Menu-Choose ""Talk"" 4th time after resting at a Bonfire","I wish to do what I can to locate Master Logan. I am aware of my shortcomings, but I cannot very well just sit around here and rot. Oh, do not worry. I have considered our relationship. I will only leave after I have taught you all the sorceries that I know. I shall count myself lucky if I manage to locate Logan, or even return here in one piece."
+140020,Griggs,Talk-After Rhea & company have arrived in Firelink Shrine,"Did you see them? The three young clerics... headed for the Catacombs, to seek Kindling. Kindling is the art of feeding bonfires. The poor young girl, sent down into a tomb. What a terrible mission she is burdened with."
+140021,Griggs,Talk-1st time after Logan has arrived at Firelink Shrine,"Oh, hello again! I was waiting to tell you...Master Logan has returned! And he tells me that he has you to thank! Well, we are both in your debt, now. Thank you, sincerely. He's just over there. Go along and have a chat."
+140022,Griggs,Talk-2nd time after Logan has arrived at Firelink Shrine,"Oh, hello. I appreciate the attention, but you really should speak to Master Logan. That will certainly do you more good."
+140023,Griggs,"Menu-Choose ""Talk"" before buying sorceries from Logan",Have you spoken to Master Logan? He is an accomplished scholar. The arts of sorcery would never have come this far without his contributions. And he has the nerve to go risking life and limb! What a stubborn old fellow. Hah hah hah hah!
+140024,Griggs,"Menu-Choose ""Talk"" after buying sorceries from Logan","Have you ever cast one of Logan's spells? Isn't it exhilarating? As he sees it, there are no gods, no transcendence, only truth, and Logan only wishes to elucidate it. It is this heretical methodology that allowed Logan to advance sorcery to the point that he has. In a word, he is a hero. Despite the awful rumours. Time will tell. The annals of history will prove dispassionate!"
+140025,Griggs,Talk-After Logan has left for the Duke's Archives,"Oh, there you are! Just so you know... Master Logan has left on his own again. It seems that he is still determined to find the famed Regal Archives in Anor Londo. And I have decided that I must search for him."
+140026,Griggs,Talk-1st time with 15 Intelligence or more after Logan has left,"I intend to search for him. Only, before I leave, there is one thing I wish to do. You see, Master Logan has left most of his books. With them, I could teach you Logan's sorcery. ...You have done much to assist me. Before I leave on this journey, I will teach you all that Logan has to share."
+140027,Griggs,Talk-2nd time with 15 Intelligence or more after Logan has left,"Oh, hello, you made it! Then, let us begin. As promised, I shall bequeath Master Logan's sorcery to you."
+140028,Griggs,"Menu-Choose ""Talk"" after Logan has left for the Duke's Archives","It's not that I am concerned for Master Logan's welfare. Even in this treacherous land, Logan's skills are unmatched. He is a true hero. ...No, the reason I seek Logan is... ...Well, it's really my own conceit, now isn't it?"
+140029,Griggs,Talk-1st time after freeing Logan from Archive Tower,"Ohh! Master Logan is at the Archives?! Thank the heavens; finally his wish has been granted. I suppose he has his head buried in those tomes? That is always what made Master Logan happiest... Ahh, I can just imagine him now!"
+140030,Griggs,Talk-2nd time after freeing Logan from Archive Tower,"Oh, hello. Why, of course I don't mind teaching you sorceries... But now that you've located Master Logan, I can't imagine that I can be of much help."
+140031,Griggs,Talk-3rd time after freeing Logan from Archive Tower purchased all Griggs' items,I have decided to seek the Regal Archives. I realize that I may never make it. But I would feel worthless if I did not at least try. What other choice do I have to earn Logan's recognition?
+140032,Griggs,"Menu-Choose ""Leave"" without purchasing something","Good-bye, then. Do stay safe."
+140033,Griggs,"Menu-Choose ""Leave"" after purchasing something",All right. That'll do it. That should help you on your journey. May we meet again.
+140034,Griggs,After leaving abruptly,Hm? What's that?
+140035,Griggs,Talk-After leaving abruptly,No matter. Let us continue.
+140036,Griggs,Upon being attacked-1st time,Uwwah!
+140037,Griggs,Upon being attacked-2nd time,Heavens!
+140038,Griggs,Upon being attacked-3rd time,In the name of sanity!
+140039,Griggs,Upon being attacked-4th time,Cease! Have you gone mad!
+140040,Griggs,Upon being attacked & made hostile,"Damn...you've lost it, haven't you? Then I have no choice. Prepare yourself!"
+140041,Griggs,Upon dying,Rrrg... Master Logan...
+150001,Gwyndolin,After approaching the Fog Gate before the tomb of Gwyn,"Halt! This is the tomb of the Great Lord Gwyn. Tarnished, it shall not be, by the feet of men. If thou art a true disciple of the Dark Sun, cast aside thine ire, hear the voice of mineself, Gwyndolin, and kneel before me."
+150002,Gwyndolin,Kneel-1st time,"O Disciple of the Dark Sun. Thou hast journeyed far; hear my voice. If thou shalt swear by the Covenant, to become A shadow of Father Gwyn and Sister Gwynevere, A blade that shall hunt the foes of our Lords; Then I shalt protect thee, safeguarding thy person with the power of the Darkmoon."
+150003,Gwyndolin,"Choose ""No"" to join Covenant","Very well. We shall not need speech. Exit here, and follow thine own design."
+150004,Gwyndolin,"Choose ""Yes"" to join Covenant","Very well. Now thou art a Blade of the Darkmoon. Hunteth the enemies of the Lords, by the power of the Dark Sun."
+150005,Gwyndolin,Kneel-1st time after joining the Blade of the Darkmoon Covenant,"Welcome back, Blade of the Darkmoon. If mine power be need'st, I shall assist thee."
+150006,Gwyndolin,Kneel-2nd time after joining the Blade of the Darkmoon Covenant,"Very well, Blade of the Darkmoon. Please state thy wish."
+150007,Gwyndolin,After traversing the Fog Gate,"What foolishness... Why trespasseth upon the Great Lord's tomb, whilst thou art a disciple of the Dark Sun? Mark the words of mineself, Gwyndolin! Thou shalt not go unpunished!"
+150008,Gwyndolin,After traversing the Fog Gate after joining the Blade of the Darkmoon,"What foolishness... Why would a Blade of the Darkmoon trespasseth upon the Great Lord's tomb? Mark the words of mineself, Gwyndolin! Thou shalt not go unpunished!"
+150009,Gwyndolin,After killing illusion of Gwynevere,Thou that tarnisheth the Godmother's image. I am Gwyndolin. And thy transgression shall not go unpunished. Thou shalt perish in the twilight of Anor Londo.
+150010,Gwyndolin,After killing illusion of Gwynevere & traversing the Fog Gate,"Heretic... First thou offendeth the Godmother, and now thou see fit to trample upon the tomb of the Great Lord. I am the Dark Sun, Gwyndolin! Let the atonement for thy felonies commenceth!"
+150011,Gwyndolin,Upon dying,"O Heretic, swathed in Dark... An eternal curse upon thee..."
+160001,Gwynevere,After approaching Gwynevere,"Thou hast journey'd far, and overcome much, chosen Undead. Come hither, child..."
+160002,Gwynevere,Kneel-1st time,"O chosen Undead. I am Gwynevere. Daughter of Lord Gwyn; and Queen of Sunlight. Since the day Father his form did obscureth, I have await'd thee. I bequeath the Lordvessel to thee. And beseech thee. Succeed Lord Gwyn, and inheriteth the Fire of our world. Thou shall endeth this eternal twilight, and avert further Undead sacrifices."
+160003,Gwynevere,Kneel-2nd time,O Chosen Undead. Thou hath journey'd far.
+160004,Gwynevere,"Menu-Choose ""Talk"" 1st time","Since the day Father his form did obscureth, I have await'd thee. Once living, now Undead, and a fitting heir to father Gwyn thou art, A grave and arduous test of mettle, yea, it shall be. Indeed we had felt the warmth of Fire, its radiance, and the life it sustaineth. Without Fire, all shall be a frigid and frightful Dark."
+160005,Gwynevere,"Menu-Choose ""Talk"" 2nd time","Please. Father's role thou should assume, and inheriteth the Fire of our world. Thou shall endeth this eternal twilight, and avert further Undead sacrifices. Kingseeker Frampt, the primordial serpent, shall guideth thee."
+160006,Gwynevere,"Menu-Choose ""Yes"" to joining the Princess Guard Covenant","Hereafter, I, Gwynevere, shall serveth as thine guardian. If thou so needest, I shalt devote all to thine safety. May thou be one with the sunlight for evermore."
+160007,Gwynevere,Kneel-After filling the Lordvessel,"Magnificent...Thou hast filled the Lordvessel. Indeed, a worthy successor, thou shalt be. My patience was not for nil... I beg of thee. Succeed Lord Gwyn, and inheriteth the world's Fire. We have only thee."
+160008,Gwynevere,"Menu-Choose ""Leave""","Now thou shalt go forth, chosen Undead. May thou be one with the sunlight for evermore."
+160009,Gwynevere,Upon dying,Aieegh...
+170001,Ingward,Talk-1st time,"Well, this is a surprise. I don't get many visitors, except for ghosts. Do you have some business here? My name is Ingward. I'm an old man, bound to these parts. But I don't mind a chat. I may even be of some help."
+170002,Ingward,Talk-1st time while Cursed,"Well, this is a surprise. I don't get many visitors, except ghosts. Oh, cursed, are you? Is that what brings you to me? It is a wise choice. Your troubles will soon be over. My name is Ingward. I'm an old man, bound to these parts. But cleansing your curses; that I can do. The breaking of curses is the territory of deities. You must be prepared to give some of yourself."
+170003,Ingward,Talk-2nd time,"I am the Guardian of the Seal. I watch over the Four Kings, the masters of the Darkwraiths. The Darkwraiths are the enemies of man, and any living thing that has a soul. They were born in New Londo, and that is where they perished; the entire city was sacrificed to contain them. ...For that is how great a threat they were..."
+170004,Ingward,Talk-Meeting after receiving the Lordvessel,"Well, this is a surprise. I get few visitors, save for ghosts. You have...the Lordvessel. I know exactly what your intentions are. You seek the Four Kings whom I guard over. This is the key to the seal. The Four Kings slumber in the deepest chamber of the ruins. Use this key to break the seal and open the floodgates. ...Oh, and do not forget... The Darkwraiths reside in a dark void called the Abyss. But the Abyss is no place for ordinary mortals. Although long ago, the knight Artorias traversed the Abyss. If you can find him, and learn from him, the Abyss may prove surmountable."
+170005,Ingward,Talk-2nd time after receiving the Lordvessel,Hello there. What is it? The key to the seal is now in your hands. I will help you in any way possible.
+170006,Ingward,Talk-3nd time,Hello again. How are you?
+170007,Ingward,Talk-3nd time after meeting while Cursed,"Oh, hello there. How are you? I don't mind a chat. I may even be of some help."
+170008,Ingward,Talk-After leaving the New Londo Ruins and returning,"Hello, there. Where have you been? I'm glad to see you well. How can I be of assistance?"
+170009,Ingward,"Menu-Choose ""Talk""","New Londo was sacrificed to contain the Darkwraiths. Mark my words. The Darkwraiths are the enemies of man, and any living thing that has a soul. They were never meant to roam again."
+170010,Ingward,Talk-While Cursed for the 1st time after meeting previously,"Well, hello there. Have you been cursed? That can be quite onerous. But not to worry. Such cleansing, I am happy to administer. But the breaking of curses is the territory of deities. You must be prepared for sacrifice."
+170011,Ingward,Talk-While Cursed a 2nd time after meeting previously,"Hello, there. Cursed again? I do not know whether you are brave, or just foolish, but you do seem to find your share of trouble."
+170012,Ingward,Talk-After receiving the Lordvessel from the illusion of Gwynevere,"Oh, hello. You've acquired the Lordvessel, have you? Very impressive. I know exactly what your intentions are. You seek the Four Kings whom I guard over. This is the key to the seal. The Four Kings slumber in the deepest chamber of the ruins. Use this key to break the seal and open the floodgates. ...Oh, and do not forget... The Darkwraiths reside in a dark void called the Abyss. But the Abyss is no place for ordinary mortals. Although long ago, the knight Artorias traversed the Abyss. If you can find him, and learn from him, the Abyss may prove surmountable."
+170013,Ingward,"Talk-After opening the Seal, after placing the Lordvessel in Frampt's presence","...You've broken the seal, have you?... ... No, I have no regrets. My trust lies with you, and Frampt. But you cannot proceed without being able to traverse the Abyss."
+170014,Ingward,"Talk-After opening the Seal, if Lordvessel wasn't placed  in Frampt's presence","...You've broken the seal, have you?... ... No, I have no regrets. For I trust in you. But you cannot proceed without being able to traverse the Abyss."
+170015,Ingward,"Menu-Choose ""Talk"" 1st time after opening the Seal","Long ago, the Four Kings were powerful men. Only, their hearts were weak. When an evil serpent dangled the art of Lifedrain before them, they were unable to resist, and became pawns of evil."
+170016,Ingward,"Menu-Choose ""Talk"" 2nd time after opening the Seal","According to legend, the knight Artorias crossed the Abyss, and annihilatedthe atrocious Darkwraiths. If you can find him, and learn from him, the Abyss may prove surmountable."
+170017,Ingward,Talk-After defeating the Four Kings,"...Magnificent. You defeated the Four Kings. Impressive, even for a bearer of the Lordvessel. And with this, my purpose is exhausted. I have not seen the sun for a long time. Perhaps I could do with a change..."
+170018,Ingward,Talk-1st time,"Oh, hello. The sunlight made me wince, and now I've come back to this dark hole! So, what brings you here? I will help you in any way I can."
+170019,Ingward,Talk-2nd time,"Oh, hello. What is it? I will help you in any way that I can."
+170020,Ingward,Upon being attacked-1st time,What! No!
+170021,Ingward,Upon being attacked-2nd time,What are you doing!
+170022,Ingward,Upon being attacked-3rd time,Cease!
+170023,Ingward,Upon being attacked-4th time,Stop that!
+170024,Ingward,Upon being attacked & made hostile,"Sigh... You are no different from the rest... So be it! I am Ingward, the guardian of the seal. Prepare to meet your doom!"
+170025,Ingward,Upon dying,Ohh...ogghh...How could I allow this... Forgive me...my countrymen...
+180001,Kaathe,"Talk-1st time after defeating the Four Kings, after obtaining Lordvessel","Greetings, Undead warrior. I am the primordial serpent Darkstalker Kaathe. I can guide thee, and illuminate the truth. Undead Warrior, conqueror of the Four Kings; is this not your wish? To know the truth of men, and the Undead?"
+180002,Kaathe,"Choose ""No"" to either the 1st or 2nd query",... ...Very well. Warriors as yourself are few. I will be patient. But I cannot wait forever...
+180003,Kaathe,"Talk-After choosing ""No"" to either the 1st or 2nd query",What is it? Perhaps you have changed your mind?
+180004,Kaathe,"Choose ""Yes"" to either the 1st or 2nd query","A wise choice, Undead warrior. Prove you must, that the truth becomes you. Seek Anor Londo. And claim Gwyn's heirloom, the Lordvessel. Now go, Undead warrior. Show the world that the truth becomes you."
+180005,Kaathe,Talk-2nd time,"Ahh... If you wish, I shall grant the art of Lifedrain, the legendary power of the Dark Lord. It can preserve your humanity while Undead, and cast off the shackles placed upon your brethren."
+180006,Kaathe,Talk-3rd time,"What is it? I am your guardian. Go on, state your wish."
+180007,Kaathe,"Menu-Choose ""Talk"" before obtaining the Lordvessel","Undead warrior, To speak now is premature. It begins with your retrieval of the Lordvessel."
+180008,Kaathe,Talk-After obtaining the Lordvessel,"Hmm...You are astonishing. The truth I shall share, without sentiment. After the advent of Fire, the ancient Lords found the three souls. But your progenitor found a fourth, unique soul. The Dark Soul. Your ancestor claimed the Dark Soul, and waited for Fire to subside. And soon, the flames did fade, and only Dark remained. Thus began the age of men, the Age of Dark. However... Lord Gwyn trembled at the Dark. Clinging to his Age of Fire, and in dire fear of humans, and the Dark Lord who would one day be born amongst them, Lord Gwyn resisted the course of nature. By sacrificing himself to link the Fire, and commanding his children to shepherd the humans, Gwyn has blurred your past, to prevent the birth of the Dark Lord. I am the primordial serpent. I seek to right the wrongs of the past, to discover our true Lord. But the other serpent, Frampt, lost his sense, and befriended Lord Gwyn. Undead Warrior, we stand at a crossroads. Only I know the truth about your fate. You must destroy the fading Lord Gwyn, who has coddled Fire and resisted nature, and become the Fourth Lord, so that you may usher in an Age of Dark!"
+180009,Kaathe,"Talk-1st time after defeating the Four Kings, after obtaining Lordvessel","Greetings, Undead warrior. I am the primordial serpent Darkstalker Kaathe. I can guide thee, and illuminate the truth. The truth I shall share, without sentiment. After the advent of Fire, the ancient Lords found the three souls. But your progenitor found a fourth, unique soul. The Dark Soul. Your ancestor claimed the Dark Soul, and waited for Fire to subside. And soon, the flames did fade, and only Dark remained. Thus began the age of men, the Age of Dark. However... Lord Gwyn trembled at the Dark. Clinging to his Age of Fire, and in dire fear of humans, and the Dark Lord who would one day be born amongst them, Lord Gwyn resisted the course of nature. By sacrificing himself to link the Fire, and commanding his children to shepherd the humans, Gwyn has blurred your past, to prevent the birth of the Dark Lord. I am the primordial serpent. I seek to right the wrongs of the past, to discover our true Lord. But the other serpent, Frampt, lost his sense, and befriended Lord Gwyn. Undead Warrior, we stand at a crossroads. Only I know the truth about your fate. You must destroy the fading Lord Gwyn, who has coddled Fire and resisted nature, and become the Fourth Lord, so that you may usher in an Age of Dark!"
+180010,Kaathe,"Choose ""No"" to the 3rd query","Nonsense! Are you mad! This is deplorable! You would rather be a slave? Does the truth mean nothing to you? This is unacceptable! Impossible! Unthinkable! ... ...Oh, enough with you. Farewell, pitiful, unknowing fool. I shall return to the Abyss, and await the true Lord of Men."
+180011,Kaathe,"Choose ""Yes"" to the 3rd query","Very well! I shall now guide you to Gwyn's prison. Be still. Entrust thine flesh to me. This is Gwyn's prison. Now, place the Lordvessel upon the altar."
+180012,Kaathe,Talk-Before placing Lordvessel in his presence,What is it? Place the Lordvessel upon the altar.
+180013,Kaathe,Talk-After placing Lordvessel in his presence,"Very well. Once the vessel is filled with souls, the gate to Gwyn shall open. Seek Gravelord Nito, the Witch of Izalith, and the traitor Seath the Scaleless. Fill this vessel with their souls. Then, the gate will open...so that you may kill Gwyn. ... Are you ready? Then, let us return to the Abyss. Entrust thine flesh to me."
+180014,Kaathe,"Menu-Choose ""Talk"" after placing the Lordvessel","They failed me, every last one of them. They were strong, but saw not the truth. ...I am certain that you will prove different."
+180015,Kaathe,Talk-After filling Lordvessel in his presence,"Magnificent. You have followed my teachings faithfully. You are the true lord of men, the Dark Lord. Now, go forth, and rid us of that enfeebled Gwyn. I, Kaathe, shall await you here. When you return, I shall serve you, in the imminent Age of Dark. I shall serve you, in the imminent Age of Dark."
+180016,Kaathe,"Menu-Choose ""Warp"" to be taken to the Abyss","Are you ready? Then, let us return to the Abyss. Entrust thine flesh to me."
+180017,Kaathe,"Menu-Choose ""Warp"" to be taken to the Firelink Altar",Very well. Be still. Entrust thy flesh to me.
+180018,Kaathe,"Menu-Choose ""Leave""",Farewell.
+180019,Kaathe,Upon being attacked-1st time,Hmg!
+180020,Kaathe,Upon being attacked-2nd time,Hrg!
+180021,Kaathe,Upon being attacked-3rd time,Agh!
+180022,Kaathe,Upon being attacked-4th time,Ooph!
+180023,Kaathe,Upon being attacked-5th time,Stop!
+180024,Kaathe,Upon being attacked-6th time,Enough!
+180025,Kaathe,Upon being attacked & made hostile,"Fool! Fool...You could not be the Dark Lord. Enough of this...and farewell to you. I shall return to the Abyss, and await the true Lord of Men."
+180026,Kaathe,Leaving Kiln of the First Flame after defeating Gwyn,"My Lord, bless thy safe return. Let Kaathe, and Frampt, serve Your Highness. We are here to serve Your Highness. Let true Dark be cast upon the world. Our Lord hath returned'st..."
+190001,Laurentius,After approaching Laurentius' location,"...You ...Yes, you! ...Here, over here! ...Please... ...You must help me..."
+190002,Laurentius,Talk-Before breaking the barrel to free him,"...Oh, there you are... ...You must help me... ...Or else... ...She'll have me for lunch! ...You're my only hope... ...Oh, please..."
+190003,Laurentius,Talk-1st time after breaking the barrel to free him,"...Th-thank you. I would have been her supper without you. Being eaten alive! I shudder to think... Thank you, thank you dearly. I am Laurentius, of the Great Swamp. I will not forget my debt to you."
+190004,Laurentius,Talk-2nd time after breaking the barrel to free him,"Oh, hello there. I'm fine, thanks to you."
+190005,Laurentius,Upon being attacked-1st time,Whoa!
+190006,Laurentius,Upon being attacked-2nd time,"It is I, Laurentius!"
+190007,Laurentius,Upon being attacked-3rd time,What are you doing?!
+190008,Laurentius,Upon being attacked-4th time,I have no bone to pick with you!
+190009,Laurentius,Upon being attacked & made hostile,Curse the heavens! Are you mad! I owe my life to you! This is wrong! You were my friend!
+190010,Laurentius,Upon dying,Curses...
+190011,Laurentius,Talk-1st time,"Well, I see you made it out! Yeah, I made it out safely, too. I have my Pyromancy of the Great Swamp, so I can usually manage, with a bit of care. Oh, yeah, by the way, er, I can share my spells with you. I think you have a knack for it. All you need are the materials. I'd be pleased to help you. ...Ah, unless you find the magics unsavoury?"
+190012,Laurentius,"Choose ""Yes"" to the 1st query","Oh, really...Well, that's a shame. But it is your choice. I'm on the fringe; yeah, I know. Undead or not, that's who I am. I only wish that I could have repaid you somehow."
+190013,Laurentius,"Talk-After choosing ""Yes"" to the 1st query, or ""No"" after ""Yes"" to the 2nd","Oh, hello, there. I am pleased to see you safe. Oh, and er...if by chance you've had a change of heart, I'll be pleased to assist you by sharing my spells."
+190014,Laurentius,"Choose ""No"" to the 1st query","Yeah, wonderful! I'm sure they'll be of some use, some assistance. Here, first, take this. A flame from the Great Swamp. Now you're a fully-fledged pyromancer. Why, let's get started right now."
+190015,Laurentius,"Talk-After choosing ""No"" to the 1st query, or ""Yes"" after ""No"" to the 2nd","Oh, hello, there. I am pleased to see you safe. As always, if you provide the materials, I can teach you pyromancy."
+190016,Laurentius,"Menu-Choose ""Talk"" 1st time","Pyromancy is the art of casting fire. Produce flame, then channel it; just as our ancestors did. A pyromancer must be in tune with nature herself. My home, the Great Swamp, is an abundant store of nature. You will understand, one day; it only takes time."
+190017,Laurentius,"Menu-Choose ""Talk"" 2nd time","Pyromancy has a, well, rather primitive aspect to it. It meshes poorly with advanced culture, and pyromancers are considered rather unsavoury. Which is fine, as I never got along with anybody anyway. So, for me, turning Undead didn't change a thing! Hah hah hah hah."
+190018,Laurentius,"Menu-Choose ""Talk"" 3rd time","A pyromancer's flame is a part of his own body. The flame develops right along with his skill. When I gave you that flame, I gave you a part of myself. Please take good care of it."
+190019,Laurentius,"Menu-Choose ""Talk"" 3rd time, if chosen the Pyromancer class",A pyromancer's flame is a part of his own body. The flame develops right along with his skill. ...Sorry. You're a pyromancer yourself. You already know this.
+190020,Laurentius,"Menu-Choose ""Talk"" 4rd time","My teacher, whom I imagine still resides in the Great Swamp, had a funny way of putting it. He said that ""Pyromancy is the ultimate fantasy.... ""We are born into Dark, and warmed by Fire, but this Fire we cannot touch."" ""Those whose fascination with Fire persists, learn to hold it in their own hand."" He rather had a way with words, the old withering frog!"
+190021,Laurentius,"Menu-Choose ""Talk"" 5th time","In this land, pyromancers earn a certain respect. The Witch of Izalith, one of the legendary Lords, is the godmother of pyromancy. So, the day I became Undead, I was ecstatic. I felt as if I'd been chosen to attune myself to the ancient arts. ...Of course, it wasn't all that romantic in the end..."
+190022,Laurentius,Talk-After attained a pyromancy Laurentius don't have,"Ah, hello, there. You've been a stranger these days. Why, what spectacular pyromancy. Tell me about it. I have never seen anything like it."
+190023,Laurentius,"Choose ""No"" to the 3rd query","...I see. I suppose I was mistaken. In any case, I definitely trust you. Apologies, my friend. Forget that I said anything."
+190024,Laurentius,"Choose ""Yes"" to the 3rd query","Why, yes, of course! Thank you for sharing. I'm still an able pyromancer. I shall locate her myself. I am in your debt, once again."
+190025,Laurentius,"Menu-Choose ""Leave"" without purchasing something","Good-bye, then. Be safe, friend. Don't you dare go Hollow."
+190026,Laurentius,"Menu-Choose ""Leave"" after purchasing something","Good-bye, then. Come back if you find anything new."
+190027,Laurentius,After leaving abruptly,"Wait, friend! Where are you off to?"
+190028,Laurentius,Talk-After leaving abruptly,That was rather abrupt. You are an odd one. Hah hah hah hah.
+190029,Laurentius,Upon being attacked-1st time,Whoa!
+190030,Laurentius,Upon being attacked-2nd time,What's wrong with you!
+190031,Laurentius,Upon being attacked-3rd time,"Stop that, please!"
+190032,Laurentius,Upon being attacked & made hostile,"You detest my pyromancy! That must be it! Then, I'll give you a taste of it! And it will not be pleasant, I assure you!"
+190033,Laurentius,Upon dying,Aaahhhh...
+200001,Lautrec,Talk-1st time before using the Mystery Key to open his cell,"Oh? Still human, are you? Then I am in luck. Could you help me? As you can see I am stuck, without recourse."
+200002,Lautrec,Talk-2nd time before using the Mystery Key to open his cell,"Please, I have duties to fulfil, and I will reward you handsomely. Well? I am certain you stand to benefit."
+200003,Lautrec,After leaving abruptly,Why! You! Do not run away! Hear me out!
+200004,Lautrec,Talk-After leaving abruptly,"Ahh, you have come back. I beg of you. Help me."
+200005,Lautrec,Talk-1st time after using the Mystery Key to open his cell,"Thank you, yes, sincerely. I am Knight Lautrec of Carim. I truly appreciate this, and I guarantee a reward, only later."
+200006,Lautrec,Talk-2nd time after using the Mystery Key to open his cell,"Yes, very sorry, your reward will have to wait. I have just been freed. Allow me some time."
+200007,Lautrec,Talk-3rd time after using the Mystery Key to open his cell,I am free. Now I can get back to work... Keh heh heh heh...
+200008,Lautrec,"Talk-1st time without talking in the Undead Parish, or freeing him before",Hello...I don't think we've met. I am Knight Lautrec of Carim. We are both Undead. Perhaps we can help one another. Keh heh heh heh...
+200009,Lautrec,"Talk-2nd time without talking in the Undead Parish, or freeing him before","Hmm, what business do you have? If you have none, then stay silent."
+200010,Lautrec,"Talk-1st time after talking in the Undead Parish, without freeing him before",...You... How dare you come prancing about! I have nothing to say. Be gone from my sight.
+200011,Lautrec,"Talk-2nd time after talking in the Undead Parish, without freeing him before",I have nothing to say. Be gone from my sight.
+200012,Lautrec,Talk-1st time after using the Mystery Key to open his cell,"Ahh, hello there. I have your reward. Please accept it. I am grateful to you. For freeing me... Keh heh heh heh... ...Not enough for you? Well, let's not be greedy, now... Keh heh heh heh..."
+200013,Lautrec,Talk-2nd time after using the Mystery Key to open his cell,"Hm, you again? What is it? Our futures are murky. Let's not be too friendly, now."
+200014,Lautrec,Talk-1st time,"Well, where have you been? I am glad to see you are safe."
+200015,Lautrec,Talk-2nd time,"Have you heard of Trusty Patches? If ever a man has rubbed me up the wrong way, ugh! If he ever comes around again, I swear, I'll have his hide."
+200016,Lautrec,Talk-As a Hollow,"By the Lords...Your face... Hmmm... Your humanity is really slipping. But there are methods. Most fools have more humanity than they know what to do with. Now, who do you imagine will make the best use of it, hmm?"
+200017,Lautrec,Talk-After ringing 1st Bell of Awakening,"Oh, hello. I'm considering a change of location... I have a rather, pressing matter to attend to up above. That Keeper has served me well, but...enough with her... Keh heh heh heh..."
+200018,Lautrec,Talk-After Petrus returned to Firelink Shrine,"Ahh, you certainly are keeping busy. Care to pay for a useful tip?"
+200019,Lautrec,"Choose ""No"" to spending souls","Oh, really? Well, suit yourself. Only trying to help."
+200020,Lautrec,"Choose ""Yes"" to spending souls","A wise choice, indeed. Maiden Thorolund and her followers recently arrived in this land, but she became stranded deep below the Catacombs. Her followers either fled, or were reduced to Hollows... Leaving Maiden Thorolund all alone. Not a bad tip, huh? A nubile cleric would be replete with humanity..."
+200021,Lautrec,Talk-After buying the tip,"Hm? That tip I gave you? Ahh, I heard it from a fleeing old man. That poor bastard! All his robes and trinkets won't help him now! Kwah hah hah hah hah!"
+200022,Lautrec,Upon being attacked-1st time,"Well, what have we here?"
+200023,Lautrec,Upon being attacked-2nd time,Keh keh keh. Are you sure about this?
+200024,Lautrec,Upon being attacked & made hostile after freeing Lautrec from his cell,"You leave me no choice. But if this is our fate, so be it!"
+200025,Lautrec,Upon being attacked & made hostile,"You leave me no choice. I was once grateful to you, But if this is our fate, so be it!"
+200026,Lautrec,Upon dying,You despicable... ...Curses...How could I...
+200027,Lautrec,After using Black Eye Orb to invade him and approaching him-1st time,"Well, look at you. I thought you were wiser, but I thought wrong! Tis a terrible pity. Like a moth flittering towards a flame. You fellows? No? Don't you agree?"
+200028,Lautrec,After using Black Eye Orb to invade him and approaching him-2nd time,"So, here we go again! How many times will these lambs rush to slaughter? Well, let's get it over with."
+210001,Logan,Talk-1st time,"Mm, you seem quite lucid! A rare thing in these times. I am Logan. I'm a bit cooped up, as you can see. I have a bright idea. Suppose you set me free? I'm old and empty-handed, but I could repay you with knowledge, and sorcery. This place is melting my mind. The inactivity is repressive!"
+210002,Logan,"Talk-2nd time, after opening his cage using the Cage Key","Oh, heavens, thank you. I'm saved. And, I'd love to resume my travels, but I must log a few things first, and I owe you a favour. I will return to Firelink Shrine. Speak with me there, so that I may impart my sorcery."
+210003,Logan,Talk-3rd time,"Oh, hello. Don't mind me. Go on ahead. I'll be along later. Phoo-hah-hah, I'll be just fine, young one."
+210004,Logan,Talk-1st time with less than 15 Intelligence,"Hello there. I was expecting you. As promised, I will share my sorceries. ... I am afraid that you are unable to learn sorcery. The basic framework, you see. It cannot be taught. Oh, do not fret. Life isn't all about sorcery. You will find your own way. Don't frown with regret; peer forward with your head high."
+210005,Logan,Talk-2nd time with less than 15 Intelligence,Hello there. Glad to see you alive.
+210006,Logan,Talk-2nd time with 15 Intelligence or more after previously not enough,Hello there. Glad to see you alive. Hmm... It seems you've come quite a way... Excellent. You are certainly ready. I shall teach you sorceries.
+210007,Logan,Talk-With 15 Intelligence or more-1st time,"There you are. I was expecting you. As promised, I will share my sorceries."
+210008,Logan,Talk-With 15 Intelligence or more-2nd time,Hello there. You really are very diligent. I quite understand. Study is invigorating!
+210009,Logan,Talk-With 15 Intelligence or more-3rd time,Hello there. Very well indeed. I'm pleased to share my sorceries.
+210010,Logan,Talk-With 15 Intelligence or more-4th time,"Hello there. What have you been up to? I thought that perhaps you'd gone Hollow on me. So, have you come to further your study of sorcery?"
+210011,Logan,"Menu-Choose ""Leave""-1st time without purchasing something","No results, eh... Well, the way of sorceries is a long, hard road. Take it slowly."
+210012,Logan,"Menu-Choose ""Leave""-2nd time without purchasing something",Farewell.
+210013,Logan,"Menu-Choose ""Leave"" after purchasing something",I will stay here for the time being. Speak to me again to further your knowledge.
+210014,Logan,"Menu-Choose ""Leave"" after attaining the Lordvessel","Heading out, are you? I, too, will leave soon. Undead or no, I shan't stay here forever. ...You have great potential. Don't go and die over nothing."
+210015,Logan,Talk-Before opening his cell with the Archive Tower Giant Cell Key,"Hello again! What a chance meeting this is! Alas, I'm imprisoned once again. I don't suppose you could stage me a getaway? The Archives, such a storehouse of knowledge. So close, but just out of reach! The thought offends me so, I could simply die! As a student of the arts, you understand me, yes?"
+210016,Logan,Talk-1st time after opening his cell with the Archive Tower Giant Cell Key,"Oh, thank you very much. I'm saved. That makes twice. I must be sure to repay you. I will visit the Archives. If I discover any new spells, I shall share them with you. Prepare to be impressed, by the onward march of sorcery!"
+210017,Logan,Talk-2nd time after opening his cell with the Archive Tower Giant Cell Key,Hello. Don't mind me. Go on ahead. I'll head out soon. I wish to lay down my plans before I visit the Archives.
+210018,Logan,Talk-1st time,"Hello there. I was expecting you. This place is truly magnificent, more than expected, even. As promised, I shall share the new sorceries with you. And, the secret of Seath's immortality."
+210019,Logan,Talk-2nd time,"Hello there. You really are very diligent. Oh, I understand. We are in the midst of a revolution!"
+210020,Logan,Talk-After resting at a Bonfire,"Oh, hello there. Where have you been? Time is a resource. Let's delve in promptly."
+210021,Logan,"Menu-Choose ""Talk"" 1st time","Ah, the secret of Seath's immortality? If you have fought him, and were imprisoned, you must know that Seath is a true Undead, different from ourselves. His wounds close promptly, and no mortal blow affects him, granting true insulation from death. It is an effect of the Primordial Crystal, a sacred treasure pillaged by Seath when he turned upon the ancient dragons. So, only by destroying the Primordial Crystal can you so much as scratch his hide. And it so happens, the Primordial Crystal is in the inner garden of these very archives, the Crystal Forest."
+210022,Logan,"Menu-Choose ""Talk"" 2nd time","The tomes stored in these Archives are truly magnificent. A great pool of knowledge, the fruits of superior wisdom and an unquenchable desire for the truth. Some would say Seath had an unsound fixation ...But his work is a beautiful, invaluable resource. All progress demands sacrifice. And I certainly bear no antipathy for that wonderful scaleless beast."
+210023,Logan,Talk-After defeating Seath the Scaleless,"Oh, there you are, it has been a while. Or, were you just here? This fascinating place defeats my sense of time..."
+210024,Logan,"Menu-Choose ""Talk"" after defeating Seath",Mm...mm... Mm...mm...
+210025,Logan,"Menu-Choose ""Talk"" after purchasing all of his spells & defeating Seath",...Who are you... ...Stay clear...stay clear of my work... ...Curses upon you! ...How dare you disturb me!
+210026,Logan,"Menu-Choose ""Leave"" without purchasing something",Farewell.
+210027,Logan,"Menu-Choose ""Leave""-1st time after purchasing something","Come again. The knowledge here is limitless. I will absorb it, then share it with you."
+210028,Logan,"Menu-Choose ""Leave""-2nd time after purchasing something","Come again, any time you please. For I too, learn, whilst teaching a student."
+210029,Logan,Upon being attacked & made hostile,"I fail to see your design, but if you think I'm too old to defend myself, perhaps some sorcery will change your mind!"
+210030,Logan,Upon dying,Heavens...the folly of youth... ...I'm too old for this...
+220001,Nest,After appraching their location for the 1st time,"You, you. Give me, warm. Give me, soft."
+220002,Nest,After appraching their location for the 2nd time,You! You! Give me! Warm! Give me! Soft!
+220003,Nest,After dropping a non-exchangeable item,"No, no. That, no. That no warm. That no soft."
+220004,Nest,After dropping a previously exchanged item,"No, no. Not that one. Enough, enough."
+230001,Nico,Talk-1st time,Mnnn?
+230002,Nico,"Talk-2rd time, after resting at a Bonfire",(No caption) What if I was there? Well...but I'm not sure...
+230003,Nico,Talk-After talking with Petrus and exhausting his dialogue,(No caption) There will has a way home? Well what's happend?
+230004,Nico,Upon being attacked,(No caption) Whatever is now on...
+230005,Nico,Upon being attacked & made hostile,(No caption) You will come with us fool? But I'll move...
+230006,Nico,Upon dying,Mnnn...
+240001,Oscar,Talk-1st time,"...Oh, you... You're no Hollow, eh? ...Thank goodness... ...I'm done for, I'm afraid... ...I'll die soon, then lose my sanity... ...I wish to ask something of you... ...You and I, we're both Undead... Hear me out, will you?"
+240002,Oscar,"Choose ""No"" to the query","...Yes, I see... ...Perhaps I was too hopeful... ...Hah hah... ...Please, leave me be... ...I have not long to live, and I may harm you after death. ...Now, go..."
+240003,Oscar,"Choose ""Yes"" to the query","...Regrettably, I have failed in my mission... ...But perhaps you can keep the torch lit... ...There is an old saying in my family... ...Thou who art Undead, art chosen... ...In thine exodus from the Undead Asylum, maketh pilgrimage to the land of Ancient Lords... ...When thou ringeth the Bell of Awakening, the fate of the Undead thou shalt know. ...Well, now you know...And I can die with hope in my heart... ...Oh, one more thing...Here, take this. ...An Estus Flask, an Undead favourite. ...Oh, and this... ...Now I must bid farewell... ...I would hate to harm you after death...So, go now... ...And thank you..."
+240004,Oscar,Upon dying,Hrggkt... But...why...
+250001,Oswald,Talk-1st time,"Greetings. I am Oswald of Carim, the pardoner. Thou appearest to lack faith, yet magnanimous are the Gods. Cometh thou to confess? Or to accuse? For indeed all sin is my domain."
+250002,Oswald,Talk-1st time as a member of the Way of White Covenant,"Greetings. I am Oswald of Carim, the pardoner. Thou art a friend. For thee, a warm welcome. Cometh thou to confess? Or to accuse? For indeed all sin is my domain."
+250003,Oswald,Talk-2nd time,"Greetings, and welcome back. I am pleased to see thee preserving thine humanity."
+250004,Oswald,Talk-3rd time,"Greetings, and a pleasure to see thee again. Art thou in need of mine assistance? Do not be bashful."
+250005,Oswald,Talk-4th time,"Good tidings, thou art welcome. Laudable is thy dedication to sin."
+250006,Oswald,Talk-5th time,Hmm... Hast thou acquaintance with Petrus of Thorolund? I wager you two hath likely found much in common. For is he not too drenched in sin... Heh heh heh heh...
+250007,Oswald,Talk-1st time while Hollow,"Greetings. Just in time, art thee not?"
+250008,Oswald,Talk-2nd time while Hollow,"Greetings. Well, I did'st not expect to find thee Hollow."
+250009,Oswald,"Menu-Choose ""Leave"" without purchasing something",Thou art welcome anytime. It is only human to commit a sin... Heh heh heh heh...
+250010,Oswald,"Menu-Choose ""Leave"" after purchasing Indictments",Stocking up on Indictments? How honourable of you. Heh heh heh heh...
+250011,Oswald,"Menu-Choose ""Leave"" after confessing","If thou commiteth a crime, bring thyself back here. There is no misdoing that I cannot undo! Keh heh heh heh..."
+250012,Oswald,Upon being attacked-1st time,Ooph!
+250013,Oswald,Upon being attacked-2nd time,Hrgt!
+250014,Oswald,Upon being attacked-3rd time,Arg!
+250015,Oswald,Upon being attacked-4th time,Oog!
+250016,Oswald,Upon being attacked-5th time,By the Lords!
+250017,Oswald,Upon being attacked & made hostile,"Thou hast made thyself clear. And thou leaveth me no choice. I shall accept thy next confession, in the hereafter!"
+250018,Oswald,Upon killing the protagonist,"Much trouble hast thou caus'd. Thou was weak in spirit, broken by the weight of thy sin."
+250019,Oswald,Upon dying,Thou shalt regret this... Fear thine indelible wrongdoings...
+260001,Palespider,"Talk, or Menu-Choose ""Talk""-without the Old Witch's Ring equipped",...?
+260002,Palespider,Talk-1st time with the Old Witch's Ring equipped,Quelaag? My dear sister.
+260003,Palespider,Talk-2nd time with the Old Witch's Ring equipped,"Quelaag, what is it?"
+260004,Palespider,Talk-3rd time with the Old Witch's Ring equipped,"Oh, my dear sister. Don't mind me. It does not hurt terribly."
+260005,Palespider,"Menu-Choose ""Talk"" 1st time with the Old Witch's Ring equipped","Quelaag, my dear sister... The eggs...it hurts. They've gone still... I am afraid...it may be too late... ...I am so sorry, dear sister..."
+260006,Palespider,"Menu-Choose ""Talk"" 2nd time with the Old Witch's Ring equipped","I'll be fine, I have you, dear sister. But promise me... That you will take care of yourself."
+260007,Palespider,"Menu-Choose ""Enter Covenant""",Enter a Covenant? Again? Of course. Let me try...
+260008,Palespider,After deepening Covenant allegiance 1st time,"...Ooh! Thank you, Quelaag."
+260009,Palespider,After deepening Covenant allegiance 2nd time,Ahh... Thank you...Dear sister...
+260010,Palespider,"Menu-Choose ""Talk"" after gaining Chaos Servant Covenant rank 1","Quelaag, my dear sister... You know, I still remember... Your beautiful, silky face... If only I could gaze upon it once more..."
+260011,Palespider,"Menu-Choose ""Talk"" after deepening Covenant allegiance 1st time","Quelaag? Please, sister, do not cry. I am happy, really. I have you, don't I?"
+260012,Palespider,"Menu-Choose ""Leave"" with the Old Witch's Ring equipped","Good-bye, Quelaag. It was so very nice to chat."
+260013,Palespider,"Menu-Choose ""Leave"" with the Old Witch's Ring equipped","Good-bye, Quelaag. Do be safe."
+260014,Palespider,After leaving abruptly with the Old Witch's Ring equipped,"Why, Quelaag! Where..."
+260015,Palespider,Talk-After leaving abruptly with the Old Witch's Ring equipped,"Quelaag, what was that? Is something troubling you?"
+260016,Palespider,"Upon being attacked, with the Old Witch's Ring equipped-1st time",Ah...
+260017,Palespider,"Upon being attacked, with the Old Witch's Ring equipped-2nd time",Ahh!
+260018,Palespider,"Upon being attacked, with the Old Witch's Ring equipped-3rd time",Eek!
+260019,Palespider,"Upon dying, with the Old Witch's Ring equipped","Quelaag... But, why...?"
+270001,Patches,Talk-Meeting before he has activated the rotating bridge trap,Good day! You look reasonably sane! What are you doing in the Catacombs? Are you a cleric or something?
+270002,Patches,"After choosing ""No"" to being a cleric","No? Well, that's strange. Ohhh, I know what it is. You've come for the trinkets, haven't you? Well, whatever it is... This place is treacherous. Do watch your step. Heh heh heh..."
+270003,Patches,"After choosing ""Yes"" to being a cleric","Yes, I imagined as much. Best of luck with your pilgrimages or missions or whatever you do. This place is treacherous. Do watch your step, eh? Heh heh heh..."
+270004,Patches,"Talk-After choosing ""Yes"" to being a cleric","Yeah? What is it now? Enough with the chit-chat. In a place like this, we need to stay on our toes."
+270005,Patches,"Talk-1st time, after he activated the rotating bridge trap, but before meeting","Ah, oh! Well, well, how are you, then? I, uh, sort of lost my way, yes... But when I came here, I didn't touch any levers, no, not me! Very peculiar, isn't it? Wait, did something happen to you? Hey, don't look at me like that. I'm Trusty Patches, the one-and-only! Here, everything's good with us, eh? Aww, c'mon, take it! Heh heh. We'll be wonderful friends. Heh heh heh..."
+270006,Patches,"Talk-2nd time, after he activated the rotating bridge trap, but before meeting","Oh, does it really matter that much? C'mon, now. What exactly do you think I did? You're not making sense, my friend. Heh heh heh..."
+270007,Patches,"Talk-1st time, after meeting & he has activated the rotating bridge trap","Ah, oh! Well, how are you, then? ...I slipped and flipped that lever, you see... ...It didn't cause you any trouble, by chance?"
+270008,Patches,"Choose ""No"" to the query","Oh, really? Yes, I see...Righty-oh! Then, everything's good, isn't it? I'm Trusty Patches, the one-and-only! You and I, just a couple of Undead outcasts, right mate? You and I, just a couple of Undead outcasts, right my darling? Heh heh heh..."
+270009,Patches,"Choose ""Yes"" to the query","Are you certain?! Well, that's a fine shame. Oh, I'm truly sorry, really! But, wait now, you didn't actually fall down, then? Well, why didn't you tell me sooner! All's well that ends well! Everybody makes mistakes. I'm not above it all, I swear! I'm Trusty Patches, the one-and-only! I know! This should make up for it. We're on the same side! Undead outcasts! Fantastic, isn't it? Heh heh heh..."
+270010,Patches,"Talk-2nd time after choosing Yes"" to the query","Oh, will you come off it, now! You're fine and well, so what's the difference! Nobody likes a crybaby, you know? Heh heh heh..."
+270011,Patches,Talk-1st time without previously speaking in the Catacombs,Good day! You look reasonably sane! What are you doing in the Catacombs? Are you a cleric or something?
+270012,Patches,"After choosing ""No"" to being a cleric","No? Really? Then I'd have no qualms telling you, there's a fine stash of treasure right down that hole. I found it first, but... well, we're friends now, so I'll split it with you! In any case, have a look, it'll shimmer you blind! Heh heh heh..."
+270013,Patches,"After choosing ""Yes"" to being a cleric","Yes, I guessed as much. Well, here's a tip. There's a stash of treasure right down that hole. I found it first, but...well, you're the cleric, right? I owe you for all that, er, praying and what not...I'll give you first pick. Well, go on, have a look. It'll shimmer you blind. Heh heh heh..."
+270014,Patches,"Talk-1st time after choosing ""Yes"" to being a cleric in the Catacombs","What, you again? Well, well! Where have you been? Any tidings, hmm? Oh, you came at the perfect time. There's a fine stash of treasure right down that hole. I found it first, but...well, you're the cleric, right? I owe you for all that... praying and what not...look I'll give you first pick. Well, go on, have a look. It'll shimmer you blind. Heh heh heh..."
+270015,Patches,"Talk-1st time after choosing ""No"" to being a cleric in the Catacombs","What, you again? Well, well! You've been a stranger. Ah, good to see you're well, mate. You've been a stranger. Ah it's good to see you're well, my darling. Oh right, you came at the perfect time. There's a fine stash of treasure right down that hole. I found it first, but... well, we're friends now. I'll split it with you! In any case, have a look, it'll shimmer you blind! Heh heh heh..."
+270016,Patches,Talk-2nd time,"There, that hole. Take a closer look."
+270017,Patches,Talk-3rd time,"What's your problem? Take a peep in the hole, and check out that treasure!"
+270018,Patches,"After choosing ""Yes"" to being a cleric being kicked down","Heh heh, you got what you deserve! You damn clerics, you're worse than maggots! You must be loaded! I'll strip your corpse clean! Nyah hah hah hah!"
+270019,Patches,"After choosing ""No"" to being a cleric being kicked down","Heh heh, this is what I do, my friend. The trinkets I'll be stripping off your corpse; that's the real treasure! Nyah hah hah hah!"
+270020,Patches,"Talk-After returing from the hole after choosing ""Yes"" to being a cleric","Blimey, how did you... You weren't supposed to survive that... Well, no matter. I'll settle this once and for all. You lousy self-righteous cleric!"
+270021,Patches,"Talk-1st time after returing from hole, after choosing ""No"" to being a cleric","...Oh, you, I... Well, let's just calm down. Talk about things... I did you wrong. But, I didn't mean it. These...temptations, they can, well, overcome me... You know what I mean? Don't you? Please forgive me. You and me, we're jolly Undead outcasts, aren't we?"
+270022,Patches,"Choose ""No"" to the query","Oh, for heaven's sake, let's not mope about, eh? You're still alive, I've said I'm sorry! Wait, I know! Here, take this. It proves something, doesn't it? We're both Undead outcasts, what could be better? Heh heh heh..."
+270023,Patches,"Choose ""Yes"" to the query","Oh, brilliant! A second chance! Wonderful! I had a feeling you'd understand, I did. But if I were in your shoes...Ooh! Who knows what I'd have done? But now...We're friends again, eh? Heh heh heh..."
+270024,Patches,"Talk-2nd time after returing from hole, after choosing ""No"" to being a cleric","I did you wrong. But, I didn't mean it. These...temptations, they can overcome me... You know what I mean? Don't you? Please, forgive me."
+270025,Patches,Upon being attacked-1st time,Oww!
+270026,Patches,Upon being attacked-2nd time,What the devil!
+270027,Patches,Upon being attacked-3rd time,"Please, no!"
+270028,Patches,Upon being attacked & made hostile,"All right, all right, if that's the way it is! You silly little bastard! You impossible little wench! Well, I've had enough of you! You lousy good-for-nothing! Wallow in your spit! You filthy wench! You'll get what you deserve! Take your higher cause and stuff it, you lousy charlatan!"
+270029,Patches,Upon killing the protagonist,"Phew...The righteous prevail, again... Hey, don't blame me, mate. Hey, don't blame me, me old darling."
+270030,Patches,Upon dying,Curses...I'm finished... What did I ever...
+270031,Patches,Talk-1st time,"Oh, we meet again. How many of you are there? You've come at the perfect time. I'm done with the looting. I'm a humble merchant now! And wondrous treasures, have I! At a special price for you. There you are, have a nice look at them. Oh relax, no more funny business out of me, my friend!"
+270032,Patches,Talk-3rd time,"Oh, you again. Fancy that. You've come at the perfect time. Some new gems have come my way. I saved them specially, just for you, mate. I saved them specially, just for you, my darling."
+270033,Patches,Talk-4th time,"Oh, there you are again. Welcome to Trusty Patches' Trove of Treasures. We chop prices, not limbs!"
+270034,Patches,"Menu-Choose ""Talk"" after talking to Solaire","Here, have you met that sunbathing Solaire? Believe me on this one, bruv...He's a complete idiot. Believe me on this one, my love...He's a complete idiot. But he happens to be an awfully strong idiot. Just nod your head, and keep him on your side! Nyah hah hah hah!"
+270035,Patches,"Menu-Choose ""Talk"" after talking to Lautrec","Oi, have you met Lautrec the Embraced? Believe me on this one, bruv...He's completely mad. Believe me on this one, my love...He's completely mad. He wouldn't think twice about cutting somebody down. So watch out for him, especially if you've humanity to spare."
+270036,Patches,"Menu-Choose ""Talk"" after talking to Petrus","Oi, have you met Petrus, that self-proclaimed cleric? Believe me on this one, bruv...The man is scum. Believe me on this one, my love...The man is scum. Don't you be fooled by his claims to do good. They're all the same, those rotten clerics."
+270037,Patches,"Menu-Choose ""Talk"" after talking to Shiva","Here, have you met that backwoods Shiva? Believe me on this one, bruv...The man is trouble. Believe me on this one, my love...The man is trouble. I can see it in his eyes. I just can. Hmph, No doubt about it. Watch him."
+270038,Patches,"Menu-Choose ""Talk""","I'm done with the looting. I'm a humble merchant now! And wondrous treasures, have I! At a special price for you."
+270039,Patches,"Menu-Choose ""Leave"" 1st time without purchasing something","What, nothing appeals to you? Well, you must have poor taste."
+270040,Patches,"Menu-Choose ""Leave"" 2nd time without purchasing something","Come on, you can do better than that. Nobody likes a tightwad, you hear me?"
+270041,Patches,"Menu-Choose ""Leave"" 1st time after purchasing something","Right? Good stuff, eh? Don't you forget who got it for you! Heh heh heh..."
+270042,Patches,"Menu-Choose ""Leave"" 2nd time after purchasing something","How is it? Fine stuff, eh? Don't forget to thank me."
+270043,Patches,Upon being attacked-1st time,What?! Oww!
+270044,Patches,Upon being attacked-2nd time,Oi! Put an end to that!
+270045,Patches,Upon being attacked-3rd time,Stop that!
+270046,Patches,Upon being attacked & made hostile,"Curses, what's wrong with you! Well, if that's what it has to be! Why you..."
+270047,Patches,Upon killing the protagonist,"What happened to you? Curses, you left me no choice..."
+270048,Patches,Upon dying,Curses! How in the... What did I do? What...did...I...do?!
+280001,Petrus,Talk-1st time,"Hello there. I believe we are not acquainted? I am Petrus of Thorolund. Have you business with us? ...If not, I'd prefer to keep a distance, if possible."
+280002,Petrus,Talk-2nd time,"Hello there. I realize that I have requested that we retain our distance, But I also want you to know that it is not meant in ill-will. Here, take this. As a token of peace. No, go ahead. It's for you."
+280003,Petrus,Talk-3rd time,"Oh, hello... Oh, I know. How about this... I have to await my companions here anyway, so, what if I were to teach you some miracles? Would that please you?"
+280004,Petrus,"Choose ""No"" to the 1st query",That is a shame. But each to their own. Speak to me if you have a change of heart.
+280005,Petrus,"After choosing ""No"" to either the 1st or 2nd query","Oh, hello. What is it? Have you changed your mind?"
+280006,Petrus,"Choose ""Yes"" to the 1st query","Very well. Then first, a Covenant with the Gods."
+280007,Petrus,"Choose ""Yes"" to the 2nd query, or already belongs to the Way of White","Now, let me share my Miracles. Only, their ultimate effectiveness will be determined by your efforts, and your faith."
+280008,Petrus,Talk-1st time after joining or already belonging to the Way of White,"Oh, hello. I will teach you Miracles. A promise is a promise, after all."
+280009,Petrus,Talk-2nd time after joining or already belonging to the Way of White,"Oh, hello. Miracles, I presume? Yes, I know."
+280010,Petrus,"Menu-Choose ""Talk"" 1st time","My companions are M'lady and her young knights. She is young, but burdened by an Undead mission. We are her defences, to keep her from harm."
+280011,Petrus,"Menu-Choose ""Talk"" 2nd time","An Undead mission? Regrettably, I cannot share that with you. But you are my pupil, perhaps if you show your faith..."
+280012,Petrus,"Choose ""No"" to spending souls",I am afraid that may be difficult. For our missions are sacred.
+280013,Petrus,"Choose ""Yes"" to spending souls","Very well. I can surely tell you, of all people... Undead clerics are given a mission to seek Kindling. Kindling is the art of feeding bonfires with humanity. Through Kindling, we shall one day be granted magnificent powers."
+280014,Petrus,Talk-1st time after Rhea arrived in Firelink Shrine,"Oh, hello. My guests have finally arrived. I will be departing with them shortly. So, I'm afraid I will be saying good-bye soon. It was a pleasure."
+280015,Petrus,Talk-2nd time after Rhea arrived in Firelink Shrine,"Oh, my... you again? Empathy, in excess, becomes a sin. But you already knew that...I should hope?"
+280016,Petrus,Talk-3rd time after Rhea arrived in Firelink Shrine,"Oh, you yet again? We shall depart on our mission soon, for M'lady has made her final decision. So, I must say farewell, although with great regret. Vereor Nox"
+280017,Petrus,"Menu-Choose ""Talk"" after meeting Rhea","Reah is the youngest daughter of the good house of Thorolund. Those young knights are her old schoolmates, But I'm not sure what to make of them... I'm afraid they may be a bad influence..."
+280018,Petrus,Talk-1st time before saving Rhea,"Uh, oh, you again? Me? Er, I've become separated from M'lady. I've scoured near and far, but no sight of her... Where could she have gone? M'lady... To think I swore to protect you with my life..."
+280019,Petrus,Talk-2nd time before saving Rhea,"Your Highness...where have you gone? I am entirely to blame for this... Oh woe is me. I am unworthy, deathly so..."
+280020,Petrus,Talk-3rd time before saving Rhea,"...Ah, oh, you. Have you seen M'lady? Oh, blast, where might she be, and would she be safe..."
+280021,Petrus,Talk-4th time before saving Rhea & resting at a Bonfire,"Oh, I'm sorry. Miracles, was it? ...Sometimes I lose myself; pay me no mind!"
+280022,Petrus,Talk-3rd time killed Rhea in the Tomb of the Giants,"Are, are you sure?! Then M'lady... What terrifying news! What am I to do... All because of my shortcomings...it is my fault... Sob..."
+280023,Petrus,Talk-4th time killed Rhea in the Tomb of the Giants,"Oh, I'm sorry. Miracles, was it? ...I'm distracted by grief; pay me no mind!"
+280024,Petrus,"Talk-1st time after buying the tip from Lautrec, but before saving Rhea","Oh, hello there. Have you spoken with Sir Lautrec? Splendid. In the depths of the Catacombs, M'lady slipped off the giant's coffin and into a hole. Her two companions are no longer human; and the lass weeps in solitude. Right now, you could do as you please with her. The poor little purebred is entirely helpless. Keh heh heh heh..."
+280025,Petrus,"Talk-2nd time after buying the tip from Lautrec, but before saving Rhea","In the depths of the Catacombs, M'lady slipped off the giant's coffin and into a hole. Her two companions are no longer human; and the lady weeps in solitude. Keh heh heh heh..."
+280026,Petrus,Talk-After buying the tip from Lautrec & saving Rhea,"...Oh, it's you... ...You rescued M'lady? Well, a pity that is, for it will amount to nothing. For the little madam is not worth her salt without her family name. Keh heh heh heh..."
+280027,Petrus,"Menu-Choose ""Leave""",Come again. The effectiveness of the teachings depend upon your faith.
+280028,Petrus,Upon being attacked-1st time,Hrg!
+280029,Petrus,Upon being attacked-2nd time,Ooh!
+280030,Petrus,Upon being attacked-3rd time,Mrgm!
+280031,Petrus,Upon being attacked-4th time,Ooph!
+280032,Petrus,Upon being attacked & made hostile,By the Lords! You damn fool! Enough of you! Feel the wrath of the gods!
+280033,Petrus,Upon dying,N...no...this can't be... It can't end like this...
+280034,Petrus,"Upon being attacked-1st time, after buying the tip from Lautrec",Hrgkt!
+280035,Petrus,"Upon being attacked-2nd time, after buying the tip from Lautrec",Ooph!
+280036,Petrus,"Upon being attacked-3rd time, after buying the tip from Lautrec",Mnph!
+280037,Petrus,"Upon being attacked-4th time, after buying the tip from Lautrec",Argh!
+280038,Petrus,"Upon being attacked & made hostile, after buying the tip from Lautrec","What is it, fool? Driven to madness by emotion? So be it. You'll make a fine Hollow! You can waltz in the infernal depths together!"
+280039,Petrus,"Upon killing the protagonist, after buying the tip from Lautrec","Fool...What were you thinking? Too bad for you, I'm a wolf in sheep's clothing. Best of luck as a Hollow! Gah hah hah hah hah!"
+280040,Petrus,Upon dying after spending souls on the tip from Lautrec,Rrk! Why...how could I... What the...what did I do wrong...
+290001,Priscilla,Talk-1st time,"Who art thou? One of us, thou art not. If thou hast misstepped into this world, plunge down from the plank, and hurry home. If thou seekest I, thine desires shall be requited not."
+290002,Priscilla,Talk-2nd time,"Thou must returneth whence thou came. This land is peaceful, its inhabitants kind, but thou dost not belong. I beg of thee, plunge down from the plank, and hurry home."
+290003,Priscilla,Upon being attacked & made hostile,I expected as much from thee. Why dost thee hurry toward thine death?
+290004,Priscilla,Upon killing the protagonist,Why could thou not let us be? Didst thou not see why Ariamis created this world?
+290005,Priscilla,Upon dying,"Ahh... But, why...What seeketh thee?"
+310001,Quelana,Talk-1st time (after upgrading a Pyromancy Flame to +10),"Hmm...A mere Undead, yet you can see me? Fascinating... I am Quelana of Izalith. I am not often revealed to walkers of flesh. You have a gift. Are you, too, one who seeks my pyromancy? Like Salaman."
+310002,Quelana,"Choose ""No"" to the 1st query","Hmm, very well. Then we are done. You have spoken. Now away with you."
+310003,Quelana,"After choosing ""No"" to the 1st query",What? Considering my pyromancy?
+310004,Quelana,"Choose ""Yes"" to the 1st query","Yes, of course. It should be expected. Very well. You shall be my pupil. But to pursue my pyromancy, you must give something up. Are you prepared to do this?"
+310005,Quelana,"After choosing ""Yes"" to the 1st or 2nd query-1st time","Ah, there you are. I was expecting you. Let us begin."
+310006,Quelana,"After choosing ""Yes"" to the 1st or 2nd query-2nd time","Ah, you again. I applaud your diligence, but what have you brought for me?"
+310007,Quelana,"After choosing ""Yes"" to the 1st or 2nd query-3rd time","Ah, you again. I applaud your diligence."
+310008,Quelana,"After choosing ""Yes"" to the 1st or 2nd query-4th time","Ah. It has been some time. Truth be told, I thought you had perished."
+310009,Quelana,"Menu-Choose ""Talk"" 1st time","Long ago, I accepted another pupil, like yourself. Over two-hundred years ago, there was a man, almost as bungling as you... In your world he was called Salaman the Master Pyromancer. The little rascal really made something of himself."
+310010,Quelana,"Menu-Choose ""Talk"" 2nd time","Pyromancy is the art of invoking and manipulating fire. But remember one thing. Always fear the flame, lest you be devoured by it, and lose yourself. I would hate to see that happen again..."
+310011,Quelana,"Menu-Choose ""Talk"" 3rd time","The Witch of Izalith? ...Please, do not speak of her. ...I abandoned my mother and sisters and fled to this land. ...Now I roam these parts, feigning ablution, and pretending to seek answers."
+310012,Quelana,"Menu-Choose ""Talk"" 4th time","...Hmm... I have a favour to ask... My mother, the Witch of Izalith, was one of the primeval Lords... Her power came from the soul that she found near the First Flame. ...She focused this power to light a flame of her own, but she failed to control it. The Flame of Chaos engulfed Mother and my sisters, and moulded them into deformed creatures. Only I escaped, and now I am here. But my mother and sisters have been in anguish since. I beseech you. Free Mother and my sisters from the Flame of Chaos. I cannot do it myself; I lack the strength, and the bravery... ...But you... I realize what I am asking. But please, free their poor souls... Mother's ambitions were misguided, no doubt, but surely a thousand years of atonement is enough!"
+310013,Quelana,"Menu-Choose ""Leave"" without purchasing something 1st time","No luck, hmm... Well, young pupil, you must have patience. But do not keep me waiting much longer."
+310014,Quelana,"Menu-Choose ""Leave"" without purchasing something 2nd time","No luck, hmm... Do not let it bother you."
+310015,Quelana,"Menu-Choose ""Leave"" after purchasing something 1st time","Now, go. Whatever you do, do not crack and go Hollow. Lest my time spent on you be wasted."
+310016,Quelana,"Menu-Choose ""Leave"" after purchasing something 2nd time","Now, go. Don't you dare let yourself go Hollow. Lest my time spent on you be wasted."
+310017,Quelana,"Menu-Choose ""Leave"" with all pyromancies & Pyromancy Flame +5 ascended","Ah, very well. There is nothing left for me to teach you. Our time together is done. It was short, but sweet."
+310018,Quelana,Talk-After purchasing all her pyromancies & Pyromancy Flame +5 ascended,Fool. Hurry along. I can do nothing more for you.
+310019,Quelana,Talk-After defeating the Bed of Chaos,Outstanding...You have done very well. Thank you. I am blessed to have met you. I suppose I can call you fool no longer... I can hardly thank you enough. Please take this...It is all of me.
+310020,Quelana,After leaving abruptly,Hm? What's the rush?
+310021,Quelana,Talk-After leaving abruptly,What was that? You are a peculiar one.
+310022,Quelana,Upon being attacked-1st time,What is it! Fool!
+310023,Quelana,Upon being attacked-2nd time,Stop that!
+310024,Quelana,Upon being attacked & made hostile,Hmm...The voice of reason fails? Then here is a lesson for you... That you can only learn once!
+310025,Quelana,Upon dying,"Farewell, my mother, my sisters... What have you done..."
+320001,Reah,Talk-1st time,"You are Undead, as well? Then we've no time to fraternize. I have my mission, and you no doubt have yours. We must not let this curse overcome us."
+320002,Reah,Talk-2nd time,Did I not explain the urgency of our tasks? Who are you so uncouth as to lack such judgement? By the looks of you...I should think not.
+320003,Reah,Talk-1st time,"You're no Hollow, are you? Thank goodness. Please be careful. There are two fierce Hollows not far from here. They were once brave knights...my former escorts. Who would let such strong spirits be Hollowed so? Heavens...Is there nothing...Nothing at all to be done?"
+320004,Reah,Talk-After defeating both Hollowed Vince & Nico,"You banished those two Hollows, did you? It pains me to think of the trouble my failings have caused. I am certain that both Vince and Nico are grateful to you. Thank you so very much. Here, these belonged to them.  You deserve them more than I."
+320005,Reah,Upon being attacked-1st time,Ow!
+320006,Reah,Upon being attacked-2nd time,Horrors!
+320007,Reah,Upon being attacked-3rd time,The nerve!
+320008,Reah,Upon being attacked & made hostile,"Are you a heretic, or just plain Hollow? It matters not, for you shall not escape! You will offend the Gods no longer!"
+320009,Reah,Upon killing the protagonist,O piteous soul... But...perhaps...this was a fate unyielding...
+320010,Reah,Upon dying,Hrgkt! Eeg... Father...
+320011,Reah,Talk-1st time,"Hello...I will never forget what you did. I am deeply indebted, for it was not within my power to save Vince or Nico. I cannot thank you enough. In case you have not heard, I am Reah of Thorolund. I only wish there were some way I could help you, but I am inexperienced, and I only know the art of Miracles. If that could be of any help, speak to me again."
+320012,Reah,Talk-2nd time,"Would a Miracle be of any help to you? I would be most pleased if that were so. May we discuss Miracles, then?"
+320013,Reah,Talk-3rd time,I am most pleased to find you in good health. I am ready. Let us speak of Miracles.
+320014,Reah,Talk-4th time,"I was wondering when you might return. It is a great relief to see you. Now, let us speak of Miracles."
+320015,Reah,Talk-5th time,"Oh! Please, forgive me. I was absorbed in prayer. The Miracles, I presume? I will be ready immediately."
+320016,Reah,"Menu-Choose ""Talk""-1st time","Vince and Nico were fooled by a lout named Patches,  and turned into Hollows. My prayers did them no good. It is my ignorance, my frailty that has sealed their fates. Perhaps Petrus realized my weakness all along, and thus made the decision to abandon me. I can hardly blame him now."
+320017,Reah,"Menu-Choose ""Talk""-2nd time","I do not warm easily to unfamiliar faces. The bonfire below is so very frequented, it makes it difficult... I have lost all those who were close to me."
+320018,Reah,"Menu-Choose ""Leave""","Then, be safe. Farewell. Vereor Nox"
+320019,Reah,Upon being attacked & made hostile,"Why on earth would you... Perhaps this is my punishment? Clearly, I am no threat to you. But please, I ask just one thing. If I do go Hollow, then finish me off. I beg of you."
+320020,Reah,Upon dying,"Dear Vince, dear Nico... Forgive me..."
+330001,Rickert,Talk-1st time,"Hrm? Well, this is unusual. You haven't lost your head. And more importantly, you're free. How on earth... ...Well, I shouldn't pry. I am Rickert of Vinheim. I was once an established smith, but look at me now. Can you believe it?"
+330002,Rickert,Talk-2nd time,"Hm? What is it? Have you...Oh, no, don't worry. I've no intention of escape. It's safe here. I can't bear the thought of going Hollow out there. Although, I must admit, I've not much to occupy myself. How about this?  I could forge your weapons, albeit with rather minimal tools. I will show you what made me the best in Vinheim!"
+330003,Rickert,Talk-3rd time,"Oh, hello. What weapons have you brought? Go on; show me."
+330004,Rickert,Talk-4th time,"Oh, hello. I was beginning to wonder when you'd come. Have you materials? Go on, show me."
+330005,Rickert,Talk-5th time,"Hm? What is it? Normally I wouldn't bother, but... I must admit, I've not much to occupy myself. How about this?  I could forge your weapons, albeit with rather minimal tools. I will show you what made me the best in Vinheim!"
+330006,Rickert,"Menu-Choose ""Talk""","Hm? What is it? There's nothing to talk about. We're both cursed; Undead. But what's there, really, to moan about?"
+330007,Rickert,"Menu-Choose ""Talk"" 1st time after freeing Griggs of Vinheim","Old Big Hat? Of course I've heard of him. Who hasn't in Vinheim? He was a royal member of Dragon School, until he turned Undead. I hear he was quite the character... Only, that was a hundred years ago. What interest have you in the old eccentric now?"
+330008,Rickert,"Menu-Choose ""Talk"" 2nd time after freeing Griggs of Vinheim","Sorcery? Don't ask me how it actually works. We only fiddle and forge, until it works itself in. That's how we do it in Vinheim, at least. We prefer to leave the theorizing to those uppity scholars."
+330009,Rickert,Talk-After obtaining the Large Magic Ember,"Hey, hang on... That's a sorcery ember...isn't it? Yes, it certainly is... The first I've seen since my banishment from Vinheim. What do you say, friend? Mind giving that to me? This is no-man's land. I'm the only one who could handle it anyway."
+330010,Rickert,"Choose ""No"" to giving the Large Magic Ember","...Yes, I see. All right, fine. But I don't think you're really seeing things clearly."
+330011,Rickert,"Choose ""Yes"" to giving the Large Magic Ember","Yes, as you should! I won't disappoint you. I'm taskless no longer!"
+330012,Rickert,Talk-After obtaining the Enchanted Ember,"Hey, hang on... Is that...a sorcery ember? I've never seen one like that, not even back in Vinheim. What a brilliant flame! Please, friend, let me have that. I am begging you. I am a craftsman of Vinheim. I'd go Hollow before I pass up a flame like that!"
+330013,Rickert,"Choose ""No"" to giving the Enchanted Ember","...Fine. ...Fine, I won't bother you. It was wonderful if only to gaze upon. It takes me back to old times."
+330014,Rickert,"Choose ""Yes"" to giving the Enchanted Ember","Oh, really! You are wonderful! I will forge a Rickert masterpiece, just for you! A weapon to make a legend out of you..."
+330015,Rickert,Talk-While holding an ember he cannot handle,"Hey, hang on... Is that an ember? Oh, no, I'm sorry. We of Vinheim don't deal in shoddy embers like that. Perhaps you should try an old smith out in the country."
+330016,Rickert,After leaving abruptly,Hm? What's happened?
+330017,Rickert,Talk-After leaving abruptly,"What was that about? Ahh, it doesn't matter."
+330018,Rickert,"Choose ""Leave"" without forging or reinforcement",Come back soon. Smithing helps soothe my nerves. Don't let me wither away out of idleness!
+330019,Rickert,"Choose ""Leave"" after forging or reinforcement","Good-bye, then. Keep your head on, out there. You really help break the monotony."
+330020,Rickert,Upon being attacked,What's got into you!
+330021,Rickert,Upon being attacked & made hostile,"Damn, you've gone Hollow, have you? Forget about it! I have nothing more to say. Be gone! Oh, go away! There's nothing here for you. Nothing at all."
+330022,Rickert,Upon dying,No...impossible... Why didn't I see? ...You've gone Hollow...
+340001,Shiva,Talk-1st time after joining the Forest Hunter Covenant,"I've heard all about you. I'm Shiva of the East, captain of the brigade. Let's teach you the clan basics now, as there is no time to chat in the midst of fighting. Except there's little in the form of rules, you hear? Fight and hunt as you like. Whoever's fastest gets the prey. That's the way we do it. Only...Don't forget what Alvina said. Traitors aren't given a second chance, for any reason. That's about it, then. Don't worry, it's a good old time, isn't it? Great to have you with us. Good hunting to you."
+340002,Shiva,Talk-2nd time,"Don't worry, now. You'll be called in soon enough. Hunters with patience score the best kills."
+340003,Shiva,Talk-After speaking to his Shinobi bodyguard,"Ah, did you notice that one? Sharp eyes! He's one of the clan. From the East, like myself. Always slinking in the shadows, but he's a tough one. You'll see what I mean. Hah hah hah hah!"
+340004,Shiva,Talk-1st time,"Hello again. Strange to meet away from the clan and the forest. But while you're here, how about some equipment? I love collecting these things, but I can only keep so many. And, you know, you are a friend. I'll sell them cheap."
+340005,Shiva,Talk-2nd time,"We meet again. I have the equipment, if you have the need."
+340006,Shiva,Talk-3rd time,"Well, there you are again. I've culled my best picks from my last summoning. Have a look, will you?"
+340007,Shiva,"Menu-Choose ""Leave"" 1st time after purchasing some thing",I see you have a sharp eye for trinkets. Suits me fine. I'll be seeing you.
+340008,Shiva,"Menu-Choose ""Leave"" 2nd time after purchasing some thing",Right then. I'll see you in the forest.
+340009,Shiva,"Menu-Choose ""Leave"" 3rd time after purchasing some thing",Right then. I'll be seeing you.
+340010,Shiva,Upon being attacked-1st time,Hrg!
+340011,Shiva,Upon being attacked-2nd time,Mnph!
+340012,Shiva,Upon being attacked-3rd time,"Why, you dirty...!"
+340013,Shiva,Upon being attacked-4th time,Have you lost it?
+340014,Shiva,"Upon being attacked & made hostile, right after joining the Forest Hunter","Turning on us from the very start? Have a look at my sword, for it's the last thing you'll see!"
+340015,Shiva,Upon being attacked & made hostile,"You have some guts, to turn on us! Have a look at my sword, for it's the last thing you'll see!"
+340016,Shiva,Upon killing the protagonist,You sick Hollow... Don't you ever come round again.
+340017,Shiva,After reducing his health to 30% or lower,Hiyaah! Haaah! Hiiyah!
+340018,Shiva,Upon dying,You poor fool... You won't be able to run far enough...
+350001,Sieglinde,Talk-1st time after defeating the Amber Crystal Golem imprisoning her,"It was you who rescued me? Why, thank you. I am Sieglinde of Catarina. I don't know how I ended up in that crystal... It wasn't terrible in there, but I could hardly move. I must think of some way to repay you."
+350002,Sieglinde,Talk-2nd time after defeating the Amber Crystal Golem imprisoning her,"Oh! Have you seen my father? You wouldn't miss him. A suit of armour, just like mine?"
+350003,Sieglinde,"Choose ""No"" to the query","Yes, I see...But if you should happen to bump into him, tell him that Sieglinde is on her way, and that he ought to just stay put. And again, thank you kindly."
+350004,Sieglinde,"Choose ""Yes"" to the query","Thank goodness! I knew he was here somewhere. Well then, now I must find him. Thanks again, truly. Now if he'll just stay put, and keep out of trouble."
+350005,Sieglinde,Talk-1st time,"Oh, hello again. We're both managing quite well, aren't we? But I haven't found my father yet. Have you seen him?"
+350006,Sieglinde,"Choose ""No"" to the query","Yes, I see. Well, I had to ask. I will continue searching a bit longer. Thank you so much."
+350007,Sieglinde,"Choose ""Yes"" to the query",Really! Then I must be off. I'm sorry he's caused you trouble... He has a knack for that. If he'd just stay put...
+350008,Sieglinde,Talk-1st time after helping Siegmeyer defeat & survive the 4 Chaos Eaters,"Well, hello again! I have finally located my father. All of your help was invaluable to us... Thank you so much. I was finally able to pass on my mother's last words."
+350009,Sieglinde,Talk-2nd time after helping Siegmeyer defeat & survive the 4 Chaos Eaters,"My father? He went on his final adventure. Don't worry, that's just the way he is. Undead or no. Sort of reassuring, really. If he goes Hollow, I'll just have to kill him again."
+350010,Sieglinde,Talk-1st time,"My father...all Hollow now... has been subdued. He will cause no more trouble. It's finally over...I will return to Catarina. You assisted us both greatly. I can hardly return the favour, but please accept this. It's of no use to me now."
+350011,Sieglinde,Talk-2nd time,"Oh, father...dear father... Sob..."
+350012,Sieglinde,Upon being attacked-1st time,What in the...!
+350013,Sieglinde,Upon being attacked-2nd time,What the devil?!
+350014,Sieglinde,Upon being attacked & made hostile,"Yes, now I see. You are one of the bad ones. Then, there's only one thing to do with you."
+350015,Sieglinde,Upon killing the protagonist,Rest assured. I will kill you as many times as it takes.
+350016,Sieglinde,Upon dying,"Oh, how can this be...! ...dear Father..."
+360001,Siegmeyer,Talk-1st time,Mmm... Hrmmmmm...
+360002,Siegmeyer,Talk-2nd time,"Mmm...mmm... Mm! Oh-hoh! Forgive me. I was absorbed in thought. I am Siegmeyer of Catarina. Quite honestly, I have run flat up against a wall. Or, a gate, I should say. The thing just won't budge. No matter how long I wait. And, oh, have I waited! So, here I sit, in quite a pickle. Weighing my options, so to speak! Hah hah hah hah!"
+360003,Siegmeyer,Talk-3rd time,Still closed... Still closed... Mmm...
+360004,Siegmeyer,Talk-1st time,"Mmm...mmm... Mm! Oh-hoh! Ahh, where did you come from? Splendid news, I tell you. Hah hah hah hah!"
+360005,Siegmeyer,Talk-2nd time,"Mn, mmm...Ah, so you see my plight? Yes, indeed, I have run up against a wall. ...Or, a ball, to be precise. ...I'm afraid I'm a bit too plump to be outrunning those things. So, here I sit, in quite a pickle. But who knows? Perhaps we'll have another development? Hah hah hah hah!"
+360006,Siegmeyer,Talk-3rd time,"Perhaps I could try some rolling... ...Bah, no chance. My head would spin. Mmm..."
+360007,Siegmeyer,Talk-1st time,Mmm... Hrmmmmm... Whatever can be done?
+360008,Siegmeyer,Talk-2nd time,"Ah, you again! Let me guess. Were you repelled by the Silver Knights? Aww, don't be ashamed. 'Tis the fate of vanguards like you and I. I'll think of something. We can overcome this, together!"
+360009,Siegmeyer,Talk-3rd time,"This is quite a fix... We'll need another three, no, maybe five bodies... Hmm...quite a fix indeed..."
+360010,Siegmeyer,Talk-After defeating the Silver Knights in the adjacent room,"Mmm...mmm... Mm! Oh-hoh! What's on your mind, friend? Wait!...You defeated those monsters?! Fantastic...I am saved. This knight of Catarina hereby commends you! Take this, as a token of my gratitude. But be warned, gallantry entails great risks. Next time, give me a chance to come up with a plan."
+360011,Siegmeyer,Talk-1st time,"Well! Fancy meeting you here. You did much for me up above. I am grateful. You know, I was thinking... The gates at the old fortress... Was that your doing?"
+360012,Siegmeyer,"Choose ""No"" to the query","Is that so? Hmm, no matter. Stranger things have happened. Sometimes one only has to give it some time."
+360013,Siegmeyer,"Choose ""Yes"" to the query","Yes! I knew it! It seemed like an unlikely coincidence. Well, am I fortunate! This knight of Catarina thanks you sincerely. Please take this, as a token of my gratitude."
+360014,Siegmeyer,Talk-2nd time,There you are. I'll be heading down below shortly. There's nothing worthwhile up above. No worries! Adventuring is my life; I'm prepared for the worst. Hah hah hah hah!
+360015,Siegmeyer,Talk-1st time,Sng...sng... Zzzzzz...
+360016,Siegmeyer,Talk-2nd time,"Mm! Oh-hoh! Excuse me. I was so absorbed in thought, I just drifted away. You see, I'm actually in a bit of a fix. I've made it this far, but I'm short on antitode moss for the trip back. By my knighthood, I am ashamed to ask... But can you spare a few scraps of moss?"
+360017,Siegmeyer,"Choose ""No"" to the query or ""Yes"" without carrying 3 Purple Moss Clumps","Yes, I see... No need to worry! I'll be fine. I can make it without that silly moss. Think about it. Have I ever let a little hardship slow me down? Hah hah hah hah!"
+360018,Siegmeyer,"Talk-After choosing ""No"", or ""Yes"" without carrying 3 Purple Moss Clumps","Mmm... Mm! Oh-hoh! What's on your mind, friend? You've brought moss, perchance?"
+360019,Siegmeyer,"Choose ""Yes"" to the query","Fantastic! Thank you, a saint you are. This knight of Catarina expresses his deepest gratitude. I shall not forget this. Please, take this; a symbol of my appreciation. Well, our fates do seem entwined, don't they? Perhaps this, too, is the will of Lord Gwyn! Hah hah hah hah!"
+360020,Siegmeyer,Talk-After giving him 3 Purple Moss Clumps,The Poison Swamp... It's like quicksand in there... Mmm...
+360021,Siegmeyer,Talk-1st time,Sng...sng... Zzzzzz...
+360022,Siegmeyer,Talk-2nd time,"Mm! Oh-hoh! Excuse me. I was so absorbed in thought, I just drifted away. It must be the warmth. Well, what's on your mind? No, don't tell me. Those monsters making life difficult for you? You need not be ashamed. We are in the same boat. ...You know, I really have run up quite a debt to you. ...Perhaps the time has come... ..."
+360023,Siegmeyer,Talk-3rd time,"... Friend, I have an idea. A good one, really. ...I will rush those dire fiends, and you can slip away in the confusion. Please, friend, I owe you much more than this. By the honour of the knights of Catarina, allow me to assist you. And now, I go! Don't be slow!"
+360024,Siegmeyer,Talk-After defeating the 4 Chaos Eaters without him,"... Oh, there you are. Wait!...Did you defeat those dire creatures? Outstanding...You never fail to impress. Well, wonderful. This knight of Catarina thanks you. Take this, as a token of my gratitude. I feel like I'm always thanking you... I curse my own inability."
+360025,Siegmeyer,After he drops off the ledge and begins to fight the 4 Chaos Eaters,"Hrgrraaaaggh! Hiyaaaaaah! C'mon! Over here, you fiends! Perish, foul creatures! I am Siegmeyer of Catarina, and you shall feel my wrath!"
+360026,Siegmeyer,"Talk-After defeating the 4 Chaos Eaters together, if he has less than 50% HP","Hng...hng... Why, you! Didn't you get away? Well, you've saved me, once again... Dear me, what can I say? I have failed you... Hrgph...Aggkt... My dear little Lin..."
+360027,Siegmeyer,"Talk-After defeating the 4 Chaos Eaters together, if he has 50% HP or more","Hng...hng... But, you! Didn't you get away? Well, you've saved me, once again... Thank goodness...I'm exhausted... I think I'll have a rest. Don't you worry, the ground below me is my pillow. I'll recover shortly..."
+360028,Siegmeyer,Upon being attacked-1st time,Yeeg!
+360029,Siegmeyer,Upon being attacked-2nd time,Whoa!
+360030,Siegmeyer,Upon being attacked-3rd time,Wha!
+360031,Siegmeyer,Upon being attacked-4th time,"Why, are you...!"
+360032,Siegmeyer,Upon being attacked & made hostile,"That's your game, is it? Well, I'm certainly not backing down! By the honour of my knighthood!"
+360033,Siegmeyer,Upon dying,"Heavens, me... My dear little Lin..."
+370001,Solaire,Talk-1st time,"Ah, hello! You don't look Hollow, far from it! I am Solaire of Astora, an adherent of the Lord of Sunlight. Now that I am Undead, I have come to this great land the birthplace of Lord Gwyn, to seek my very own sun! ...Do you find that strange? Well, you should! No need to hide your reaction. I get that look all the time! Hah hah hah!"
+370002,Solaire,Talk-2nd time,"Oh, ah-hah! So, I didn't scare you? I have a proposition, if you have a moment."
+370003,Solaire,"Choose ""No"" to either the 1st or 2nd query","Well, yes, quite understandable. Not to worry. Let there be no obligation."
+370004,Solaire,"Talk-After choosing ""No"" to either the 1st or 2nd query","Oh, hello. You're still keen on speaking to me? Then, perhaps you have reconsidered my offer?"
+370005,Solaire,"Choose ""Yes"" to the 1st or 3rd query","The way I see it, our fates appear to be intertwined. In a land brimming with Hollows could that really be mere chance? So, what do you say? Why not help one another on this lonely journey?"
+370006,Solaire,"Choose ""No"" after choosing ""Yes"" to the 1st query","Not to worry. I do not wish to impose. I was in the wrong. We'll laugh it off, shall we? Hah hah hah!"
+370007,Solaire,"Choose ""Yes"" to the 2nd query","This pleases me greatly! Well then, take this. We are amidst strange beings, in a strange land. The flow of time itself is convoluted; with heroes centuries old phasing in and out. The very fabric wavers, and relations shift and obscure. There's no telling how much longer your world and mine will remain in contact. But, use this, to summon one another as spirits, cross the gaps between the worlds, and engage in jolly co-operation! Of course, we are not the only ones engaged in this. But I am a warrior of the sun! Spot my summon signature easily by its brilliant aura. If you miss it, you must be blind! Hah hah hah!"
+370008,Solaire,"Talk-After choosing ""Yes"" to both 1st or 2nd query","Oh, hello there. I will stay behind, to gaze at the sun. The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent!"
+370009,Solaire,Talk-1st time,"Oh, there you are. You've been quiet these days. Smooth summoning out there? Anytime you see my brilliantly shining signature, do not hesitate to call upon me. You've left me with quite an impression. I would relish a chance to assist you."
+370010,Solaire,Talk-2nd time,"You really are fond of chatting with me, aren't you? If I didn't know better, I'd think you had feelings for me! Oh, no, dear me. Pretend you didn't hear that! Hah hah hah!"
+370011,Solaire,Talk-1st time,"Hmm! Ah, oh...hello there. Forgive me, I was just pondering... about my poor fortune. I did not find my own sun, not in Anor Londo, nor in Twilight Blighttown. Where else might my sun be? Lost Izalith, or the Tomb of the Gravelord...? But I cannot give up. I became Undead to pursue this! But when I peer at the Sun up above, it occurs to me... What if I am seen as a laughing stock, as a blind fool without reason? Well, I suppose they wouldn't be far off! Hah hah hah!"
+370012,Solaire,"Talk-1st time with 25 faith, or 5 less with each victory as  White Phantom","Oh, hello there. I'm glad to see you alive. ...You have done well, indeed you have. You've a strong arm, strong faith, and most importantly, a strong heart. I am in awe, really. Yes, yes... What do you think? Why not join me, as a warrior of the Sun? Righteous knights, guardians of all that is good, in the name of the Lord of Sunlight! ...Only if it would please you, of course. Well?"
+370013,Solaire,"Choose ""No"" to either the 1st or 2nd query","Yes, well, each has one's beliefs. But if you change your mind, the offer is open."
+370014,Solaire,"Talk-After choosing ""No"" to either the 1st or 2nd query","Oh, hello there. What is it? Have you changed your mind about my offer?"
+370015,Solaire,"Choose ""Yes"" to the 1st query","Oh! Magnificent! I knew you would fancy it! Then, join the Covenant! Here, stay still for a moment..."
+370016,Solaire,"Choose ""Yes"" to the 2nd query","And there we are. Now, just say a prayer at the Altar of Sunlight, right there. Then you shall know the brilliance of our Sun."
+370017,Solaire,Talk-1st time after joining the Warriors of Sunlight Coverant,"Oh, hello there. Exhilarating, is it not? The power of the Sun! I am blessed to have found such a brave companion! Hah hah hah!"
+370018,Solaire,Talk-2nd time after joining the Warriors of Sunlight Coverant,"Oh, hello there. Still here? I could not hope for a braver companion than you! Gah hah hah hah hah!"
+370019,Solaire,Talk,"Was it all a lie? Have I done this all, for nothing? Oh, my dear sun...What now, what should I do...? ...My sun, my dear, dear sun..."
+370020,Solaire,Talk-After killing the Red-Eye Sunlight Maggot before entering Lost Izalith,"...Why?...Why?... After all this searching, I still cannot find it..."
+370021,Solaire,Upon being attacked-1st time,Hrg!
+370022,Solaire,Upon being attacked-2nd time,Ooh!
+370023,Solaire,Upon being attacked-3rd time,Whoa!
+370024,Solaire,Upon being attacked-4th time,What the...!
+370025,Solaire,Upon being attacked-5th time,What's wrong with you?!
+370026,Solaire,Upon being attacked & made hostile,"If a stubborn beast you be, I have no choice! A Warrior of the Sun will not just sit and take it! Hrgraaah!"
+370027,Solaire,Upon dying,"Why, you... How could this...? My...my sun..."
+370028,Solaire,After approaching him once he has been infected by the Sunlight Maggot,"...Hrg, rg...Arrrgh... ...Finally, I have found it, I have!... ...My very own sun...I...am the sun!... ...I've done it...I have... ...Yes, I did it...I did!... ...Ohh, ohhh... ...Hrgrraaaooogh!..."
+370029,Solaire,Upon dying after infected by the Red-Eye Sunlight Maggot,"...Ahh, it's over... ...My Sun...it's setting... ...It's dark, so dark..."
+380001,Undeadman,Talk-1st time,"Well, now... You seem to have your wits about you, hmm? Then you are a welcome customer! I trade for souls. Everything's for sale! Nee hee hee hee hee!"
+380002,Undeadman,Talk-2nd time,"Oh, you again? I hope you've brought plenty of souls? Nee hee hee hee hee!"
+380003,Undeadman,Talk-After resting at a Bonfire,"Oh, there you are. Still keeping your marbles all together? Then, go ahead, don't be a nitwit. Never hurts to splurge when your days are numbered! Nee hee hee hee hee!"
+380004,Undeadman,Talk-After leaving & returning to Undead Burg,"Oh, there you are. Where have you been hiding? I guessed you'd hopped the twig for certain. Bah, shows what I know! Nee hee hee hee hee!"
+380005,Undeadman,"Menu-Choose ""Talk"" 1st time","Things are getting treacherous in these parts. A horrible goat demon has moved in below. And up above, there's that humungous drake, and a bull demon, too. If you stick around this place, it might end up being your grave! Nee hee hee hee hee!"
+380006,Undeadman,"Menu-Choose ""Talk"" 2nd time","Eh? I'm not here to chit-chat. We talk business, or we talk nothing at all."
+380007,Undeadman,"Menu-Choose ""Talk"" 3rd time","Ah, this one? Ain't she lovely? Her name is Yulia. She's plumb in love with me. You'd never leave my side, now would you, Yulia?"
+380008,Undeadman,"Menu-Choose ""Talk"" 4th time","Ah, you can forget it. I'm all that she needs. Careful, she'll bite your little fingers off! Be kind, Yulia, be kind! Nee hee hee hee hee!"
+380009,Undeadman,"Menu-Choose ""Talk"" 5th time","Now, don't squander your time chatting! You need to look over my wares!"
+380010,Undeadman,"Menu-Choose ""Talk"" 6th time","It's actually quite nice here, you know? The Hollows don't care for a skinny old twig like me. I've got Yulia...And nobody pelts me with stones anymore. You're Undead, you know how it is. I was treated worse back at home."
+380011,Undeadman,"Menu-Choose ""Talk"" 7th time","Eh? My wares? Of course they're stolen; what did you think? And when you lose your head, I'll sell it all again! Nee hee hee hee hee!"
+380012,Undeadman,"Menu-Choose ""Leave"" 1st time without purchasing something","Hmph! Cheap bastard. Right, Yulia?"
+380013,Undeadman,"Menu-Choose ""Leave"" 2nd time without purchasing something","Tsk! Throw me a bone, will you? You haven't got much time anyway. Right, Yulia?"
+380014,Undeadman,"Menu-Choose ""Leave"" 3rd time without purchasing something",Hmph. What a waste of time. Go and fall off a cliff.
+380015,Undeadman,"Menu-Choose ""Leave"" 1st time after purchasing something",Thank you kindly. Nee hee hee hee hee!
+380016,Undeadman,"Menu-Choose ""Leave"" 2nd time after purchasing something","Ah, thank you, very much. Come back soon! Nee hee hee hee hee!"
+380017,Undeadman,After leaving abruptly,"Hey, what! What's the matter?"
+380018,Undeadman,Talk-After leaving abruptly,"What was that about? Oh, nevermind."
+380019,Undeadman,Upon being attacked-1st time,Eeg!
+380020,Undeadman,Upon being attacked-2nd time,Yeowch!
+380021,Undeadman,Upon being attacked-3rd time,"Oi, what's this about?"
+380022,Undeadman,Upon being attacked-4th time,"It's me! Stop it, I tell you!"
+380023,Undeadman,Upon being attacked & made hostile,"You've gone mad, have you!? I'll teach you! You lousy rat! Yulia! Yulia!"
+380024,Undeadman,Upon dying,"Why, me... Little Yulia..."
+390001,Undeadwoman,Talk-1st time,"Hmm, you still have your senses about you? Then why won't you buy some of my moss? I need your souls! Vee hee hee!"
+390002,Undeadwoman,Talk-2nd time,"Oh, there you are, dearie! A pleasure to see you again. Vee hee hee!"
+390003,Undeadwoman,Talk-3rd time,"Oh, there you are, dearie! I have moss; now dish up some souls! Vee hee hee!"
+390004,Undeadwoman,Talk-After leaving & returning to Undead Burg,"Oh, hello, dearie. You left me high and dry for a while, there. I thought maybe you'd forgotten about me. Are you back for more of my moss, then? Plenty of it here. Freshly peeled, just for you! Vee hee hee!"
+390005,Undeadwoman,"Menu-Choose ""Talk"" 1st time","You've come to this land at a bad time. There are nothing but Hollows in these parts. Save for me, of course. You're Undead, too, aren't you? You be careful, then. Vee hee hee!"
+390006,Undeadwoman,"Menu-Choose ""Talk"" 2nd time","Ah, go down along the side to reach the depths of the Undead Burg. Only unkempt crooks and liars to be found there. Hardly a place for a lady like myself! But who knows, maybe you'd fit right in? Vee hee hee hee hee!"
+390007,Undeadwoman,"Menu-Choose ""Talk"" 3rd time","This is a wonderful place, don't you think? We have water, moss, moisture, these nice iron bars... I like it here, I really do. Nothing good ever happened to me in life. But now that I'm Undead, I've never been happier!"
+390008,Undeadwoman,"Menu-Choose ""Talk"" 4th time","I forage moss. In the lower areas of this town, you'll find all kinds of poison and pestilence. You can't travel a stone's toss without some trusty moss. Make sure you take plenty with you! Vee hee hee!"
+390009,Undeadwoman,"Menu-Choose ""Talk"" 5th time","Tell me honestly... You think I've gone to the other side, don't you? That I've cracked my head and gone Hollow... You do, don't you? I can see it in your eyes. You'd trust a patch of moss over me..."
+390010,Undeadwoman,"Menu-Choose ""Leave"" 1st time without purchasing something",Drat. What a humdrum lad you are. What a humdrum lass you are.
+390011,Undeadwoman,"Menu-Choose ""Leave"" 2nd time without purchasing something","Hmph, fine, then. But you'll regret it."
+390012,Undeadwoman,"Menu-Choose ""Leave"" 3rd time without purchasing something","Are you toying with me? One day, your fate will catch up with you. I have a sense for these things... The Gods above are watching you!"
+390013,Undeadwoman,"Menu-Choose ""Leave"" 1st time after purchasing something","Come again, if you please! Vee hee hee!"
+390014,Undeadwoman,"Menu-Choose ""Leave"" 2nd time after purchasing something",Much obliged. I think I like you! Vee hee hee hee hee!
+390015,Undeadwoman,After leaving abruptly,Don't run off!
+390016,Undeadwoman,Talk-After leaving abruptly,What's the matter with you! Don't you toy with my nerves!
+390017,Undeadwoman,Upon being attacked-1st time,"Why, you!"
+390018,Undeadwoman,Upon being attacked-2nd time,Stop that!
+390019,Undeadwoman,Upon being attacked-3rd time,Ouch!
+390020,Undeadwoman,Upon being attacked-4th time,Eeek!
+390021,Undeadwoman,Upon being attacked & made hostile,"What do you think you're doing?! I have my pride, you damn fool! You think you can get away with murder? Yes, I suppose you think you're special! Well, you're not! You're just another customer! Burn! Burn in hell! You cross-eyed Hollow! There's no hope for anyone like you! The Gods will not have it! Die! Die! Die! Die! Die a thousand times again! Curses upon you! Upon you, and yours, for generations eternal! All of you! Eternal pain and suffering! Lots and lots!"
+390022,Undeadwoman,Upon dying,A curse upon you...
+400001,Vamos,After falling through the hole leading into Vamos' chamber,...Be gone with you! ...You'll spoil my focus.
+400002,Vamos,Talk,"...What's that, then? Need some smithing? Then produce me some wares!"
+400003,Vamos,"Menu-Choose ""Talk"" 1st time","...Hmph! I'm here to smith, not to chit chat."
+400004,Vamos,"Menu-Choose ""Talk"" 2nd time","...I've told you, I'm here for the trade, not for the talk!"
+400005,Vamos,"Menu-Choose ""Talk"" 3rd time",Enough with your presence. It disturbs me.
+400006,Vamos,"Menu-Choose ""Talk"" 4th time","Well, you are a persistent one, are you not? But I'm afraid I'm a mere blacksmith, it's just me and my trade. I would be of no help to a righteous warrior such as yourself."
+400007,Vamos,"Menu-Choose ""Talk"" 5th time, after defeating the Gaping Dragon","I've told you, I have nothing to discuss... If I have anything to offer, it's my smithing, and nothing more. I'd be of more help with that ember from New Londo, of course... It's a shame the whole place was flooded..."
+400008,Vamos,"Menu-Choose ""Talk"" 6th time after defeating Chaos Witch Quelaag","I've told you, I have nothing to discuss... If I have anything to offer, it's my smithing, and nothing more. Speaking honestly, I must say that I'm at my very limit. There's no more work to be done. Ahh, unless I had the flame of that legendary witch... But that would require a visit to Lost Izalith. Impossible..."
+400009,Vamos,Talk-After finding the Large Flame Ember,"...Hmph? Why, is that... ...An ember from New Londo... ...And a fine ember it be... What do you say? Why not leave it with me? I'll give you a flame to feast your eyes upon."
+400010,Vamos,"Choose ""No"" to giving the Large Flame Ember","Hmm, hmm, yes, yes, I see... Well, do not hesitate if you should change your mind..."
+400011,Vamos,"Choose ""Yes"" to giving the Large Flame Ember","Yes, yes, very well! We'll get these old bones to work! Keh heh heh!"
+400012,Vamos,Talk-After finding the Chaos Flame Ember,"...Hmph? Why, that's... ...an ember unlike any that I have seen... ...a very curious pattern... ...Could it be the flame of the legendary witch? ...I know! Suppose you left that ember with me? Old Vamos would never let you down, no, not ever!"
+400013,Vamos,"Choose ""No"" to giving the Chaos Flame Ember","Hmm, hmm...Fine, then... I doubt you'd even...bah, forget it... These bones won't fail me anytime soon. I'll come across another, eventually..."
+400014,Vamos,"Choose ""Yes"" to giving the Chaos Flame Ember","Keh heh heh heh heh! Yes, splendid, splendid indeed! ...My, oh, my! You precious little thing..."
+400015,Vamos,Talk-After finding an ember Vamos cannot use,"...Hmph? Why, you have... ...an ember, do you? Ahh, forget about it. I don't deal with that kind. What has gone wrong with embers these days?"
+400016,Vamos,"Menu-Choose ""Leave"" without purchasing something","Well, what was that about? Don't be coming around here without a good reason!"
+400017,Vamos,"Menu-Choose ""Leave"" after purchasing something","If that'll be all, then be gone with you! ...You'll spoil my focus."
+400018,Vamos,After leaving abruptly,Now where've you gone?
+400019,Vamos,Talk-After leaving abruptly,"...You've got rotten manners. If it be smithing you need, then produce your wares."
+400020,Vamos,Upon being attacked-1st time,Bah!
+400021,Vamos,Upon being attacked-2nd time,You rotten scoundrel!
+400022,Vamos,Upon being attacked & made hostile,"Trying to cause trouble, are you? I am Vamos the blacksmith, and I'm no bag of bones!"
+400023,Vamos,Upon dying,Curses...
+410001,Vince,Talk-1st time,Hm? What have we here? You look awfully raggedy... Times are grim; the least you can do is look sharp. Don't you dare meet M'lady like that. You might scare her off for good!
+410002,Vince,Talk-2nd time,"Oh, you again. What business have you? I don't suppose we can help, though. We accompany M'lady on her righteous mission. It is quite a chore, but I'm stuck with her, and Nico, too. I can't very well abandon them now."
+410003,Vince,"Talk-3rd time, after resting at a Bonfire","Oh, you yet again. You're a persistent one, aren't you? Hah hah hah. Honestly, I don't have a problem with your kind. But there's not very much that I can do. I am Vince of Thorolund. Let's say a word, for our safety. A prayer to our marvellous Lord. Vereor Nox"
+410004,Vince,Talk-After talking with Petrus and exhausting his dialogue,"Oh, it's you? We are to leave momentarily. The Catacombs aren't exactly my idea of a good time, but... What can one do? I do hope we meet again. Vereor Nox"
+410005,Vince,Upon being attacked-1st time,Egads!
+410006,Vince,Upon being attacked-2nd time,What the!
+410007,Vince,Upon being attacked & made hostile,Curses! What the devil's wrong with you? I cannot overlook a threat to M'lady! I'll grind you into dust!
+410008,Vince,Upon dying,By the Gods... ...My...dear lady...
+420001,Alvina,Talk-1st time,"Is it not so that thou art new. Thou fared well to find me. But cometh thee not for the grave of Sir Artorias? My advice true, forget this! The legend of Artorias art none but a fabrication. ...Traversing the dark? 'Tis but a fairy tale. Have thine own respect, go not yonder knocking for nothing, I say!"
+420002,Alvina,"Choose ""No"" to the 1st query","Hmm, I see. A result most heathenish and gross. Then there is nothing more to say about this tedious reckoning. Be gone from here. Pernicious caitiff."
+420003,Alvina,"Choose ""Yes"" to the 1st query","Well indeed, thou art a strange one! Nevertheless, I feel some liking for thee. I'm Alvina of the Darkroot Wood. I command a clan of hunters who track down defilers of the forest graves. What dost thou say? Wilt thou not join us? Oh yes, I believe we would suit thee well."
+420004,Alvina,"Choose ""No"" to the 2nd or 3rd query","Oh, I see. 'Tis a pity indeed. But this is thine stubborn choice alone. I cannot enforce it upon thee. If thine mind should be alter'd, forsooth speak to me once more."
+420005,Alvina,"Talk- After choosing ""No"" to the 2nd or 3rd query","Oh, thou art here. Tell me thou hast thought on't once more and will join us?"
+420006,Alvina,"Choose ""Yes"" to the 2nd or 3rd query","I am very glad! And now thou art one of us! Let us establish a Covenant. And here, taketh this ring. If thou weareth that ring, it allows for thine summoning. If mine senses reveal intruders, then I will summon thee. Fend them off sir, I beseech only this. I shall summon others, who will by their honour work tirelessly with thee. Thou shalt receive great reward, and whatsoever ye shall pillage will be thine own. A true agreement, not so? But thou must heed the golden rule... The clan is thine own family. To thine kinsmen forever stay true. Dare'st not in any attempt to double-cross. Have no doubt, such wretchedness, never will we tolerate."
+420007,Alvina,Talk-As A member of the Forest Hunters Covenant,"Ah, thou dost cometh. How fares ye? My hopes for thee are of the highest. Do not such a hope shatter with foul disproportion."
+420008,Alvina,Talk-After vanquishing first Forest Invader as a Forest Hunters Member,"Ah yes, here is thine reward. It is for thee, take it! Make no attempt to show thineself as Hollow!"
+420009,Alvina,Talk-After vanquishing 3 Forest Invader as a Forest Hunters Member,"Oh, thou art present! Shiva hath spoken of thee. I like that which I hear! I have heard murmuring about thee. I like that which I hear! I felt of thou indeed as a special one! The very moment mine eyes first set upon thee. Here's a precious reward. It is for thee, take it. May thine skill earn thee many more!"
+420010,Alvina,Talk-After vanquishing 4 Forest Invader as a Forest Hunters Member,"Perchance... Hast thou met Shiva? A lad cometh from the far East, strong of arm; now a clan leader of ours. ...And yet... Still I feel that boy hides something. Of that I am certain. Small fear that he will use us badly... Yet on guard we must stay. And that man that clingeth to Shiva like some shadow... ensure thou dost treat him with the same caution."
+420011,Alvina,After becoming hostile after betraying the Forest Hunters Covenant,"Oh, it is thee... Thine kinsmen are betrayed by thee. This doth bode most badly. No rest will ease thy rotten soul whilst there is one clansman living... Forever tormented thou shalt be by our very howls... Hellish villain, thou hast used us most foully, thine own family... For thee, no mercy shall be shown."
+420012,Alvina,Upon being attacked,"Dee hee hee, dee hee hee! What a fool we have, what a wretched fool we have!"
+430001,Anastacia,Talk,...
+430002,Anastacia,Talk-After returning her Fire Keeper Soul,"...Th, thank you... ...I am Anastacia of Astora. ...Now I can continue my duty as a Keeper. ...But... ...I only hope that my impure tongue does not offend."
+430003,Anastacia,"Menu-Choose ""Talk"" After returning her Fire Keeper Soul","...Forgive me... ...I am impure, my tongue never intended for restoration. ...Please, if you have any heart... ...Leave me be... ...I wish not to speak..."
+430004,Anastacia,Talk-After returning her Fire Keeper Soul & placing the Lordvessel for Frampt,"...That you have agreed to link the Fire. ...I thank you, sincerely. ...Finally, the curse of the Undead will be lifted, and I can die human. ...I am powerless, but I will do all that I can. ...Please, save us all... ...Please..."
+440001,Andre,Talk-1st time,"Well, you must be a new arrival. I'm Andre, of Astora. If you require smithing, then speak to me."
+440002,Andre,Talk-2nd time,"Well, hello again. You seem to be doing all right. Need anything forged?"
+440003,Andre,"Menu-Choose ""Talk"" 1st time","Most weapons and armour are mighty sturdy indeed. But every hunk of metal has its breaking point. If you notice durability running low, it's time to repair. You can ask a blacksmith like meself, or do it on your own with a grindstone. The nice thing about weapons... they never betray you. So, pay them a little respect, eh?"
+440004,Andre,"Menu-Choose ""Talk"" 2nd time","There are two types of weapon forging. There's reinforcement, and there's ascension. Reinforcement is simple. It strengthens the weapon and nothing more. A simple task for any blacksmith. Hell, you could even do it yourself with a smithbox. But ascension's a finer art. It alters a weapon's properties. Ascension is the territory of we blacksmiths; a smithbox just won't do the trick. Start out with reinforcement. When that loses its charm, you can consider ascension. As you've noticed, this land is flush with the mad and wicked. You won't make it through the night without employing my services! Hah hah hah!"
+440005,Andre,"Menu-Choose ""Talk"" 3rd time","You can forge armour just like you do weapons. Forging armour is even easier than forging weapons. Whether you forge weapons or armour first? Well, that's up to you. But nobody wants to see you go Hollow. So, whatever you do, you'd better do it well! Hah hah hah!"
+440006,Andre,"Menu-Choose ""Talk"" 4rd time, after resting at a Bonfire","This is the old church. It was abandoned in favour of the church that you passed through. There are paths leading from here to two forbidden planes: Sen's Fortress, and the Darkroot Garden. They attract all sorts of lunatics, no-one as cultured as yourself. It's fine to be Undead, but keep a level head, eh? Hah hah hah!"
+440007,Andre,"Menu-Choose ""Talk"" 5rd time, after resting at a Bonfire","Sen's Fortress is an old proving grounds built by the ancient gods. It is the only route leading to the great Anor Londo. Of course, most fools can't even find their way into that fortified deathtrap. But they won't stop trying! Take that bumbling Sir Onion... Hah hah hah!"
+440008,Andre,"Menu-Choose ""Talk"" 6rd time, after resting at a Bonfire",I know little of the Darkroot Garden. Although I've heard rumours of a divine blacksmith who resides there. Those who get stumped in the Catacombs seek him for divine weapons.
+440009,Andre,"Menu-Choose ""Talk"" 6rd time, after opening the floodgates in New Londo","Oh, yes, and one other thing about the Darkroot Garden. It is said to house the grave of Sir Artorias the Abysswalker. Only, of those who ventured into the forest, none has returned."
+440010,Andre,Talk-After obtaining the Large Ember,"Ahh, why, that's a fine ember you have there. I could smith some mighty weapons with one of those. Why not lend it to me?"
+440011,Andre,"Choose ""No"" to giving the Large Ember",I see...'Tis a pity...
+440012,Andre,"Choose ""Yes"" to giving the Large Ember",Magnificent! You won't be disappointed. I can hardly wait to get started...
+440013,Andre,Talk-After obtaining the Very Large Ember,"Well, I'll be! That's a brilliant ember you've got there! For all my years in the trade, that might be the finest! How's about...you leave that ember with me? I'm just an old smith. I'd give my left arm for a gem like that!"
+440014,Andre,"Choose ""No"" to giving the Very Large Ember","I see...'Tis a pity... But perhaps you'd... No, no, it's quite all right... Quite all right, indeed..."
+440015,Andre,"Choose ""Yes"" to giving the Very Large Ember","Well! Thank you mightily for that. Now, just leave the rest to me. Andre of Astora gets the job done, you shall see!"
+440016,Andre,Talk-After obtaining the Divine Ember,"My, that's a rare ember you have there. I've seen one of those before... It's the ember of a divine blacksmith. Might you consider leaving that with me? I could produce divine weapons with a flame such as that."
+440017,Andre,"Choose ""No"" to giving the Divine Ember",I see...'Tis a pity...
+440018,Andre,"Choose ""Yes"" to giving the Divine Ember","Well, thanks for that! You've made a fine decision. You soon shall see!"
+440019,Andre,Talk-After obtaining the Large Divine Ember,"Oh, my, what a brilliant ember you have there. I've only heard legends of such specimens... The embers used for the secret rites of divine blacksmiths... Perhaps you could lend it to me? I've long dreamed of forging divine weapons..."
+440020,Andre,"Choose ""No"" to giving the Large Divine Ember",I see...'Tis a pity... I can't expect you to give up what's yours.
+440021,Andre,"Choose ""Yes"" to giving the Large Divine Ember","Ah-hah! Splendid, splendid! Thank you! Andre of Astora never disappoints, I assure you!"
+440022,Andre,Talk-After obtaining the Dark Ember,"Hrm? Show me that ember of yours... Well, I've never heard of a black ember. Hmmm... How about leaving that ember with me? I find it strangely fascinating.."
+440023,Andre,"Choose ""No"" to giving the Dark Ember","Are you sure? Well, fair enough. Tis a pity, but I'll live."
+440024,Andre,"Choose ""Yes"" to giving the Dark Ember","Yes, well! Thank you. This ember really is something special. I'm already under its spell. I sense great potential, indeed..."
+440025,Andre,Talk-While holding an ember he cannot use,"Hmm, that's an odd ember you have there. Ahh, I know what you're thinking. But I'm no good with those. It won't be easy, but... I'm afraid you'll have to look for someone else."
+440026,Andre,"Menu-Choose ""Leave"" after purchasing something",Don't get yourself killed. Neither of us want to see you go Hollow.
+440027,Andre,"Menu-Choose ""Leave"" without purchasing something","I'll be seeing you, then. Be careful out there."
+440028,Andre,After leaving abruptly,"Oi, where're you off to?"
+440029,Andre,Talk-After leaving abruptly,"What's going on with you, eh? I thought you'd gone Hollow there. Hah hah hah!"
+440030,Andre,Upon being attacked-1st time,Ow!
+440031,Andre,Upon being attacked-2nd time,"Owww, that hurts!"
+440032,Andre,Upon being attacked & made hostile,"Well, you've got some nerve! Coming at me like that! I'll tear you to shreds! You bloody Hollow!"
+440033,Andre,Upon dying,"Curses, you damn backstabber..."
